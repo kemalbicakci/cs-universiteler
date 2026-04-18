@@ -1,8 +1,9 @@
 import { useState, useMemo } from 'react'
 import { textbooks, categoryColors } from '../data/textbooks'
+import { orderCategories } from '../data/categories'
 
 const MAX_USAGE = Math.max(...textbooks.map(b => b.usageCount))
-const CATEGORIES = ['Tümü', ...new Set(textbooks.map(b => b.category))]
+const CATEGORIES = ['Tümü', ...orderCategories([...new Set(textbooks.map(b => b.category))])]
 const OPEN_ACCESS_COUNT = textbooks.filter(b => b.openAccess).length
 
 export default function Textbooks() {

@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react'
 import { useParams, Link, Navigate } from 'react-router-dom'
 import { universities, categoryColors } from '../data/universities'
 import { textbooks } from '../data/textbooks'
+import { orderCategories } from '../data/categories'
 
 // Build a map: category → top textbook (by usageCount)
 const TOP_BOOK_BY_CATEGORY = (() => {
@@ -21,14 +22,29 @@ export default function UniversityDetail() {
 
   const categories = useMemo(() => {
     if (!uni) return []
-    return ['Tümü', ...new Set(uni.courses.map(c => c.category))]
+    return ['Tümü', ...orderCategories([...new Set(uni.courses.map(c => c.category))])]
   }, [uni])
 
-  const filteredCourses = useMemo(() => {
+  const sortedCourses = useMemo(() => {
     if (!uni) return []
-    if (activeCategory === 'Tümü') return uni.courses
-    return uni.courses.filter(c => c.category === activeCategory)
-  }, [uni, activeCategory])
+    // Order courses by canonical category order, preserving original order within a category.
+    const catOrder = Object.fromEntries(
+      categories.filter(c => c !== 'Tümü').map((c, i) => [c, i])
+    )
+    return [...uni.courses]
+      .map((c, i) => ({ c, i }))
+      .sort((a, b) => {
+        const ai = catOrder[a.c.category] ?? 999
+        const bi = catOrder[b.c.category] ?? 999
+        return ai - bi || a.i - b.i
+      })
+      .map(x => x.c)
+  }, [uni, categories])
+
+  const filteredCourses = useMemo(() => {
+    if (activeCategory === 'Tümü') return sortedCourses
+    return sortedCourses.filter(c => c.category === activeCategory)
+  }, [sortedCourses, activeCategory])
 
   if (!uni) return <Navigate to="/universiteler" replace />
 
