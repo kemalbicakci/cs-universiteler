@@ -2,7 +2,6 @@ import { useState, useMemo } from 'react'
 import { textbooks, categoryColors } from '../data/textbooks'
 import { orderCategories } from '../data/categories'
 
-const MAX_USAGE = Math.max(...textbooks.map(b => b.usageCount))
 const CATEGORIES = ['Tümü', ...orderCategories([...new Set(textbooks.map(b => b.category))])]
 const OPEN_ACCESS_COUNT = textbooks.filter(b => b.openAccess).length
 
@@ -174,18 +173,6 @@ export default function Textbooks() {
                         )}
                       </div>
 
-                      <div className="usage-bar-container">
-                        <span className="usage-label">{book.usageCount}+ üniversite</span>
-                        <div className="usage-bar">
-                          <div
-                            className="usage-fill"
-                            style={{
-                              width: `${(book.usageCount / MAX_USAGE) * 100}%`,
-                              background: `linear-gradient(90deg, ${book.coverColor}, ${book.coverColor}aa)`,
-                            }}
-                          />
-                        </div>
-                      </div>
                     </div>
 
                     {/* Universities using this book */}

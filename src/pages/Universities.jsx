@@ -90,7 +90,7 @@ export default function Universities() {
                     <span className="uni-meta-item">📅 Kur. {uni.founded}</span>
                   </div>
                   <div className="uni-course-count">
-                    📖 {uni.courses.length} zorunlu ders · Müfredatı gör →
+                    📖 {uni.courses.length} ders · Müfredatı gör →
                   </div>
                 </div>
               </Link>

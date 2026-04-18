@@ -80,7 +80,7 @@ export default function Home() {
                   <span className="uni-meta-item">🌍 {uni.country}</span>
                 </div>
                 <div className="uni-course-count">
-                  📖 {uni.courses.length} zorunlu ders
+                  📖 {uni.courses.length} ders
                 </div>
               </div>
             </Link>
