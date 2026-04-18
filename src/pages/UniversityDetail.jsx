@@ -105,8 +105,8 @@ export default function UniversityDetail() {
           {filteredCourses.map((course, i) => {
             const color = categoryColors[course.category] || '#718096'
             const book = TOP_BOOK_BY_CATEGORY[course.category]
-            return (
-              <div key={i} className="course-card">
+            const cardInner = (
+              <>
                 <div className="course-dot" style={{ background: color }} />
                 <div className="course-info">
                   <div className="course-code">{course.code}</div>
@@ -123,28 +123,46 @@ export default function UniversityDetail() {
                       {course.category}
                     </span>
                     {book && (
-                      book.url ? (
-                        <a
-                          href={book.url}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="course-book-link"
-                          title={`${book.title} — ${book.shortAuthors}`}
-                        >
-                          📖 {book.shortAuthors} ↗
-                        </a>
-                      ) : (
-                        <Link
-                          to="/kitaplar"
-                          className="course-book-link"
-                          title={`${book.title} — ${book.shortAuthors}`}
-                        >
-                          📖 {book.shortAuthors}
-                        </Link>
-                      )
+                      <span
+                        className="course-book-link"
+                        title={`${book.title} — ${book.shortAuthors}`}
+                      >
+                        📖 {book.shortAuthors}{book.url ? ' ↗' : ''}
+                      </span>
                     )}
                   </div>
                 </div>
+              </>
+            )
+            if (book && book.url) {
+              return (
+                <a
+                  key={i}
+                  href={book.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="course-card course-card-link"
+                  title={`${book.title} — ${book.shortAuthors}`}
+                >
+                  {cardInner}
+                </a>
+              )
+            }
+            if (book) {
+              return (
+                <Link
+                  key={i}
+                  to="/kitaplar"
+                  className="course-card course-card-link"
+                  title={`${book.title} — ${book.shortAuthors}`}
+                >
+                  {cardInner}
+                </Link>
+              )
+            }
+            return (
+              <div key={i} className="course-card">
+                {cardInner}
               </div>
             )
           })}

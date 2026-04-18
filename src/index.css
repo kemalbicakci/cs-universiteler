@@ -593,6 +593,23 @@ button { cursor: pointer; font-family: inherit; }
 
 .course-card:hover { box-shadow: var(--shadow-md); }
 
+.course-card-link {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.course-card-link:hover {
+  border-color: var(--primary);
+  transform: translateY(-1px);
+}
+
+.course-card-link:hover .course-book-link {
+  background: var(--primary);
+  color: #fff;
+  border-color: var(--primary);
+}
+
 .course-dot {
   width: 10px;
   height: 10px;
