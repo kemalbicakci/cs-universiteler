@@ -101,7 +101,18 @@ export default function Textbooks() {
                   <div className="book-content">
                     <div className="book-header">
                       <div className="book-title-area">
-                        <div className="book-title">{book.title}</div>
+                        {book.url ? (
+                          <a
+                            href={book.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="book-title book-title-link"
+                          >
+                            {book.title} ↗
+                          </a>
+                        ) : (
+                          <div className="book-title">{book.title}</div>
+                        )}
                         {book.subtitle && (
                           <div className="book-subtitle">{book.subtitle}</div>
                         )}
@@ -167,19 +178,53 @@ export default function Textbooks() {
                       </summary>
                       <div style={{ marginTop: 10, display: 'flex', gap: 6, flexWrap: 'wrap' }}>
                         {book.usedAt.map(u => (
-                          <span
-                            key={u}
-                            style={{
-                              fontSize: '0.72rem',
-                              padding: '2px 8px',
-                              background: 'var(--bg)',
-                              border: '1px solid var(--border)',
-                              borderRadius: 20,
-                              color: 'var(--text-light)',
-                            }}
-                          >
-                            {u}
-                          </span>
+                          u.url ? (
+                            <a
+                              key={u.name}
+                              href={u.url}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              style={{
+                                fontSize: '0.72rem',
+                                padding: '2px 8px',
+                                background: 'var(--bg)',
+                                border: '1px solid var(--border)',
+                                borderRadius: 20,
+                                color: 'var(--primary)',
+                                textDecoration: 'none',
+                                display: 'inline-flex',
+                                alignItems: 'center',
+                                gap: 3,
+                                transition: 'background 0.15s, border-color 0.15s',
+                              }}
+                              onMouseEnter={e => {
+                                e.currentTarget.style.background = 'var(--primary)'
+                                e.currentTarget.style.color = '#fff'
+                                e.currentTarget.style.borderColor = 'var(--primary)'
+                              }}
+                              onMouseLeave={e => {
+                                e.currentTarget.style.background = 'var(--bg)'
+                                e.currentTarget.style.color = 'var(--primary)'
+                                e.currentTarget.style.borderColor = 'var(--border)'
+                              }}
+                            >
+                              {u.name} ↗
+                            </a>
+                          ) : (
+                            <span
+                              key={u.name}
+                              style={{
+                                fontSize: '0.72rem',
+                                padding: '2px 8px',
+                                background: 'var(--bg)',
+                                border: '1px solid var(--border)',
+                                borderRadius: 20,
+                                color: 'var(--text-light)',
+                              }}
+                            >
+                              {u.name}
+                            </span>
+                          )
                         ))}
                       </div>
                     </details>
