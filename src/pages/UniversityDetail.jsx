@@ -142,74 +142,96 @@ export default function UniversityDetail() {
           )})}
         </div>
 
-        {/* Courses grid */}
-        <div className="courses-grid">
-          {filteredCourses.map((course, i) => {
-            const color = categoryColors[course.category] || '#718096'
-            const book = TOP_BOOK_BY_CATEGORY[course.category]
-            const cardInner = (
-              <>
-                <div className="course-dot" style={{ background: color }} />
-                <div className="course-info">
-                  <div className="course-code">{course.code}</div>
-                  <div className="course-name">{course.name}</div>
-                  <div className="course-footer">
-                    <span
-                      className="course-badge"
-                      style={{
-                        background: color + '18',
-                        color: color,
-                        border: `1px solid ${color}33`,
-                      }}
-                    >
-                      {course.category}
-                    </span>
-                    {book && (
-                      <span
-                        className="course-book-link"
-                        title={`${book.title} — ${book.shortAuthors}`}
-                      >
-                        📖 {book.shortAuthors}{book.url ? ' ↗' : ''}
-                      </span>
-                    )}
-                  </div>
-                </div>
-              </>
-            )
-            if (book && book.url) {
-              return (
-                <a
-                  key={i}
-                  href={book.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="course-card course-card-link"
-                  title={`${book.title} — ${book.shortAuthors}`}
-                >
-                  {cardInner}
-                </a>
-              )
-            }
-            if (book) {
-              return (
-                <Link
-                  key={i}
-                  to="/kitaplar"
-                  className="course-card course-card-link"
-                  title={`${book.title} — ${book.shortAuthors}`}
-                >
-                  {cardInner}
-                </Link>
-              )
-            }
-            return (
-              <div key={i} className="course-card">
-                {cardInner}
+        {/* Courses grouped by year */}
+        {YEAR_SECTIONS.map(({ key, label }) => {
+          const yearCourses = filteredCourses.filter(c => (c.year ?? 'elective') === key)
+          if (yearCourses.length === 0) return null
+          return (
+            <section key={key} className="year-section">
+              <div className="year-header">
+                <h3 className="year-title">{label}</h3>
+                <span className="year-count">{yearCourses.length} ders</span>
               </div>
-            )
-          })}
+              <div className="courses-grid">
+                {yearCourses.map((course, i) => renderCourseCard(course, i))}
+              </div>
+            </section>
+          )
+        })}
+      </div>
+    </div>
+  )
+}
+
+const YEAR_SECTIONS = [
+  { key: 1, label: '1. Sınıf' },
+  { key: 2, label: '2. Sınıf' },
+  { key: 3, label: '3. Sınıf' },
+  { key: 4, label: '4. Sınıf' },
+  { key: 'elective', label: 'Seçmeli' },
+]
+
+function renderCourseCard(course, i) {
+  const color = categoryColors[course.category] || '#718096'
+  const book = TOP_BOOK_BY_CATEGORY[course.category]
+  const cardInner = (
+    <>
+      <div className="course-dot" style={{ background: color }} />
+      <div className="course-info">
+        <div className="course-code">{course.code}</div>
+        <div className="course-name">{course.name}</div>
+        <div className="course-footer">
+          <span
+            className="course-badge"
+            style={{
+              background: color + '18',
+              color: color,
+              border: `1px solid ${color}33`,
+            }}
+          >
+            {course.category}
+          </span>
+          {book && (
+            <span
+              className="course-book-link"
+              title={`${book.title} — ${book.shortAuthors}`}
+            >
+              📖 {book.shortAuthors}{book.url ? ' ↗' : ''}
+            </span>
+          )}
         </div>
       </div>
+    </>
+  )
+  if (book && book.url) {
+    return (
+      <a
+        key={i}
+        href={book.url}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="course-card course-card-link"
+        title={`${book.title} — ${book.shortAuthors}`}
+      >
+        {cardInner}
+      </a>
+    )
+  }
+  if (book) {
+    return (
+      <Link
+        key={i}
+        to="/kitaplar"
+        className="course-card course-card-link"
+        title={`${book.title} — ${book.shortAuthors}`}
+      >
+        {cardInner}
+      </Link>
+    )
+  }
+  return (
+    <div key={i} className="course-card">
+      {cardInner}
     </div>
   )
 }

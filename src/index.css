@@ -478,6 +478,32 @@ button { cursor: pointer; font-family: inherit; }
 .chip:hover { border-color: var(--primary-light); color: var(--primary); }
 .chip.active { background: var(--primary); color: white; border-color: var(--primary); }
 
+.year-section {
+  margin-bottom: 32px;
+}
+
+.year-header {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin: 16px 0 12px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid var(--border);
+}
+
+.year-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--primary-dark);
+  margin: 0;
+}
+
+.year-count {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
 .curriculum-source-link {
   display: inline-flex;
   align-items: center;
