@@ -3,10 +3,12 @@ import { textbooks, categoryColors } from '../data/textbooks'
 
 const MAX_USAGE = Math.max(...textbooks.map(b => b.usageCount))
 const CATEGORIES = ['Tümü', ...new Set(textbooks.map(b => b.category))]
+const OPEN_ACCESS_COUNT = textbooks.filter(b => b.openAccess).length
 
 export default function Textbooks() {
   const [search, setSearch] = useState('')
   const [category, setCategory] = useState('Tümü')
+  const [openAccessOnly, setOpenAccessOnly] = useState(false)
 
   const filtered = useMemo(() => {
     return textbooks.filter(b => {
@@ -15,9 +17,10 @@ export default function Textbooks() {
         b.shortAuthors.toLowerCase().includes(search.toLowerCase()) ||
         b.category.toLowerCase().includes(search.toLowerCase())
       const matchCat = category === 'Tümü' || b.category === category
-      return matchSearch && matchCat
+      const matchOA = !openAccessOnly || b.openAccess
+      return matchSearch && matchCat && matchOA
     })
-  }, [search, category])
+  }, [search, category, openAccessOnly])
 
   return (
     <div className="page">
@@ -37,6 +40,19 @@ export default function Textbooks() {
           value={search}
           onChange={e => setSearch(e.target.value)}
         />
+        <label
+          className={'oa-toggle' + (openAccessOnly ? ' active' : '')}
+          title="Sadece ücretsiz ve yasal olarak erişilebilen kitapları göster"
+        >
+          <input
+            type="checkbox"
+            checked={openAccessOnly}
+            onChange={e => setOpenAccessOnly(e.target.checked)}
+          />
+          <span className="oa-toggle-icon">{openAccessOnly ? '✓' : ''}</span>
+          <span>Sadece açık erişim</span>
+          <span className="oa-toggle-badge">{OPEN_ACCESS_COUNT}</span>
+        </label>
       </div>
 
       {/* Category chips */}
