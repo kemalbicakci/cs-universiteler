@@ -478,6 +478,18 @@ button { cursor: pointer; font-family: inherit; }
 .chip:hover { border-color: var(--primary-light); color: var(--primary); }
 .chip.active { background: var(--primary); color: white; border-color: var(--primary); }
 
+.chip.chip-empty {
+  opacity: 0.35;
+  cursor: not-allowed;
+  background: var(--bg);
+  color: var(--text-muted);
+  border-color: var(--border);
+}
+.chip.chip-empty:hover {
+  border-color: var(--border);
+  color: var(--text-muted);
+}
+
 /* ── University Detail ── */
 .uni-detail-header {
   background: linear-gradient(135deg, var(--primary-dark), var(--primary));

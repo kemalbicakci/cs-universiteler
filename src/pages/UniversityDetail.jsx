@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react'
 import { useParams, Link, Navigate } from 'react-router-dom'
 import { universities, categoryColors } from '../data/universities'
 import { textbooks } from '../data/textbooks'
-import { orderCategories } from '../data/categories'
+import { CATEGORY_ORDER, orderCategories } from '../data/categories'
 
 // Build a map: category → top textbook (by usageCount)
 const TOP_BOOK_BY_CATEGORY = (() => {
@@ -20,9 +20,15 @@ export default function UniversityDetail() {
   const uni = universities.find(u => u.id === id)
   const [activeCategory, setActiveCategory] = useState('Tümü')
 
-  const categories = useMemo(() => {
-    if (!uni) return []
-    return ['Tümü', ...orderCategories([...new Set(uni.courses.map(c => c.category))])]
+  // All 23 categories always shown, in canonical order (same as Textbooks page).
+  const categories = useMemo(() => ['Tümü', ...CATEGORY_ORDER], [])
+
+  // Count of courses per category for this university (to dim empty chips).
+  const categoryCounts = useMemo(() => {
+    if (!uni) return {}
+    const counts = {}
+    uni.courses.forEach(c => { counts[c.category] = (counts[c.category] || 0) + 1 })
+    return counts
   }, [uni])
 
   const sortedCourses = useMemo(() => {
@@ -88,15 +94,22 @@ export default function UniversityDetail() {
 
         {/* Category filter */}
         <div className="category-filter">
-          {categories.map(cat => (
+          {categories.map(cat => {
+            const count = cat === 'Tümü' ? uni.courses.length : (categoryCounts[cat] || 0)
+            const empty = count === 0
+            return (
             <button
               key={cat}
-              className={'chip' + (activeCategory === cat ? ' active' : '')}
-              onClick={() => setActiveCategory(cat)}
+              className={'chip' + (activeCategory === cat ? ' active' : '') + (empty ? ' chip-empty' : '')}
+              onClick={() => { if (!empty) setActiveCategory(cat) }}
+              disabled={empty}
+              title={empty ? `Bu üniversitede ${cat} kategorisinde ders yok` : undefined}
               style={
                 activeCategory === cat || cat === 'Tümü'
                   ? {}
-                  : { borderColor: categoryColors[cat] + '44', color: categoryColors[cat] }
+                  : empty
+                    ? {}
+                    : { borderColor: categoryColors[cat] + '44', color: categoryColors[cat] }
               }
             >
               {cat !== 'Tümü' && (
@@ -106,14 +119,14 @@ export default function UniversityDetail() {
                     width: 8,
                     height: 8,
                     borderRadius: '50%',
-                    background: categoryColors[cat],
+                    background: empty ? '#cbd5e0' : categoryColors[cat],
                     marginRight: 5,
                   }}
                 />
               )}
               {cat}
             </button>
-          ))}
+          )})}
         </div>
 
         {/* Courses grid */}
