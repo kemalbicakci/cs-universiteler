@@ -3106,6 +3106,61 @@ export const textbooks = [
     ],
     pages: 768,
   },
+  {
+    id: "shirley-graphics",
+    rank: 51,
+    title: "Fundamentals of Computer Graphics",
+    subtitle: "",
+    authors: [
+      "Steve Marschner",
+      "Peter Shirley",
+    ],
+    shortAuthors: "Marschner & Shirley",
+    edition: "5. Baskı",
+    year: 2021,
+    publisher: "CRC Press",
+    isbn: "978-0367505035",
+    category: "Bilgisayar Grafikleri",
+    usageCount: 10,
+    url: "https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shirley/p/book/9780367505035",
+    openAccess: false,
+    description: "Bilgisayar grafiklerinin temel ders kitabı. Işın izleme, dönüşümler, gölgelendirme ve render teknikleri hem teorik hem pratik yönleriyle ele alınır.",
+    coverColor: "#b7791f",
+    usedAt: [
+      {
+        name: "Cornell (CS4620)",
+        url: "https://www.cs.cornell.edu/courses/cs4620/",
+      },
+      {
+        name: "Stanford (CS148)",
+        url: "https://graphics.stanford.edu/courses/cs148/",
+      },
+      {
+        name: "CMU (15-462)",
+        url: "http://15462.courses.cs.cmu.edu/",
+      },
+      {
+        name: "UC Berkeley (CS184)",
+        url: "https://cs184.eecs.berkeley.edu/",
+      },
+      {
+        name: "Princeton (COS426)",
+        url: "https://www.cs.princeton.edu/courses/archive/fall22/cos426/",
+      },
+      {
+        name: "Waterloo (CS488)",
+      },
+      {
+        name: "Toronto (CSC418)",
+      },
+    ],
+    courses: [
+      "Bilgisayar Grafikleri",
+      "Görselleştirme",
+      "Render Teknikleri",
+    ],
+    pages: 716,
+  },
 ];
 
 export const categoryColors = {
@@ -3131,4 +3186,5 @@ export const categoryColors = {
   "Kuvvetlendirmeli Öğrenme": "#7b341e",
   Kriptografi: "#1a365d",
   "Kuantum Hesaplama": "#134e4a",
+  "Bilgisayar Grafikleri": "#b7791f",
 };
