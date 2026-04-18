@@ -1,6 +1,18 @@
 import { useMemo, useState } from 'react'
 import { useParams, Link, Navigate } from 'react-router-dom'
 import { universities, categoryColors } from '../data/universities'
+import { textbooks } from '../data/textbooks'
+
+// Build a map: category → top textbook (by usageCount)
+const TOP_BOOK_BY_CATEGORY = (() => {
+  const byCat = {}
+  textbooks.forEach(b => {
+    if (!byCat[b.category] || byCat[b.category].usageCount < b.usageCount) {
+      byCat[b.category] = b
+    }
+  })
+  return byCat
+})()
 
 export default function UniversityDetail() {
   const { id } = useParams()
@@ -92,22 +104,46 @@ export default function UniversityDetail() {
         <div className="courses-grid">
           {filteredCourses.map((course, i) => {
             const color = categoryColors[course.category] || '#718096'
+            const book = TOP_BOOK_BY_CATEGORY[course.category]
             return (
               <div key={i} className="course-card">
                 <div className="course-dot" style={{ background: color }} />
                 <div className="course-info">
                   <div className="course-code">{course.code}</div>
                   <div className="course-name">{course.name}</div>
-                  <span
-                    className="course-badge"
-                    style={{
-                      background: color + '18',
-                      color: color,
-                      border: `1px solid ${color}33`,
-                    }}
-                  >
-                    {course.category}
-                  </span>
+                  <div className="course-footer">
+                    <span
+                      className="course-badge"
+                      style={{
+                        background: color + '18',
+                        color: color,
+                        border: `1px solid ${color}33`,
+                      }}
+                    >
+                      {course.category}
+                    </span>
+                    {book && (
+                      book.url ? (
+                        <a
+                          href={book.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="course-book-link"
+                          title={`${book.title} — ${book.shortAuthors}`}
+                        >
+                          📖 {book.shortAuthors} ↗
+                        </a>
+                      ) : (
+                        <Link
+                          to="/kitaplar"
+                          className="course-book-link"
+                          title={`${book.title} — ${book.shortAuthors}`}
+                        >
+                          📖 {book.shortAuthors}
+                        </Link>
+                      )
+                    )}
+                  </div>
                 </div>
               </div>
             )

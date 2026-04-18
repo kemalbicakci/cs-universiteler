@@ -620,12 +620,40 @@ button { cursor: pointer; font-family: inherit; }
 
 .course-badge {
   display: inline-block;
-  margin-top: 6px;
   font-size: 0.7rem;
   font-weight: 700;
   padding: 2px 8px;
   border-radius: 10px;
   opacity: 0.85;
+}
+
+.course-footer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+.course-book-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 10px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  color: var(--primary);
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.course-book-link:hover {
+  background: var(--primary);
+  color: #fff;
+  border-color: var(--primary);
 }
 
 /* ── Textbooks ── */
