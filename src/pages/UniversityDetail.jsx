@@ -86,7 +86,20 @@ export default function UniversityDetail() {
         </div>
 
         <div className="courses-header">
-          <h2 className="courses-title">Müfredat</h2>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 12, flexWrap: 'wrap' }}>
+            <h2 className="courses-title" style={{ margin: 0 }}>Müfredat</h2>
+            {uni.curriculumUrl && (
+              <a
+                href={uni.curriculumUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="curriculum-source-link"
+                title="Resmi müfredat kaynağı"
+              >
+                🎓 Resmi kaynak ↗
+              </a>
+            )}
+          </div>
           <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>
             {filteredCourses.length} ders gösteriliyor
           </span>

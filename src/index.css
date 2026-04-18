@@ -478,6 +478,27 @@ button { cursor: pointer; font-family: inherit; }
 .chip:hover { border-color: var(--primary-light); color: var(--primary); }
 .chip.active { background: var(--primary); color: white; border-color: var(--primary); }
 
+.curriculum-source-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 14px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  color: var(--primary);
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.curriculum-source-link:hover {
+  background: var(--primary);
+  color: #fff;
+  border-color: var(--primary);
+}
+
 .chip.chip-empty {
   opacity: 0.35;
   cursor: not-allowed;

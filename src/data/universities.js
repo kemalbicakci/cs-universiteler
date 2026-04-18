@@ -9,6 +9,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#A31F34",
     founded: 1861,
+    curriculumUrl: "https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/",
     description: "Dünyanın en prestijli mühendislik ve bilim üniversitesi.",
     courses: [
       {
@@ -168,6 +169,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#8C1515",
     founded: 1885,
+    curriculumUrl: "https://cs.stanford.edu/degrees/undergrad/Requirements.shtml",
     description: "Silikon Vadisi'nin kalbindeki dünya lideri araştırma üniversitesi.",
     courses: [
       {
@@ -322,6 +324,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#C41230",
     founded: 1900,
+    curriculumUrl: "https://www.cs.cmu.edu/bs-in-computer-science/curriculum",
     description: "Bilgisayar bilimi eğitiminde dünya standardı belirleyen üniversite.",
     courses: [
       {
@@ -476,6 +479,7 @@ export const universities = [
     flag: "🇸🇬",
     color: "#003D7C",
     founded: 1905,
+    curriculumUrl: "https://www.comp.nus.edu.sg/programmes/ug/cs/curr/",
     description: "Asya'nın önde gelen araştırma üniversitesi.",
     courses: [
       {
@@ -625,6 +629,7 @@ export const universities = [
     flag: "🇬🇧",
     color: "#002147",
     founded: 1096,
+    curriculumUrl: "https://www.cs.ox.ac.uk/teaching/courses/bacs/",
     description: "Dünyanın en eski üniversitelerinden biri, güçlü CS programıyla.",
     courses: [
       {
@@ -764,6 +769,7 @@ export const universities = [
     flag: "🇬🇧",
     color: "#003B6F",
     founded: 1209,
+    curriculumUrl: "https://www.cst.cam.ac.uk/teaching/part-ia",
     description: "Isaac Newton'ın da bulunduğu köklü İngiliz araştırma üniversitesi.",
     courses: [
       {
@@ -893,6 +899,7 @@ export const universities = [
     flag: "🇨🇭",
     color: "#1A1A1A",
     founded: 1855,
+    curriculumUrl: "https://www.inf.ethz.ch/studies/bachelor.html",
     description: "Avrupa'nın teknik açıdan önde gelen üniversitesi.",
     courses: [
       {
@@ -1027,6 +1034,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#A51C30",
     founded: 1636,
+    curriculumUrl: "https://www.seas.harvard.edu/computer-science/undergraduate-program",
     description: "Amerika'nın en köklü üniversitesi.",
     courses: [
       {
@@ -1151,6 +1159,7 @@ export const universities = [
     flag: "🇬🇧",
     color: "#500778",
     founded: 1826,
+    curriculumUrl: "https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc",
     description: "Londra'nın araştırma yoğun üniversitesi.",
     courses: [
       {
@@ -1280,6 +1289,7 @@ export const universities = [
     flag: "🇬🇧",
     color: "#003E74",
     founded: 1907,
+    curriculumUrl: "https://www.imperial.ac.uk/computing/current-students/courses/",
     description: "Bilim, mühendislik ve tıbbın öncüsü İngiliz üniversitesi.",
     courses: [
       {
@@ -1414,6 +1424,7 @@ export const universities = [
     flag: "🇨🇦",
     color: "#00204E",
     founded: 1827,
+    curriculumUrl: "https://web.cs.toronto.edu/undergraduate/undergraduate-courses",
     description: "Kanada'nın en büyük araştırma üniversitesi.",
     courses: [
       {
@@ -1543,6 +1554,7 @@ export const universities = [
     flag: "🇨🇭",
     color: "#E63312",
     founded: 1969,
+    curriculumUrl: "https://www.epfl.ch/schools/ic/education/bachelor/computer-science/",
     description: "Avrupa'nın en inovatif üniversitelerinden biri.",
     courses: [
       {
@@ -1672,6 +1684,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#FF6C0C",
     founded: 1891,
+    curriculumUrl: "https://www.cms.caltech.edu/academics/ugrad_cs",
     description: "Küçük ama güçlü teknik üniversite.",
     courses: [
       {
@@ -1796,6 +1809,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#FF6B2B",
     founded: 1746,
+    curriculumUrl: "https://www.cs.princeton.edu/ugrad/courses",
     description: "ABD'nin en prestijli Ivy League üniversitelerinden biri.",
     courses: [
       {
@@ -1925,6 +1939,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#B31B1B",
     founded: 1865,
+    curriculumUrl: "https://www.cs.cornell.edu/undergrad/csmajor/curriculum",
     description: "New York'un prestijli araştırma üniversitesi.",
     courses: [
       {
@@ -2049,6 +2064,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#BF5700",
     founded: 1883,
+    curriculumUrl: "https://www.cs.utexas.edu/undergraduate-program/current-students/course-schedule",
     description: "Teksas'ın en büyük ve prestijli devlet üniversitesi.",
     courses: [
       {
@@ -2173,6 +2189,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#13294B",
     founded: 1867,
+    curriculumUrl: "https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science",
     description: "ABD'nin önde gelen devlet üniversitesi.",
     courses: [
       {
@@ -2302,6 +2319,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#003262",
     founded: 1868,
+    curriculumUrl: "https://eecs.berkeley.edu/academics/undergraduate/cs-bs/",
     description: "Dünyanın en iyi kamu araştırma üniversitelerinden biri.",
     courses: [
       {
@@ -2426,6 +2444,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#B3A369",
     founded: 1885,
+    curriculumUrl: "https://www.cc.gatech.edu/academics/degree-programs/bachelors/computer-science",
     description: "Güney ABD'nin önde gelen teknik üniversitesi.",
     courses: [
       {
@@ -2555,6 +2574,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#00274C",
     founded: 1817,
+    curriculumUrl: "https://cse.engin.umich.edu/academics/undergraduate/computer-science/",
     description: "ABD'nin köklü kamu araştırma üniversitesi.",
     courses: [
       {
@@ -2679,6 +2699,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#1D4F91",
     founded: 1754,
+    curriculumUrl: "https://www.cs.columbia.edu/education/undergrad/",
     description: "New York şehrinin kalbi Ivy League üniversitesi.",
     courses: [
       {
@@ -2803,6 +2824,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#003B5C",
     founded: 1919,
+    curriculumUrl: "https://www.cs.ucla.edu/undergraduate-program-requirements/",
     description: "Güney Kaliforniya'nın önde gelen araştırma üniversitesi.",
     courses: [
       {
@@ -2927,6 +2949,7 @@ export const universities = [
     flag: "🇺🇸",
     color: "#4B2E83",
     founded: 1861,
+    curriculumUrl: "https://www.cs.washington.edu/academics/ugrad/requirements",
     description: "Kuzey Batı ABD'nin önde gelen araştırma üniversitesi.",
     courses: [
       {
@@ -3056,6 +3079,7 @@ export const universities = [
     flag: "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
     color: "#00325F",
     founded: 1583,
+    curriculumUrl: "https://www.inf.ed.ac.uk/study/undergraduate/",
     description: "İskoçya'nın en prestijli araştırma üniversitesi.",
     courses: [
       {
@@ -3180,6 +3204,7 @@ export const universities = [
     flag: "🇩🇪",
     color: "#0065BD",
     founded: 1868,
+    curriculumUrl: "https://www.cit.tum.de/en/cit/studies/students/bachelor-informatics/",
     description: "Almanya'nın en iyi teknik üniversitesi.",
     courses: [
       {
@@ -3314,6 +3339,7 @@ export const universities = [
     flag: "🇸🇪",
     color: "#000061",
     founded: 1827,
+    curriculumUrl: "https://www.kth.se/en/studies/bachelor/computer-science",
     description: "İskandinavya'nın önde gelen teknik üniversitesi.",
     courses: [
       {
@@ -3438,6 +3464,7 @@ export const universities = [
     flag: "🇨🇦",
     color: "#FFC72A",
     founded: 1957,
+    curriculumUrl: "https://cs.uwaterloo.ca/current-undergraduate-students/courses",
     description: "Kanada'nın en güçlü CS programlarından birine sahip üniversitesi.",
     courses: [
       {
@@ -3577,6 +3604,7 @@ export const universities = [
     flag: "🇯🇵",
     color: "#1A3A5C",
     founded: 1877,
+    curriculumUrl: "https://www.i.u-tokyo.ac.jp/edu/course/cs/index.shtml",
     description: "Japonya'nın ve Asya'nın en prestijli üniversitelerinden biri.",
     courses: [
       {
@@ -3706,6 +3734,7 @@ export const universities = [
     flag: "🇰🇷",
     color: "#1D2087",
     founded: 1971,
+    curriculumUrl: "https://cs.kaist.ac.kr/content?menu=136",
     description: "Güney Kore'nin en prestijli teknik araştırma üniversitesi.",
     courses: [
       {
@@ -3840,6 +3869,7 @@ export const universities = [
     flag: "🇨🇳",
     color: "#8B0035",
     founded: 1911,
+    curriculumUrl: "https://www.cs.tsinghua.edu.cn/csen/Undergraduate_Program.htm",
     description: "Çin'in en prestijli ve elit araştırma üniversitesi.",
     courses: [
       {
