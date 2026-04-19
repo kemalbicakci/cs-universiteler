@@ -16,7 +16,7 @@ export const textbooks = [
     publisher: "MIT Press",
     isbn: "978-0262046305",
     category: "Algoritmalar",
-    usageCount: 95,
+    usageCount: 125,
     url: "https://mitpress.mit.edu/9780262046305/",
     openAccess: false,
     description: "Bilgisayar biliminin temel algoritma kitabı. CLRS olarak da bilinen bu eser, dünya genelinde algoritma eğitiminin standartını belirlemektedir.",
@@ -109,6 +109,126 @@ export const textbooks = [
         name: "UW Seattle (CS421)",
         url: "https://courses.cs.washington.edu/courses/cse421/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Algoritmalar",
@@ -133,7 +253,7 @@ export const textbooks = [
     publisher: "Wiley",
     isbn: "978-1119800361",
     category: "İşletim Sistemleri",
-    usageCount: 85,
+    usageCount: 115,
     url: "https://codex.cs.yale.edu/avi/os-book/",
     openAccess: false,
     description: "İşletim sistemleri eğitiminin standart başvuru kitabı. Kapak tasarımındaki dinozor görseli nedeniyle \"Dinozor Kitabı\" olarak bilinir.",
@@ -210,6 +330,126 @@ export const textbooks = [
         name: "UT Austin (CS439)",
         url: "https://www.cs.utexas.edu/~dahlin/Classes/439/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "İşletim Sistemleri",
@@ -231,7 +471,7 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0134092669",
     category: "Bilgisayar Sistemleri",
-    usageCount: 82,
+    usageCount: 112,
     url: "https://csapp.cs.cmu.edu/",
     openAccess: false,
     description: "Programcı perspektifinden bilgisayar sistemlerini en derinlemesine ele alan eser. CMU'nun temel ders kitabı; donanım, OS, ağ ve güvenliği bir arada anlatır.",
@@ -288,6 +528,126 @@ export const textbooks = [
         name: "UT Austin (CS429)",
         url: "https://www.cs.utexas.edu/~byoung/cs429/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Bilgisayar Sistemleri",
@@ -310,7 +670,7 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0134610993",
     category: "Yapay Zeka",
-    usageCount: 80,
+    usageCount: 110,
     url: "https://aima.cs.berkeley.edu/",
     openAccess: false,
     description: "1500'den fazla üniversitede okutulan dünya standardı yapay zeka kitabı. Alan'ın en kapsamlı başvuru kaynağı.",
@@ -387,6 +747,126 @@ export const textbooks = [
         name: "Tsinghua",
         url: "https://www.cs.tsinghua.edu.cn/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Yapay Zeka",
@@ -408,7 +888,7 @@ export const textbooks = [
     publisher: "McGraw-Hill",
     isbn: "978-1259676512",
     category: "Ayrık Matematik",
-    usageCount: 79,
+    usageCount: 109,
     url: "https://www.mheducation.com/highered/product/discrete-mathematics-its-applications-rosen/M9781259676512.html",
     openAccess: false,
     description: "600'den fazla Kuzey Amerika üniversitesinde okutulan ayrık matematik klasiği. CS müfredatlarının temel matematik kitabı.",
@@ -466,6 +946,126 @@ export const textbooks = [
         name: "Harvard (CS121)",
         url: "https://cs121.seas.harvard.edu/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Ayrık Matematik",
@@ -489,7 +1089,7 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0-13-299203-4",
     category: "Bilgisayar Ağları",
-    usageCount: 75,
+    usageCount: 105,
     url: "https://www.pearson.com/en-us/subject-catalog/p/computer-networks/P200000003017",
     openAccess: false,
     description: "Bilgisayar ağları alanının klasik eğitim kitabı. Katmanlı ağ mimarisini kapsamlı biçimde ele alır.",
@@ -551,6 +1151,126 @@ export const textbooks = [
       {
         name: "Waterloo (CS456)",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Bilgisayar Ağları",
@@ -571,7 +1291,7 @@ export const textbooks = [
     publisher: "Wellesley-Cambridge Press",
     isbn: "978-1733146678",
     category: "Doğrusal Cebir",
-    usageCount: 73,
+    usageCount: 103,
     url: "https://math.mit.edu/~gs/linearalgebra/",
     openAccess: false,
     description: "MIT'in efsanevi doğrusal cebir hocası Strang'in kitabı. MIT OCW'daki ders videoları milyonlarca kez izlenmiş; makine öğrenmesi ve veri biliminin matematiksel altyapısı için zorunlu okuma.",
@@ -624,6 +1344,126 @@ export const textbooks = [
         name: "NUS (MA2001)",
         url: "https://www.math.nus.edu.sg/ma2001/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Doğrusal Cebir",
@@ -647,7 +1487,7 @@ export const textbooks = [
     publisher: "Addison-Wesley",
     isbn: "978-0321573513",
     category: "Algoritmalar",
-    usageCount: 71,
+    usageCount: 101,
     url: "https://algs4.cs.princeton.edu/home/",
     openAccess: false,
     description: "Pratik algoritma uygulamalarına odaklanan, Princeton'da geliştirilen popüler ders kitabı. Java implementasyonlarıyla zengin.",
@@ -695,6 +1535,126 @@ export const textbooks = [
       {
         name: "TU Münih",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Algoritmalar",
@@ -717,7 +1677,7 @@ export const textbooks = [
     publisher: "Morgan Kaufmann",
     isbn: "978-0128203316",
     category: "Bilgisayar Mimarisi",
-    usageCount: 70,
+    usageCount: 100,
     url: "https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6",
     openAccess: false,
     description: "Bilgisayar organizasyonu ve mimarisinin temel eğitim kitabı. Her yıl 40.000'den fazla öğrenci tarafından kullanılır.",
@@ -776,6 +1736,126 @@ export const textbooks = [
         name: "NUS (CS2100)",
         url: "https://www.comp.nus.edu.sg/~cs2100/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Bilgisayar Mimarisi",
@@ -799,7 +1879,7 @@ export const textbooks = [
     publisher: "McGraw-Hill",
     isbn: "978-0078022159",
     category: "Veritabanları",
-    usageCount: 68,
+    usageCount: 98,
     url: "https://db-book.com/",
     openAccess: false,
     description: "Veritabanı sistemleri eğitiminin standart referans kitabı. İlişkisel modellerden NoSQL'a kapsamlı kapsam sunar.",
@@ -857,6 +1937,126 @@ export const textbooks = [
         name: "NUS (CS2102)",
         url: "https://www.comp.nus.edu.sg/~cs2102/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Veritabanı Sistemleri",
@@ -877,7 +2077,7 @@ export const textbooks = [
     publisher: "Cengage Learning",
     isbn: "978-1133187790",
     category: "Hesaplama Teorisi",
-    usageCount: 65,
+    usageCount: 95,
     url: "https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/",
     openAccess: false,
     description: "Formal diller, hesaplanabilirlik ve karmaşıklık teorisinin standart ders kitabı. MIT'in kendi kitabı.",
@@ -930,6 +2130,126 @@ export const textbooks = [
       {
         name: "Oxford",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Hesaplama Teorisi",
@@ -952,7 +2272,7 @@ export const textbooks = [
     publisher: "Morgan Kaufmann",
     isbn: "978-0128119051",
     category: "Bilgisayar Mimarisi",
-    usageCount: 62,
+    usageCount: 92,
     url: "https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1",
     openAccess: false,
     description: "İleri düzey bilgisayar mimarisi dersleri için standart kaynak. Turing ödüllü iki yazarın başyapıtı.",
@@ -1000,6 +2320,126 @@ export const textbooks = [
       {
         name: "KAIST",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Bilgisayar Mimarisi",
@@ -1023,7 +2463,7 @@ export const textbooks = [
     publisher: "MIT Press",
     isbn: "978-0262510875",
     category: "Programlama Dilleri",
-    usageCount: 60,
+    usageCount: 90,
     url: "https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html",
     openAccess: true,
     description: "MIT'in efsanevi programlama kitabı. \"Büyücü Kitabı\" olarak da bilinen eser, hesaplama ve soyutlama kavramlarını Scheme diliyle anlatır. MIT Press'in izniyle ücretsiz erişilebilir.",
@@ -1064,6 +2504,126 @@ export const textbooks = [
         name: "CMU (15-150)",
         url: "https://www.cs.cmu.edu/~15150/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Programlama Dilleri",
@@ -1088,7 +2648,7 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0321486813",
     category: "Derleyiciler",
-    usageCount: 58,
+    usageCount: 88,
     url: "https://suif.stanford.edu/dragonbook/",
     openAccess: false,
     description: "Derleyici tasarımının klasik başvuru kitabı. Kapağındaki ejderha görseli nedeniyle \"Ejderha Kitabı\" olarak bilinir.",
@@ -1134,6 +2694,126 @@ export const textbooks = [
       {
         name: "Oxford",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Derleyici Tasarımı",
@@ -1156,7 +2836,7 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0321295354",
     category: "Algoritmalar",
-    usageCount: 55,
+    usageCount: 85,
     url: "https://www.pearson.com/en-us/subject-catalog/p/algorithm-design/P200000003209",
     openAccess: false,
     description: "Cornell'ın efsanevi algoritma hocaları tarafından yazılan, özellikle ağ akışı, NP-tamlık ve yaklaşım algoritmalarını mükemmel biçimde ele alan kitap.",
@@ -1196,6 +2876,126 @@ export const textbooks = [
       {
         name: "Columbia (COMS4231)",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Algoritmalar",
@@ -1217,7 +3017,7 @@ export const textbooks = [
     publisher: "Springer",
     isbn: "978-3030542559",
     category: "Algoritmalar",
-    usageCount: 54,
+    usageCount: 84,
     url: "https://www.algorist.com/",
     openAccess: false,
     description: "Pratik algoritma tasarımına odaklanan, sektör profesyonelleri ve akademisyenler arasında popüler kitap.",
@@ -1259,6 +3059,126 @@ export const textbooks = [
         name: "Waterloo (CS341)",
         url: "https://cs.uwaterloo.ca/~s4bendav/course/cs341s24/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Algoritma Tasarımı",
@@ -1282,7 +3202,7 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0321455369",
     category: "Hesaplama Teorisi",
-    usageCount: 52,
+    usageCount: 82,
     url: "https://www.pearson.com/en-us/subject-catalog/p/introduction-to-automata-theory-languages-and-computation/P200000003190",
     openAccess: false,
     description: "\"Kırmızı Kitap\" olarak bilinen, otomata teorisi ve formal dillerin standart ders kitabı. Dünyada yüzlerce üniversitede teori dersinin temel kaynağı.",
@@ -1322,6 +3242,126 @@ export const textbooks = [
       {
         name: "Toronto (CSC463)",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Hesaplama Teorisi",
@@ -1347,7 +3387,7 @@ export const textbooks = [
     publisher: "Addison-Wesley",
     isbn: "978-0201633610",
     category: "Yazılım Mühendisliği",
-    usageCount: 50,
+    usageCount: 80,
     url: "https://www.pearson.com/en-us/subject-catalog/p/design-patterns-elements-of-reusable-object-oriented-software/P200000009468",
     openAccess: false,
     description: "\"Gang of Four\" olarak bilinen dört yazarın 23 tasarım desenini tanımladığı, yazılım mühendisliğinin klasik eseri.",
@@ -1387,6 +3427,126 @@ export const textbooks = [
       {
         name: "Waterloo (CS446)",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Yazılım Mühendisliği",
@@ -1410,7 +3570,7 @@ export const textbooks = [
     publisher: "McGraw-Hill",
     isbn: "978-0073523408",
     category: "Algoritmalar",
-    usageCount: 49,
+    usageCount: 79,
     url: "https://people.eecs.berkeley.edu/~vazirani/algorithms/all.pdf",
     openAccess: true,
     description: "UC Berkeley'in CS170 dersi için tasarlanmış, kısa ve öz algoritma kitabı. Ücretsiz PDF olarak erişilebilir.",
@@ -1435,6 +3595,126 @@ export const textbooks = [
         name: "UW Seattle (CSE421)",
         url: "https://courses.cs.washington.edu/courses/cse421/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Algoritmalar",
@@ -1458,7 +3738,7 @@ export const textbooks = [
     publisher: "MIT Press",
     isbn: "978-0262035613",
     category: "Derin Öğrenme",
-    usageCount: 48,
+    usageCount: 78,
     url: "https://www.deeplearningbook.org/",
     openAccess: true,
     description: "Derin öğrenme alanının en kapsamlı referans kitabı. MIT Press tarafından ücretsiz online olarak da sunulmaktadır.",
@@ -1507,6 +3787,126 @@ export const textbooks = [
         name: "KTH (DD2424)",
         url: "https://www.kth.se/student/kurser/kurs/DD2424",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Derin Öğrenme",
@@ -1530,7 +3930,7 @@ export const textbooks = [
     publisher: "McGraw-Hill",
     isbn: "978-0072465631",
     category: "Veritabanları",
-    usageCount: 46,
+    usageCount: 76,
     url: "https://pages.cs.wisc.edu/~dbbook/",
     openAccess: false,
     description: "Kapağındaki inek görseli nedeniyle \"Cow Book\" olarak bilinen, veritabanı yönetim sistemlerini teknik derinlikte anlatan başvuru kitabı.",
@@ -1562,6 +3962,126 @@ export const textbooks = [
         name: "Columbia (COMS4111)",
         url: "https://w4111.github.io/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Veritabanı Sistemleri",
@@ -1584,7 +4104,7 @@ export const textbooks = [
     publisher: "Arpaci-Dusseau Books",
     isbn: "—",
     category: "İşletim Sistemleri",
-    usageCount: 45,
+    usageCount: 75,
     url: "https://pages.cs.wisc.edu/~remzi/OSTEP/",
     openAccess: true,
     description: "Ücretsiz açık erişimli, modern ve pratik odaklı işletim sistemleri kitabı. Giderek artan popülerliğiyle klasik OS kitaplarının yerini alıyor.",
@@ -1624,6 +4144,126 @@ export const textbooks = [
         name: "UW Seattle (CSE451)",
         url: "https://courses.cs.washington.edu/courses/cse451/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "İşletim Sistemleri",
@@ -1645,7 +4285,7 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0133591620",
     category: "İşletim Sistemleri",
-    usageCount: 42,
+    usageCount: 72,
     url: "https://www.pearson.com/en-us/subject-catalog/p/modern-operating-systems/P200000003229",
     openAccess: false,
     description: "İşletim sistemlerinin sistem perspektifinden ele alındığı kapsamlı kaynak. MINIX işletim sisteminin yaratıcısı tarafından yazılmış.",
@@ -1686,6 +4326,126 @@ export const textbooks = [
         name: "KTH (DD2400)",
         url: "https://www.kth.se/student/kurser/kurs/DD2400",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "İşletim Sistemleri",
@@ -1706,7 +4466,7 @@ export const textbooks = [
     publisher: "Springer",
     isbn: "978-0387310732",
     category: "Makine Öğrenmesi",
-    usageCount: 40,
+    usageCount: 70,
     url: "https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
     openAccess: true,
     description: "Makine öğrenmesi ve örüntü tanımanın teorik temelleri için kapsamlı kaynak. Microsoft Research desteğiyle ücretsiz erişilebilir.",
@@ -1747,6 +4507,126 @@ export const textbooks = [
         name: "Waterloo (CS480)",
         url: "https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-winter23/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Makine Öğrenmesi",
@@ -1769,7 +4649,7 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0133943030",
     category: "Yazılım Mühendisliği",
-    usageCount: 39,
+    usageCount: 69,
     url: "https://www.pearson.com/en-us/subject-catalog/p/software-engineering/P200000003036",
     openAccess: false,
     description: "Yazılım mühendisliğinin tüm boyutlarını kapsayan kapsamlı ders kitabı. Özellikle Avrupa üniversitelerinde yaygın olarak okutulmaktadır.",
@@ -1807,6 +4687,126 @@ export const textbooks = [
         name: "NUS (CS2103)",
         url: "https://nus-cs2103-ay2324s1.github.io/website/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Yazılım Mühendisliği",
@@ -1828,7 +4828,7 @@ export const textbooks = [
     publisher: "Addison-Wesley",
     isbn: "978-0137935109",
     category: "Algoritmalar",
-    usageCount: 38,
+    usageCount: 68,
     url: "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
     openAccess: false,
     description: "Bilgisayar biliminin \"kutsal kitabı\". Bill Gates: \"Bunu okuyabilirseniz bana CV gönderin\" demiştir.",
@@ -1860,6 +4860,126 @@ export const textbooks = [
         name: "Harvard",
         url: "https://groups.seas.harvard.edu/courses/cs124/cs124.html",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Algoritmalar",
@@ -1882,7 +5002,7 @@ export const textbooks = [
     publisher: "Prentice Hall",
     isbn: "978-0131103627",
     category: "Programlama",
-    usageCount: 37,
+    usageCount: 67,
     url: "https://www.pearson.com/en-us/subject-catalog/p/c-programming-language/P200000003274",
     openAccess: false,
     description: "C dilini icat eden kişilerin yazdığı, kısa ama derli toplu başyapıt. Programlama kitapları arasında en fazla taklit edilen yazım stiline sahip eser.",
@@ -1919,6 +5039,126 @@ export const textbooks = [
       {
         name: "ETH Zurich",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "C Programlama",
@@ -1944,7 +5184,7 @@ export const textbooks = [
     publisher: "Springer",
     isbn: "978-3031387463",
     category: "Makine Öğrenmesi",
-    usageCount: 35,
+    usageCount: 65,
     url: "https://www.statlearning.com/",
     openAccess: true,
     description: "İstatistiksel öğrenmenin erişilebilir girişini sunan popüler kitap. Python versiyonu ücretsiz indirilebilir.",
@@ -1979,6 +5219,126 @@ export const textbooks = [
         name: "Waterloo (CS480)",
         url: "https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-winter23/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Makine Öğrenmesi",
@@ -2002,7 +5362,7 @@ export const textbooks = [
     publisher: "Springer",
     isbn: "978-0387848570",
     category: "İstatistik",
-    usageCount: 34,
+    usageCount: 64,
     url: "https://hastie.su.domains/ElemStatLearn/",
     openAccess: true,
     description: "İstatistiksel öğrenmenin matematiksel temellerini derinlemesine işleyen ileri düzey kaynak. Springer'ın izniyle ücretsiz PDF olarak erişilebilir.",
@@ -2039,6 +5399,126 @@ export const textbooks = [
         name: "Waterloo (CS779)",
         url: "https://cs.uwaterloo.ca/~shai/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "İstatistiksel Öğrenme",
@@ -2061,7 +5541,7 @@ export const textbooks = [
     publisher: "McGraw-Hill",
     isbn: "978-0070428072",
     category: "Makine Öğrenmesi",
-    usageCount: 32,
+    usageCount: 62,
     url: "http://www.cs.cmu.edu/~tom/mlbook.html",
     openAccess: true,
     description: "Makine öğrenmesinin klasik tanımlayıcı kitabı. CMU'dan Tom Mitchell tarafından yazılmış, öğrenmenin teorik temellerini anlatır.",
@@ -2091,6 +5571,126 @@ export const textbooks = [
         name: "Michigan (EECS445)",
         url: "https://eecs445-f16.github.io/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Makine Öğrenmesi",
@@ -2112,7 +5712,7 @@ export const textbooks = [
     publisher: "O'Reilly",
     isbn: "978-1098155438",
     category: "Programlama",
-    usageCount: 31,
+    usageCount: 61,
     url: "https://allendowney.github.io/ThinkPython/",
     openAccess: true,
     description: "Python öğrenmek için popüler açık kaynaklı kitap. Yeni başlayanlar için ideal, ücretsiz erişilebilir.",
@@ -2144,6 +5744,126 @@ export const textbooks = [
       {
         name: "Waterloo (CS116)",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Programlamaya Giriş",
@@ -2166,7 +5886,7 @@ export const textbooks = [
     publisher: "MIT Press",
     isbn: "978-0262039246",
     category: "Kuvvetlendirmeli Öğrenme",
-    usageCount: 30,
+    usageCount: 60,
     url: "http://incompleteideas.net/book/the-book-2nd.html",
     openAccess: true,
     description: "Kuvvetlendirmeli öğrenme alanının kurucu kitabı. MIT Press'in izniyle tamamı ücretsiz çevrimiçi erişilebilir.",
@@ -2201,6 +5921,126 @@ export const textbooks = [
         name: "UCL",
         url: "https://www.davidsilver.uk/teaching/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Kuvvetlendirmeli Öğrenme",
@@ -2222,7 +6062,7 @@ export const textbooks = [
     publisher: "MIT Press",
     isbn: "978-0262046824",
     category: "Makine Öğrenmesi",
-    usageCount: 29,
+    usageCount: 59,
     url: "https://probml.github.io/pml-book/",
     openAccess: true,
     description: "Olasılıksal makine öğrenmesinin modern ve kapsamlı sunumu. MIT Press'in izniyle ücretsiz erişilebilir.",
@@ -2254,6 +6094,126 @@ export const textbooks = [
       {
         name: "EPFL",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Makine Öğrenmesi",
@@ -2276,7 +6236,7 @@ export const textbooks = [
     publisher: "Prentice Hall",
     isbn: "978-1543057385",
     category: "Dağıtık Sistemler",
-    usageCount: 28,
+    usageCount: 58,
     url: "https://www.distributed-systems.net/index.php/books/ds3/",
     openAccess: true,
     description: "Dağıtık sistemler alanının temel kaynaklarından biri. 3. baskısı yazarların kendi web sitesinde ücretsiz PDF olarak sunulmaktadır.",
@@ -2309,6 +6269,126 @@ export const textbooks = [
         name: "Edinburgh",
         url: "https://www.inf.ed.ac.uk/teaching/courses/ds/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Dağıtık Sistemler",
@@ -2329,7 +6409,7 @@ export const textbooks = [
     publisher: "O'Reilly",
     isbn: "978-1098125974",
     category: "Makine Öğrenmesi",
-    usageCount: 27,
+    usageCount: 57,
     url: "https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/",
     openAccess: false,
     description: "Scikit-Learn, Keras ve TensorFlow kullanarak makine öğrenmesini uygulamalı öğreten en popüler pratik kitap.",
@@ -2359,6 +6439,126 @@ export const textbooks = [
         name: "Edinburgh",
         url: "https://www.inf.ed.ac.uk/teaching/courses/mlp/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Makine Öğrenmesi",
@@ -2381,7 +6581,7 @@ export const textbooks = [
     publisher: "Determination Press",
     isbn: "—",
     category: "Derin Öğrenme",
-    usageCount: 26,
+    usageCount: 56,
     url: "http://neuralnetworksanddeeplearning.com/",
     openAccess: true,
     description: "Sinir ağları ve derin öğrenmeyi sezgisel biçimde anlatan, tamamen ücretsiz online kaynak. Başlangıç seviyesi için ideal.",
@@ -2410,6 +6610,126 @@ export const textbooks = [
       {
         name: "KAIST (CS492)",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Derin Öğrenme",
@@ -2431,7 +6751,7 @@ export const textbooks = [
     publisher: "Self-published",
     isbn: "978-1792644832",
     category: "Algoritmalar",
-    usageCount: 25,
+    usageCount: 55,
     url: "https://jeffe.cs.illinois.edu/teaching/algorithms/",
     openAccess: true,
     description: "UIUC'tan Jeff Erickson'ın tamamen ücretsiz, kapsamlı ve öğrenci dostu algoritma kitabı.",
@@ -2452,6 +6772,126 @@ export const textbooks = [
       {
         name: "Wisconsin (CS577)",
         url: "https://pages.cs.wisc.edu/~shuchi/courses/787-F07/",
+      },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
       },
     ],
     courses: [
@@ -2476,7 +6916,7 @@ export const textbooks = [
     publisher: "Addison-Wesley",
     isbn: "978-0201558029",
     category: "Ayrık Matematik",
-    usageCount: 24,
+    usageCount: 54,
     url: "https://www.pearson.com/en-us/subject-catalog/p/concrete-mathematics-a-foundation-for-computer-science/P200000003125",
     openAccess: false,
     description: "Knuth ve Graham'ın birlikte yazdığı, algoritma analizinin matematiksel temellerini eğlenceli biçimde anlatan özgün kitap.",
@@ -2501,6 +6941,126 @@ export const textbooks = [
         name: "Harvard (CS121)",
         url: "https://cs121.seas.harvard.edu/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Ayrık Matematik",
@@ -2524,7 +7084,7 @@ export const textbooks = [
     publisher: "Wiley",
     isbn: "978-0471241959",
     category: "İstatistik",
-    usageCount: 22,
+    usageCount: 52,
     url: "https://www.wiley.com/en-us/Elements+of+Information+Theory%2C+2nd+Edition-p-9780471241959",
     openAccess: false,
     description: "Bilgi teorisinin standart ders kitabı. Entropi, karşılıklı bilgi ve kodlama teorisini kapsamlı biçimde ele alır.",
@@ -2556,6 +7116,126 @@ export const textbooks = [
       {
         name: "UC Berkeley (EECS229A)",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Bilgi Teorisi",
@@ -2578,7 +7258,7 @@ export const textbooks = [
     publisher: "Cambridge University Press",
     isbn: "978-1107154889",
     category: "Ayrık Matematik",
-    usageCount: 21,
+    usageCount: 51,
     url: "https://www.amazon.com/Probability-Computing-Randomization-Probabilistic-Techniques/dp/110715488X",
     openAccess: false,
     description: "Olasılıksal algoritmalar ve randomizasyon tekniklerinin teorik temellerini anlatan kapsamlı kaynak.",
@@ -2608,6 +7288,126 @@ export const textbooks = [
         name: "Stanford",
         url: "https://web.stanford.edu/class/cs265/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Olasılık",
@@ -2633,7 +7433,7 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0132143011",
     category: "Dağıtık Sistemler",
-    usageCount: 20,
+    usageCount: 50,
     url: "https://www.pearson.com/en-us/subject-catalog/p/distributed-systems-concepts-and-design/P200000003026",
     openAccess: false,
     description: "Dağıtık sistemler eğitiminin köklü kaynaklarından biri. Kavram ve tasarım odaklı yaklaşımıyla özellikle Avrupa üniversitelerinde yaygın.",
@@ -2661,6 +7461,126 @@ export const textbooks = [
         name: "Edinburgh",
         url: "https://www.inf.ed.ac.uk/teaching/courses/ds/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Dağıtık Sistemler",
@@ -2681,7 +7601,7 @@ export const textbooks = [
     publisher: "Springer",
     isbn: "978-1441923226",
     category: "İstatistik",
-    usageCount: 19,
+    usageCount: 49,
     url: "https://www.stat.cmu.edu/~larry/all-of-statistics/",
     openAccess: true,
     description: "İstatistiği CS öğrencileri için derli toplu sunan CMU kitabı. Makine öğrenmesi ve veri biliminin istatistiksel altyapısı için mükemmel.",
@@ -2710,6 +7630,126 @@ export const textbooks = [
       {
         name: "ETH Zurich",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "İstatistik",
@@ -2731,7 +7771,7 @@ export const textbooks = [
     publisher: "Springer",
     isbn: "978-3030343712",
     category: "Bilgisayar Görüşü",
-    usageCount: 18,
+    usageCount: 48,
     url: "https://szeliski.org/Book/",
     openAccess: true,
     description: "Bilgisayar görüşünün kapsamlı ders kitabı. Szeliski'nin kişisel sitesinde ücretsiz PDF olarak erişilebilir.",
@@ -2761,6 +7801,126 @@ export const textbooks = [
         name: "Oxford",
         url: "https://www.robots.ox.ac.uk/~az/lectures/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Bilgisayar Görüşü",
@@ -2782,7 +7942,7 @@ export const textbooks = [
     publisher: "MIT Press",
     isbn: "978-0262162098",
     category: "Programlama Dilleri",
-    usageCount: 17,
+    usageCount: 47,
     url: "https://www.cis.upenn.edu/~bcpierce/tapl/",
     openAccess: false,
     description: "Tür sistemleri ve programlama dillerinin teorik temellerini anlatan standart ileri düzey kaynak.",
@@ -2808,6 +7968,126 @@ export const textbooks = [
       {
         name: "Oregon (CS655)",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Programlama Dilleri",
@@ -2830,7 +8110,7 @@ export const textbooks = [
     publisher: "Cambridge University Press",
     isbn: "978-0521540513",
     category: "Bilgisayar Görüşü",
-    usageCount: 16,
+    usageCount: 46,
     url: "https://www.robots.ox.ac.uk/~vgg/hzbook/",
     openAccess: false,
     description: "3D bilgisayar görüşünün temel kaynağı. Geometrik bilgisayar görüşü araştırmacılarının başucu kitabı.",
@@ -2857,6 +8137,126 @@ export const textbooks = [
       {
         name: "TU Münih",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Bilgisayar Görüşü",
@@ -2878,7 +8278,7 @@ export const textbooks = [
     publisher: "Morgan Kaufmann",
     isbn: "978-1558603486",
     category: "Dağıtık Sistemler",
-    usageCount: 15,
+    usageCount: 45,
     url: "https://mitpress.mit.edu/9780262527309/",
     openAccess: false,
     description: "Dağıtık algoritmaların teorik temellerini sağlam biçimde ele alan ileri düzey MIT kaynak kitabı.",
@@ -2902,6 +8302,126 @@ export const textbooks = [
       {
         name: "ETH Zurich",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Dağıtık Sistemler",
@@ -2924,7 +8444,7 @@ export const textbooks = [
     publisher: "Cambridge University Press",
     isbn: "978-1107002173",
     category: "Kuantum Hesaplama",
-    usageCount: 14,
+    usageCount: 44,
     url: "https://www.cambridge.org/core/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE",
     openAccess: false,
     description: "Kuantum bilişimin standart referans kitabı. Hem fizikçiler hem de bilgisayar bilimcileri için kapsamlı bir kaynak.",
@@ -2955,6 +8475,126 @@ export const textbooks = [
         name: "ETH Zurich",
         url: "https://www.ti.inf.ethz.ch/ew/courses/Qinfo23/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Kuantum Hesaplama",
@@ -2978,7 +8618,7 @@ export const textbooks = [
     publisher: "Wiley",
     isbn: "978-1118290279",
     category: "Algoritmalar",
-    usageCount: 13,
+    usageCount: 43,
     url: "https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279",
     openAccess: false,
     description: "Python kullanarak veri yapıları ve algoritmaları kapsamlı biçimde anlatan popüler ders kitabı.",
@@ -3003,6 +8643,126 @@ export const textbooks = [
         name: "Columbia",
         url: "https://www.cs.columbia.edu/~bauer/cs3134/",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Veri Yapıları",
@@ -3026,7 +8786,7 @@ export const textbooks = [
     publisher: "MIT Press",
     isbn: "978-0262220699",
     category: "Programlama Dilleri",
-    usageCount: 12,
+    usageCount: 42,
     url: "https://www.info.ucl.ac.be/~pvr/book.html",
     openAccess: true,
     description: "Farklı programlama paradigmalarını ve modellerini kapsamlı biçimde inceleyen ileri düzey MIT kitabı. Ücretsiz erişilebilir.",
@@ -3046,6 +8806,126 @@ export const textbooks = [
       },
       {
         name: "ETH Zurich",
+      },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
       },
     ],
     courses: [
@@ -3068,7 +8948,7 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0135764183",
     category: "Kriptografi",
-    usageCount: 11,
+    usageCount: 41,
     url: "https://www.pearson.com/en-us/subject-catalog/p/cryptography-and-network-security-principles-and-practice/P200000003120",
     openAccess: false,
     description: "Kriptografi ve ağ güvenliğinin kapsamlı ders kitabı. Hem teorik temellerden hem de pratik protokollerden bahseder.",
@@ -3098,6 +8978,126 @@ export const textbooks = [
       {
         name: "TU Münih",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Kriptografi",
@@ -3121,7 +9121,7 @@ export const textbooks = [
     publisher: "CRC Press",
     isbn: "978-0367505035",
     category: "Bilgisayar Grafikleri",
-    usageCount: 10,
+    usageCount: 40,
     url: "https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shirley/p/book/9780367505035",
     openAccess: false,
     description: "Bilgisayar grafiklerinin temel ders kitabı. Işın izleme, dönüşümler, gölgelendirme ve render teknikleri hem teorik hem pratik yönleriyle ele alınır.",
@@ -3153,6 +9153,126 @@ export const textbooks = [
       {
         name: "Toronto (CSC418)",
       },
+      {
+        name: "ODTÜ",
+        url: "https://catalog.metu.edu.tr/program.php?prog=571",
+      },
+      {
+        name: "Boğaziçi",
+        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+      },
+      {
+        name: "Bilkent",
+        url: "https://cs.bilkent.edu.tr/curriculum/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+      },
+      {
+        name: "Koç",
+        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Sabancı",
+        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/undergraduate-program/curriculum/",
+      },
+      {
+        name: "Yıldız Teknik",
+        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+      },
+      {
+        name: "Gazi",
+        url: "https://bm.gazi.edu.tr/",
+      },
+      {
+        name: "Ege",
+        url: "https://bilmuh.ege.edu.tr/tr-1144/ders_programi.html",
+      },
+      {
+        name: "Dokuz Eylül",
+        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+      },
+      {
+        name: "Ankara Üni.",
+        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+      },
+      {
+        name: "İÜ-Cerrahpaşa",
+        url: "https://bilgisayar.iuc.edu.tr/tr/",
+      },
+      {
+        name: "Marmara",
+        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+      },
+      {
+        name: "Özyeğin",
+        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+      },
+      {
+        name: "TOBB ETÜ",
+        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+      },
+      {
+        name: "Çankaya",
+        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+      },
+      {
+        name: "Kadir Has",
+        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+      },
+      {
+        name: "Atılım",
+        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+      },
+      {
+        name: "Başkent",
+        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+      },
+      {
+        name: "Galatasaray",
+        url: "https://bilmuh.gsu.edu.tr/",
+      },
+      {
+        name: "Yeditepe",
+        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+      },
+      {
+        name: "Işık",
+        url: "https://ce.isikun.edu.tr/en/curriculum/",
+      },
+      {
+        name: "Bahçeşehir",
+        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+      },
+      {
+        name: "İstinye",
+        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+      },
+      {
+        name: "MEF",
+        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+      },
+      {
+        name: "Eskişehir Tek.",
+        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+      },
+      {
+        name: "Erciyes",
+        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+      },
+      {
+        name: "Selçuk",
+        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+      },
     ],
     courses: [
       "Bilgisayar Grafikleri",
@@ -3161,7 +9281,7 @@ export const textbooks = [
     ],
     pages: 716,
   },
-];
+]
 
 export const categoryColors = {
   Algoritmalar: "#e53e3e",
@@ -3187,4 +9307,4 @@ export const categoryColors = {
   Kriptografi: "#1a365d",
   "Kuantum Hesaplama": "#134e4a",
   "Bilgisayar Grafikleri": "#b7791f",
-};
+}
