@@ -4946,7 +4946,7 @@ export const universities = [
     color: "#005AAA",
     founded: 1863,
     description: "Türkiye'nin en seçici üniversitelerinden. Bilgisayar Mühendisliği araştırma ve yayın çıktısı bakımından üst sıralarda.",
-    curriculumUrl: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+    curriculumUrl: "https://www.cmpe.boun.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -5142,7 +5142,7 @@ export const universities = [
     color: "#0A8A5F",
     founded: 1984,
     description: "Türkiye'nin ilk vakıf üniversitesi. CS bölümü İngilizce eğitimi ve teorik derinliğiyle öne çıkar.",
-    curriculumUrl: "https://cs.bilkent.edu.tr/curriculum/",
+    curriculumUrl: "https://cs.bilkent.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -5338,7 +5338,7 @@ export const universities = [
     color: "#123288",
     founded: 1773,
     description: "Türkiye'nin en köklü teknik üniversitesi. Bilgisayar Mühendisliği bölümü geniş lisans ve lisansüstü kadrosuna sahip.",
-    curriculumUrl: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+    curriculumUrl: "https://bb.itu.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -5534,7 +5534,7 @@ export const universities = [
     color: "#002147",
     founded: 1993,
     description: "Araştırma odaklı özel üniversite. COMP bölümü AI/ML ve sistemler alanlarında güçlü laboratuvarlara sahip.",
-    curriculumUrl: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+    curriculumUrl: "https://cs.ku.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -5730,7 +5730,7 @@ export const universities = [
     color: "#C4161C",
     founded: 1994,
     description: "Disiplinlerarası eğitim modeliyle tanınır. Fakültede ortak temel yıl sonrası Bilgisayar Bilimi ve Mühendisliği seçimi yapılır.",
-    curriculumUrl: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+    curriculumUrl: "https://cs.sabanciuniv.edu/",
     region: "tr",
     courses: [
       {
@@ -5926,7 +5926,7 @@ export const universities = [
     color: "#D4A017",
     founded: 1967,
     description: "Köklü devlet üniversitesi. BBM bölümü geniş müfredatı ve aktif öğrenci topluluklarıyla bilinir.",
-    curriculumUrl: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+    curriculumUrl: "https://www.hacettepe.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -6318,7 +6318,7 @@ export const universities = [
     color: "#004B8D",
     founded: 1911,
     description: "Köklü teknik üniversite. Bilgisayar Mühendisliği geniş öğrenci kitlesine sahip.",
-    curriculumUrl: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+    curriculumUrl: "https://bm.yildiz.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -6514,7 +6514,7 @@ export const universities = [
     color: "#1F6FEB",
     founded: 1926,
     description: "Ankara'nın köklü devlet üniversitelerinden. Mühendislik fakültesi bünyesinde Bilgisayar Mühendisliği bölümü.",
-    curriculumUrl: "https://bm.gazi.edu.tr/",
+    curriculumUrl: "https://www.gazi.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -6906,7 +6906,7 @@ export const universities = [
     color: "#7C3AED",
     founded: 1982,
     description: "İzmir'in köklü devlet üniversitesi. CS programı İngilizce eğitim verir.",
-    curriculumUrl: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+    curriculumUrl: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
     region: "tr",
     courses: [
       {
@@ -7102,7 +7102,7 @@ export const universities = [
     color: "#1F2937",
     founded: 1946,
     description: "Türkiye'nin ilk üniversitesi sayılan kurumun Mühendislik Fakültesi bünyesinde Bilgisayar Mühendisliği.",
-    curriculumUrl: "https://bm.eng.ankara.edu.tr/mufredat/",
+    curriculumUrl: "https://www.ankara.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -7298,7 +7298,7 @@ export const universities = [
     color: "#991B1B",
     founded: 2018,
     description: "İstanbul Üniversitesi'nden ayrılan mühendislik odaklı devlet üniversitesi. Bilgisayar Mühendisliği bölümü.",
-    curriculumUrl: "https://bilgisayar.iuc.edu.tr/tr/",
+    curriculumUrl: "https://www.iuc.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -7494,7 +7494,7 @@ export const universities = [
     color: "#2563EB",
     founded: 1883,
     description: "İstanbul'un köklü devlet üniversitelerinden. Mühendislik Fakültesi bünyesinde Bilgisayar Mühendisliği.",
-    curriculumUrl: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+    curriculumUrl: "https://www.marmara.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -7690,7 +7690,7 @@ export const universities = [
     color: "#EF4444",
     founded: 2008,
     description: "Çağdaş kampüsüyle bilinen özel üniversite. CS bölümü endüstri odaklı.",
-    curriculumUrl: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+    curriculumUrl: "https://www.ozyegin.edu.tr/en/computer-science",
     region: "tr",
     courses: [
       {
@@ -7886,7 +7886,7 @@ export const universities = [
     color: "#0F766E",
     founded: 2003,
     description: "Zorunlu sektör stajları (ortak eğitim) modeliyle tanınan özel üniversite.",
-    curriculumUrl: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+    curriculumUrl: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
     region: "tr",
     courses: [
       {
@@ -8082,7 +8082,7 @@ export const universities = [
     color: "#B45309",
     founded: 1997,
     description: "Ankara'nın yerleşik vakıf üniversitelerinden. Bilgisayar Mühendisliği İngilizce eğitim verir.",
-    curriculumUrl: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+    curriculumUrl: "https://ceng.cankaya.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -8278,7 +8278,7 @@ export const universities = [
     color: "#6B21A8",
     founded: 1997,
     description: "İstanbul merkezli özel üniversite. BM bölümü İngilizce eğitim verir.",
-    curriculumUrl: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+    curriculumUrl: "https://www.khas.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -8474,7 +8474,7 @@ export const universities = [
     color: "#0891B2",
     founded: 1996,
     description: "Ankara merkezli vakıf üniversitesi. CS bölümü ABET akreditasyonlu.",
-    curriculumUrl: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+    curriculumUrl: "https://www.atilim.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -8670,7 +8670,7 @@ export const universities = [
     color: "#1E3A8A",
     founded: 1994,
     description: "Ankara'nın köklü vakıf üniversitelerinden. Mühendislik Fakültesi bünyesinde Bilgisayar Mühendisliği.",
-    curriculumUrl: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+    curriculumUrl: "https://www.baskent.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -8866,7 +8866,7 @@ export const universities = [
     color: "#CA8A04",
     founded: 1992,
     description: "Fransız eğitim modeline dayalı seçici devlet üniversitesi. Bilgisayar Mühendisliği Fransızca ağırlıklı eğitim verir.",
-    curriculumUrl: "https://bilmuh.gsu.edu.tr/",
+    curriculumUrl: "https://gsu.edu.tr/tr",
     region: "tr",
     courses: [
       {
@@ -9062,7 +9062,7 @@ export const universities = [
     color: "#4F46E5",
     founded: 1996,
     description: "İstanbul'un büyük kampüslü vakıf üniversitelerinden. CE bölümü İngilizce eğitim verir.",
-    curriculumUrl: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+    curriculumUrl: "https://www.yeditepe.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -9454,7 +9454,7 @@ export const universities = [
     color: "#1D4ED8",
     founded: 1998,
     description: "Beşiktaş merkezli özel üniversite. Geniş CS/BM programları ve uluslararası değişim olanakları.",
-    curriculumUrl: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+    curriculumUrl: "https://bau.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -9650,7 +9650,7 @@ export const universities = [
     color: "#047857",
     founded: 2015,
     description: "İstanbul'un genç vakıf üniversitelerinden. BM programı İngilizce eğitim verir.",
-    curriculumUrl: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+    curriculumUrl: "https://www.istinye.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -9846,7 +9846,7 @@ export const universities = [
     color: "#DC2626",
     founded: 2012,
     description: "Fletlipped-classroom eğitim modeliyle tanınan özel üniversite. BM programı İngilizce eğitim verir.",
-    curriculumUrl: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+    curriculumUrl: "https://www.mef.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -10042,7 +10042,7 @@ export const universities = [
     color: "#B91C1C",
     founded: 2018,
     description: "Anadolu Üniversitesi'nden ayrılan mühendislik odaklı devlet üniversitesi. BM programı İngilizce eğitim verir.",
-    curriculumUrl: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+    curriculumUrl: "https://www.eskisehir.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -10238,7 +10238,7 @@ export const universities = [
     color: "#7C2D12",
     founded: 1978,
     description: "Orta Anadolu'nun en geniş devlet üniversitelerinden. Mühendislik Fakültesi bünyesinde BM.",
-    curriculumUrl: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+    curriculumUrl: "https://www.erciyes.edu.tr/",
     region: "tr",
     courses: [
       {
@@ -10434,7 +10434,7 @@ export const universities = [
     color: "#0F766E",
     founded: 1975,
     description: "Konya merkezli köklü devlet üniversitesi. Teknoloji Fakültesi ve Mühendislik Fakültesi'nde BM programları.",
-    curriculumUrl: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+    curriculumUrl: "https://www.selcuk.edu.tr/",
     region: "tr",
     courses: [
       {

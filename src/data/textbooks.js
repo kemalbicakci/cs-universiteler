@@ -115,27 +115,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -143,11 +143,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -155,51 +155,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -207,27 +207,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -336,27 +336,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -364,11 +364,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -376,51 +376,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -428,27 +428,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -534,27 +534,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -562,11 +562,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -574,51 +574,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -626,27 +626,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -753,27 +753,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -781,11 +781,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -793,51 +793,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -845,27 +845,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -952,27 +952,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -980,11 +980,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -992,51 +992,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -1044,27 +1044,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -1157,27 +1157,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -1185,11 +1185,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -1197,51 +1197,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -1249,27 +1249,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -1350,27 +1350,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -1378,11 +1378,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -1390,51 +1390,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -1442,27 +1442,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -1541,27 +1541,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -1569,11 +1569,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -1581,51 +1581,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -1633,27 +1633,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -1742,27 +1742,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -1770,11 +1770,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -1782,51 +1782,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -1834,27 +1834,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -1943,27 +1943,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -1971,11 +1971,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -1983,51 +1983,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -2035,27 +2035,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -2136,27 +2136,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -2164,11 +2164,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -2176,51 +2176,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -2228,27 +2228,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -2326,27 +2326,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -2354,11 +2354,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -2366,51 +2366,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -2418,27 +2418,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -2510,27 +2510,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -2538,11 +2538,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -2550,51 +2550,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -2602,27 +2602,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -2700,27 +2700,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -2728,11 +2728,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -2740,51 +2740,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -2792,27 +2792,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -2882,27 +2882,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -2910,11 +2910,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -2922,51 +2922,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -2974,27 +2974,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -3065,27 +3065,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -3093,11 +3093,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -3105,51 +3105,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -3157,27 +3157,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -3248,27 +3248,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -3276,11 +3276,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -3288,51 +3288,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -3340,27 +3340,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -3433,27 +3433,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -3461,11 +3461,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -3473,51 +3473,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -3525,27 +3525,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -3601,27 +3601,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -3629,11 +3629,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -3641,51 +3641,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -3693,27 +3693,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -3793,27 +3793,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -3821,11 +3821,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -3833,51 +3833,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -3885,27 +3885,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -3968,27 +3968,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -3996,11 +3996,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -4008,51 +4008,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -4060,27 +4060,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -4150,27 +4150,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -4178,11 +4178,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -4190,51 +4190,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -4242,27 +4242,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -4332,27 +4332,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -4360,11 +4360,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -4372,51 +4372,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -4424,27 +4424,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -4513,27 +4513,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -4541,11 +4541,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -4553,51 +4553,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -4605,27 +4605,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -4693,27 +4693,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -4721,11 +4721,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -4733,51 +4733,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -4785,27 +4785,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -4866,27 +4866,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -4894,11 +4894,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -4906,51 +4906,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -4958,27 +4958,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -5045,27 +5045,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -5073,11 +5073,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -5085,51 +5085,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -5137,27 +5137,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -5225,27 +5225,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -5253,11 +5253,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -5265,51 +5265,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -5317,27 +5317,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -5405,27 +5405,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -5433,11 +5433,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -5445,51 +5445,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -5497,27 +5497,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -5577,27 +5577,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -5605,11 +5605,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -5617,51 +5617,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -5669,27 +5669,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -5750,27 +5750,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -5778,11 +5778,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -5790,51 +5790,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -5842,27 +5842,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -5927,27 +5927,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -5955,11 +5955,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -5967,51 +5967,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -6019,27 +6019,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -6100,27 +6100,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -6128,11 +6128,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -6140,51 +6140,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -6192,27 +6192,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -6275,27 +6275,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -6303,11 +6303,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -6315,51 +6315,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -6367,27 +6367,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -6445,27 +6445,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -6473,11 +6473,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -6485,51 +6485,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -6537,27 +6537,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -6616,27 +6616,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -6644,11 +6644,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -6656,51 +6656,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -6708,27 +6708,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -6779,27 +6779,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -6807,11 +6807,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -6819,51 +6819,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -6871,27 +6871,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -6947,27 +6947,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -6975,11 +6975,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -6987,51 +6987,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -7039,27 +7039,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -7122,27 +7122,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -7150,11 +7150,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -7162,51 +7162,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -7214,27 +7214,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -7294,27 +7294,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -7322,11 +7322,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -7334,51 +7334,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -7386,27 +7386,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -7467,27 +7467,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -7495,11 +7495,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -7507,51 +7507,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -7559,27 +7559,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -7636,27 +7636,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -7664,11 +7664,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -7676,51 +7676,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -7728,27 +7728,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -7807,27 +7807,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -7835,11 +7835,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -7847,51 +7847,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -7899,27 +7899,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -7974,27 +7974,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -8002,11 +8002,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -8014,51 +8014,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -8066,27 +8066,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -8143,27 +8143,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -8171,11 +8171,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -8183,51 +8183,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -8235,27 +8235,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -8308,27 +8308,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -8336,11 +8336,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -8348,51 +8348,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -8400,27 +8400,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -8481,27 +8481,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -8509,11 +8509,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -8521,51 +8521,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -8573,27 +8573,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -8649,27 +8649,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -8677,11 +8677,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -8689,51 +8689,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -8741,27 +8741,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -8813,27 +8813,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -8841,11 +8841,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -8853,51 +8853,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -8905,27 +8905,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -8984,27 +8984,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -9012,11 +9012,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -9024,51 +9024,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -9076,27 +9076,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
@@ -9159,27 +9159,27 @@ export const textbooks = [
       },
       {
         name: "Boğaziçi",
-        url: "https://www.cmpe.boun.edu.tr/undergraduate/program",
+        url: "https://www.cmpe.boun.edu.tr/",
       },
       {
         name: "Bilkent",
-        url: "https://cs.bilkent.edu.tr/curriculum/",
+        url: "https://cs.bilkent.edu.tr/",
       },
       {
         name: "İTÜ",
-        url: "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/ders-planlari/plan/BLGE/202010.html",
+        url: "https://bb.itu.edu.tr/",
       },
       {
         name: "Koç",
-        url: "https://cs.ku.edu.tr/undergraduate-program/curriculum/",
+        url: "https://cs.ku.edu.tr/",
       },
       {
         name: "Sabancı",
-        url: "https://fens.sabanciuniv.edu/en/degree-programs-CS",
+        url: "https://cs.sabanciuniv.edu/",
       },
       {
         name: "Hacettepe",
-        url: "https://bbm.hacettepe.edu.tr/tr/lisans_programi-101",
+        url: "https://www.hacettepe.edu.tr/",
       },
       {
         name: "İYTE",
@@ -9187,11 +9187,11 @@ export const textbooks = [
       },
       {
         name: "Yıldız Teknik",
-        url: "https://bm.yildiz.edu.tr/index.php/tr/page/12/Ders-Plan",
+        url: "https://bm.yildiz.edu.tr/",
       },
       {
         name: "Gazi",
-        url: "https://bm.gazi.edu.tr/",
+        url: "https://www.gazi.edu.tr/",
       },
       {
         name: "Ege",
@@ -9199,51 +9199,51 @@ export const textbooks = [
       },
       {
         name: "Dokuz Eylül",
-        url: "https://cs.deu.edu.tr/en/education/undergraduate-program/",
+        url: "https://www.deu.edu.tr/fakulteler/muhendislik-fakultesi/",
       },
       {
         name: "Ankara Üni.",
-        url: "https://bm.eng.ankara.edu.tr/mufredat/",
+        url: "https://www.ankara.edu.tr/",
       },
       {
         name: "İÜ-Cerrahpaşa",
-        url: "https://bilgisayar.iuc.edu.tr/tr/",
+        url: "https://www.iuc.edu.tr/",
       },
       {
         name: "Marmara",
-        url: "https://eng.marmara.edu.tr/akademik/bilgisayar-muhendisligi/lisans-programi",
+        url: "https://www.marmara.edu.tr/",
       },
       {
         name: "Özyeğin",
-        url: "https://www.ozyegin.edu.tr/en/computer-science/undergraduate-programs/curriculum",
+        url: "https://www.ozyegin.edu.tr/en/computer-science",
       },
       {
         name: "TOBB ETÜ",
-        url: "https://bilmuh.etu.edu.tr/tr/akademik/lisans-programi",
+        url: "https://www.etu.edu.tr/tr/bolum/bilgisayar-muhendisligi",
       },
       {
         name: "Çankaya",
-        url: "https://bm.cankaya.edu.tr/lisans-programi/ders-programi/",
+        url: "https://ceng.cankaya.edu.tr/",
       },
       {
         name: "Kadir Has",
-        url: "https://www.khas.edu.tr/akademik/muhendislik-ve-doga-bilimleri-fakultesi/bilgisayar-muhendisligi-programi",
+        url: "https://www.khas.edu.tr/",
       },
       {
         name: "Atılım",
-        url: "https://www.atilim.edu.tr/tr/cs/page/1459/ders-programi",
+        url: "https://www.atilim.edu.tr/",
       },
       {
         name: "Başkent",
-        url: "https://bm.baskent.edu.tr/kw/menu/39-lisans-dersleri",
+        url: "https://www.baskent.edu.tr/",
       },
       {
         name: "Galatasaray",
-        url: "https://bilmuh.gsu.edu.tr/",
+        url: "https://gsu.edu.tr/tr",
       },
       {
         name: "Yeditepe",
-        url: "https://ce.yeditepe.edu.tr/en/academic-programs/undergraduate/computer-engineering-program-curriculum",
+        url: "https://www.yeditepe.edu.tr/",
       },
       {
         name: "Işık",
@@ -9251,27 +9251,27 @@ export const textbooks = [
       },
       {
         name: "Bahçeşehir",
-        url: "https://bau.edu.tr/academic/department/bilgisayar-muhendisligi-programi-mufredati",
+        url: "https://bau.edu.tr/",
       },
       {
         name: "İstinye",
-        url: "https://www.istinye.edu.tr/tr/akademik/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi",
+        url: "https://www.istinye.edu.tr/",
       },
       {
         name: "MEF",
-        url: "https://www.mef.edu.tr/tr/bilgisayar-muhendisligi",
+        url: "https://www.mef.edu.tr/",
       },
       {
         name: "Eskişehir Tek.",
-        url: "https://bm.eskisehir.edu.tr/tr/Mufredat",
+        url: "https://www.eskisehir.edu.tr/",
       },
       {
         name: "Erciyes",
-        url: "https://bilgisayar.erciyes.edu.tr/page/Mufredat-57",
+        url: "https://www.erciyes.edu.tr/",
       },
       {
         name: "Selçuk",
-        url: "https://www.selcuk.edu.tr/Birim/bilgisayar_muh/Sayfa/Detay/1/ders_programi",
+        url: "https://www.selcuk.edu.tr/",
       },
     ],
     courses: [
