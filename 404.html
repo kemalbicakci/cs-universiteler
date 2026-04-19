@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Yönlendiriliyor…</title>
+  <script>
+    // GitHub Pages SPA workaround: redirect any direct deep-link into the
+    // HashRouter-based URL so paths like /kitaplar don't 404.
+    (function () {
+      var base = '/cs-universiteler/'
+      var path = window.location.pathname
+      var search = window.location.search || ''
+      var hash = window.location.hash || ''
+      var rel = path.indexOf(base) === 0 ? path.slice(base.length) : path.replace(/^\//, '')
+      // If there's already a hash route, preserve it.
+      if (hash && hash.indexOf('#/') === 0) {
+        window.location.replace(window.location.origin + base + search + hash)
+      } else {
+        var target = window.location.origin + base + '#/' + rel + search
+        window.location.replace(target)
+      }
+    })()
+  </script>
+</head>
+<body>
+  <p>Yönlendiriliyor… <a href="/cs-universiteler/">Ana sayfa</a></p>
+</body>
+</html>
