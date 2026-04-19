@@ -1,15 +1,24 @@
-import { useState, useMemo } from 'react'
-import { Link } from 'react-router-dom'
+import { useState, useMemo, useEffect } from 'react'
+import { Link, useSearchParams } from 'react-router-dom'
 import { universities } from '../data/universities'
 
-const COUNTRIES = ['Tümü', ...new Set(universities.map(u => u.country))]
-
 export default function Universities() {
+  const [searchParams, setSearchParams] = useSearchParams()
+  const initialRegion = searchParams.get('region') === 'tr' ? 'tr' : 'world'
+  const [region, setRegion] = useState(initialRegion)
   const [search, setSearch] = useState('')
   const [country, setCountry] = useState('Tümü')
 
+  useEffect(() => {
+    setSearchParams({ region }, { replace: true })
+    setCountry('Tümü')
+  }, [region])
+
+  const regionUnis = useMemo(() => universities.filter(u => u.region === region), [region])
+  const countries = useMemo(() => ['Tümü', ...new Set(regionUnis.map(u => u.country))], [regionUnis])
+
   const filtered = useMemo(() => {
-    return universities.filter(u => {
+    return regionUnis.filter(u => {
       const matchSearch =
         u.name.toLowerCase().includes(search.toLowerCase()) ||
         u.fullName.toLowerCase().includes(search.toLowerCase()) ||
@@ -17,15 +26,37 @@ export default function Universities() {
       const matchCountry = country === 'Tümü' || u.country === country
       return matchSearch && matchCountry
     })
-  }, [search, country])
+  }, [regionUnis, search, country])
 
   return (
     <div className="page">
       <div className="page-header">
         <h1 className="page-title">🏛 Üniversiteler</h1>
         <p className="page-subtitle">
-          QS Dünya Üniversite Sıralaması 2025'e göre bilgisayar bilimlerinde ilk 30 üniversite
+          {region === 'tr'
+            ? "Türkiye'nin önde gelen 30 Bilgisayar Mühendisliği programı"
+            : "QS Dünya Üniversite Sıralamasına göre bilgisayar bilimlerinde ilk 30 üniversite"}
         </p>
+      </div>
+
+      {/* Region toggle */}
+      <div className="region-toggle" role="tablist" aria-label="Bölge seçimi" style={{ marginBottom: 24 }}>
+        <button
+          role="tab"
+          aria-selected={region === 'world'}
+          className={'region-toggle-btn' + (region === 'world' ? ' active' : '')}
+          onClick={() => setRegion('world')}
+        >
+          🌍 Dünya
+        </button>
+        <button
+          role="tab"
+          aria-selected={region === 'tr'}
+          className={'region-toggle-btn' + (region === 'tr' ? ' active' : '')}
+          onClick={() => setRegion('tr')}
+        >
+          🇹🇷 Türkiye
+        </button>
       </div>
 
       {/* Filters */}
@@ -37,29 +68,33 @@ export default function Universities() {
           value={search}
           onChange={e => setSearch(e.target.value)}
         />
-        <select
-          className="filter-select"
-          value={country}
-          onChange={e => setCountry(e.target.value)}
-        >
-          {COUNTRIES.map(c => (
-            <option key={c} value={c}>{c}</option>
-          ))}
-        </select>
+        {countries.length > 2 && (
+          <select
+            className="filter-select"
+            value={country}
+            onChange={e => setCountry(e.target.value)}
+          >
+            {countries.map(c => (
+              <option key={c} value={c}>{c}</option>
+            ))}
+          </select>
+        )}
       </div>
 
-      {/* Country chips */}
-      <div className="filter-chips" style={{ marginBottom: 24 }}>
-        {COUNTRIES.map(c => (
-          <button
-            key={c}
-            className={'chip' + (country === c ? ' active' : '')}
-            onClick={() => setCountry(c)}
-          >
-            {c}
-          </button>
-        ))}
-      </div>
+      {/* Country chips (only when multiple countries) */}
+      {countries.length > 2 && (
+        <div className="filter-chips" style={{ marginBottom: 24 }}>
+          {countries.map(c => (
+            <button
+              key={c}
+              className={'chip' + (country === c ? ' active' : '')}
+              onClick={() => setCountry(c)}
+            >
+              {c}
+            </button>
+          ))}
+        </div>
+      )}
 
       {filtered.length === 0 ? (
         <div className="empty-state">

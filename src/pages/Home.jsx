@@ -1,11 +1,16 @@
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { universities } from '../data/universities'
 import { textbooks } from '../data/textbooks'
 
-const PREVIEW_UNIS = universities.slice(0, 6)
+const WORLD_UNIS = universities.filter(u => u.region === 'world')
+const TR_UNIS = universities.filter(u => u.region === 'tr')
 const PREVIEW_BOOKS = textbooks.slice(0, 4)
 
 export default function Home() {
+  const [region, setRegion] = useState('world')
+  const regionUnis = region === 'tr' ? TR_UNIS : WORLD_UNIS
+  const previewUnis = regionUnis.slice(0, 6)
   return (
     <div>
       {/* Hero */}
@@ -13,14 +18,36 @@ export default function Home() {
         <div className="hero-inner">
           <div className="hero-icon">🎓</div>
           <h1 className="hero-title">
-            Dünya CS Müfredatlarını<br />Keşfedin
+            CS Müfredatlarını<br />Keşfedin
           </h1>
           <p className="hero-desc">
-            QS sıralamasında ilk 30'a giren bilgisayar bilimleri üniversitelerinin
-            müfredatları ve en çok okutulan ders kitapları tek bir platformda.
+            {region === 'tr'
+              ? "Türkiye'nin önde gelen Bilgisayar Mühendisliği programlarının müfredatları, yıllara göre dersler ve kullanılan kitaplar."
+              : "Dünyanın ilk 30 bilgisayar bilimleri üniversitesinin müfredatları ve en çok okutulan ders kitapları tek platformda."}
           </p>
+
+          {/* Region toggle */}
+          <div className="region-toggle" role="tablist" aria-label="Bölge seçimi">
+            <button
+              role="tab"
+              aria-selected={region === 'world'}
+              className={'region-toggle-btn' + (region === 'world' ? ' active' : '')}
+              onClick={() => setRegion('world')}
+            >
+              🌍 Dünya
+            </button>
+            <button
+              role="tab"
+              aria-selected={region === 'tr'}
+              className={'region-toggle-btn' + (region === 'tr' ? ' active' : '')}
+              onClick={() => setRegion('tr')}
+            >
+              🇹🇷 Türkiye
+            </button>
+          </div>
+
           <div className="hero-actions">
-            <Link to="/universiteler" className="btn btn-primary">
+            <Link to={`/universiteler?region=${region}`} className="btn btn-primary">
               🏛 Üniversitelere Göz At
             </Link>
             <Link to="/kitaplar" className="btn btn-outline">
@@ -34,12 +61,12 @@ export default function Home() {
       <div className="stats-bar">
         <div className="stats-inner">
           <div className="stat-item">
-            <div className="stat-number">{universities.length}</div>
+            <div className="stat-number">{regionUnis.length}</div>
             <div className="stat-label">Üniversite</div>
           </div>
           <div className="stat-item">
             <div className="stat-number">
-              {universities.reduce((s, u) => s + u.courses.length, 0)}+
+              {regionUnis.reduce((s, u) => s + u.courses.length, 0)}+
             </div>
             <div className="stat-label">Ders</div>
           </div>
@@ -49,9 +76,9 @@ export default function Home() {
           </div>
           <div className="stat-item">
             <div className="stat-number">
-              {[...new Set(universities.map(u => u.country))].length}
+              {[...new Set(regionUnis.map(u => u.city))].length}
             </div>
-            <div className="stat-label">Ülke</div>
+            <div className="stat-label">Şehir</div>
           </div>
         </div>
       </div>
@@ -59,13 +86,15 @@ export default function Home() {
       {/* Preview: Universities */}
       <section className="section">
         <div className="section-header">
-          <h2 className="section-title">🏆 Öne Çıkan Üniversiteler</h2>
-          <Link to="/universiteler" className="section-link">
+          <h2 className="section-title">
+            {region === 'tr' ? '🇹🇷 Türkiye - Öne Çıkan Üniversiteler' : '🌍 Dünya - Öne Çıkan Üniversiteler'}
+          </h2>
+          <Link to={`/universiteler?region=${region}`} className="section-link">
             Tümünü Gör →
           </Link>
         </div>
         <div className="uni-grid">
-          {PREVIEW_UNIS.map(uni => (
+          {previewUnis.map(uni => (
             <Link to={`/universiteler/${uni.id}`} key={uni.id} className="uni-card">
               <div className="uni-card-bar" style={{ background: uni.color }} />
               <div className="uni-card-body">

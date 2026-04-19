@@ -478,6 +478,50 @@ button { cursor: pointer; font-family: inherit; }
 .chip:hover { border-color: var(--primary-light); color: var(--primary); }
 .chip.active { background: var(--primary); color: white; border-color: var(--primary); }
 
+.region-toggle {
+  display: inline-flex;
+  gap: 0;
+  padding: 4px;
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 999px;
+  margin: 12px 0;
+}
+
+.page .region-toggle,
+.section .region-toggle {
+  background: var(--bg);
+  border: 1px solid var(--border);
+}
+
+.region-toggle-btn {
+  appearance: none;
+  border: none;
+  background: transparent;
+  color: inherit;
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 8px 18px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+  opacity: 0.75;
+}
+
+.region-toggle-btn:hover { opacity: 1; }
+
+.region-toggle-btn.active {
+  background: white;
+  color: var(--primary-dark);
+  opacity: 1;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+}
+
+.page .region-toggle-btn.active,
+.section .region-toggle-btn.active {
+  background: var(--primary);
+  color: #fff;
+}
+
 .year-section {
   margin-bottom: 32px;
 }
