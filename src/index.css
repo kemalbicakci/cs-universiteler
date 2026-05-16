@@ -48,6 +48,28 @@ button { cursor: pointer; font-family: inherit; }
   flex: 1;
 }
 
+/* ── Site-wide disclaimer banner ── */
+.site-disclaimer {
+  background: #fffbea;
+  border-bottom: 1px solid #f6e05e;
+  color: #744210;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+.site-disclaimer-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px 24px;
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+.site-disclaimer-icon { flex-shrink: 0; font-size: 1rem; line-height: 1.5; }
+.site-disclaimer em { font-style: normal; color: #5c3d00; background: #fef3c7; padding: 0 4px; border-radius: 3px; }
+@media (max-width: 640px) {
+  .site-disclaimer-inner { padding: 8px 14px; font-size: 0.85rem; }
+}
+
 /* ── Navbar ── */
 .navbar {
   background: var(--primary);
