@@ -32,7 +32,7 @@ export default function UniversityDetail() {
             </div>
           </div>
           <div className="uni-detail-meta">
-            {uni.rank && <span className="uni-detail-meta-item">🏆 QS Sıralama #{uni.rank}</span>}
+            {uni.rank && uni.region === 'world' && <span className="uni-detail-meta-item">🏆 QS Sıralama #{uni.rank}</span>}
             {uni.city && <span className="uni-detail-meta-item">📍 {uni.city}</span>}
             {uni.country && <span className="uni-detail-meta-item">🌍 {uni.country}</span>}
             {uni.founded && <span className="uni-detail-meta-item">📅 Kur. {uni.founded}</span>}

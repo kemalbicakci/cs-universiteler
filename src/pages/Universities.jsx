@@ -39,11 +39,14 @@ export default function Universities() {
       return [...matched].sort((a, b) => {
         const d = (CITATION_COUNT[b.name] || 0) - (CITATION_COUNT[a.name] || 0)
         if (d !== 0) return d
+        if (region === 'tr') return a.name.localeCompare(b.name, 'tr')
         return (a.rank || 999) - (b.rank || 999)
       })
     }
+    // Secondary sort: QS rank for world, alphabetic for TR.
+    if (region === 'tr') return [...matched].sort((a, b) => a.name.localeCompare(b.name, 'tr'))
     return [...matched].sort((a, b) => (a.rank || 999) - (b.rank || 999))
-  }, [regionUnis, search, country, sortBy])
+  }, [regionUnis, search, country, sortBy, region])
 
   return (
     <div className="page">
@@ -51,7 +54,7 @@ export default function Universities() {
         <h1 className="page-title">🏛 Üniversiteler</h1>
         <p className="page-subtitle">
           {region === 'tr'
-            ? "Türkiye'nin önde gelen 30 Bilgisayar Mühendisliği programı"
+            ? "Türkiye'den 30 Bilgisayar Mühendisliği programı (sıralı liste, resmi bir QS skoruna dayanmaz)"
             : "QS Dünya Üniversite Sıralamasına göre bilgisayar bilimlerinde ilk 30 üniversite"}
         </p>
       </div>
@@ -92,7 +95,7 @@ export default function Universities() {
           title="Sıralama"
         >
           <option value="citations">📚 Kanıt sayısına göre</option>
-          <option value="rank">🏆 QS sıralamasına göre</option>
+          <option value="rank">{region === 'world' ? '🏆 QS sıralamasına göre' : '🔤 İsim alfabetik'}</option>
         </select>
         {countries.length > 2 && (
           <select
@@ -138,7 +141,7 @@ export default function Universities() {
                 <div className="uni-card-bar" style={{ background: uni.color }} />
                 <div className="uni-card-body">
                   <div className="uni-card-header">
-                    <span className="uni-rank">#{uni.rank}</span>
+                    {region === 'world' && <span className="uni-rank">#{uni.rank}</span>}
                     <span className="uni-flag">{uni.flag}</span>
                   </div>
                   <div className="uni-name">{uni.name}</div>

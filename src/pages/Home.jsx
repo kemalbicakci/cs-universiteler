@@ -98,7 +98,7 @@ export default function Home() {
               <div className="uni-card-bar" style={{ background: uni.color }} />
               <div className="uni-card-body">
                 <div className="uni-card-header">
-                  <span className="uni-rank">#{uni.rank}</span>
+                  {uni.region === 'world' && <span className="uni-rank">#{uni.rank}</span>}
                   <span className="uni-flag">{uni.flag}</span>
                 </div>
                 <div className="uni-name">{uni.name}</div>
