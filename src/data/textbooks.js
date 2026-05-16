@@ -136,8 +136,8 @@ export const textbooks = [
     usedAt: [
       {
         name: "CMU",
-        url: "https://csapp.cs.cmu.edu/",
-        archive: "https://web.archive.org/web/2/https://csapp.cs.cmu.edu/",
+        url: "http://csapp.cs.cmu.edu/3e/home.html",
+        archive: "https://web.archive.org/web/2/http://csapp.cs.cmu.edu/3e/home.html",
       },
       {
         name: "Stanford",
@@ -939,7 +939,7 @@ export const textbooks = [
     publisher: "Arpaci-Dusseau Books",
     isbn: "—",
     category: "İşletim Sistemleri",
-    usageCount: 5,
+    usageCount: 4,
     url: "https://pages.cs.wisc.edu/~remzi/OSTEP/",
     openAccess: true,
     description: "Ücretsiz açık erişimli, modern ve pratik odaklı işletim sistemleri kitabı. Giderek artan popülerliğiyle klasik OS kitaplarının yerini alıyor.",
@@ -964,11 +964,6 @@ export const textbooks = [
         name: "Washington",
         url: "https://courses.cs.washington.edu/courses/cse451/22au/overview.html",
         archive: "https://web.archive.org/web/2/https://courses.cs.washington.edu/courses/cse451/22au/overview.html",
-      },
-      {
-        name: "Michigan",
-        url: "https://web.eecs.umich.edu/~ryanph/eecs582/fall23/",
-        archive: "https://web.archive.org/web/2/https://web.eecs.umich.edu/~ryanph/eecs582/fall23/",
       },
     ],
     courses: [
@@ -1908,7 +1903,7 @@ export const textbooks = [
     publisher: "Cambridge University Press",
     isbn: "978-1107002173",
     category: "Kuantum Hesaplama",
-    usageCount: 4,
+    usageCount: 3,
     url: "https://www.cambridge.org/core/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE",
     openAccess: false,
     description: "Kuantum bilişimin standart referans kitabı. Hem fizikçiler hem de bilgisayar bilimcileri için kapsamlı bir kaynak.",
@@ -1923,11 +1918,6 @@ export const textbooks = [
         name: "MIT",
         url: "https://ocw.mit.edu/courses/mas-865j-quantum-information-science-spring-2006/pages/syllabus/",
         archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/mas-865j-quantum-information-science-spring-2006/pages/syllabus/",
-      },
-      {
-        name: "Michigan",
-        url: "http://vlsicad.eecs.umich.edu/Quantum/EECS598/",
-        archive: "https://web.archive.org/web/2/http://vlsicad.eecs.umich.edu/Quantum/EECS598/",
       },
       {
         name: "Cambridge",
