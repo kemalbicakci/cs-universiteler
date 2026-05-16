@@ -14,7 +14,7 @@ export default function App() {
           <div className="site-disclaimer-inner">
             <span className="site-disclaimer-icon" aria-hidden="true">ℹ️</span>
             <span>
-              <strong>Bu site bağımsız bir çalışmadır.</strong> Üniversite müfredatları doğrulanamadığı için sayfada müfredat bilgisi yer almaz; her üniversite kartında resmi bölüm sayfasına bağlantı bulursunuz. Ders kitabı listesinde bir üniversite ancak ilgili kitap o bölümün açık kaynaklı bir ders programında <em>açıkça isim olarak</em> zikredilmişse görünür; aksi durumda kitap için herhangi bir kullanım sayısı veya bağlantı listelenmez.
+              <strong>Bu site bağımsız bir çalışmadır.</strong> Her üniversite kartında resmi bölüm sayfasına bağlantı bulursunuz. Ders kitabı listesinde bir üniversite ancak ilgili kitap o bölümün açık kaynaklı bir ders programında <em>açıkça isim olarak</em> zikredilmişse görünür; aksi durumda kitap için herhangi bir kullanım sayısı veya bağlantı listelenmez. Her kanıt linkinin yanındaki <strong>📦</strong> ikonu, sayfa ileride taşınır veya kaldırılırsa diye Wayback Machine snapshot'ına gider. Hem ders kitapları hem üniversiteler, doğrulanmış kanıt sayısına göre sıralanır.
             </span>
           </div>
         </div>
