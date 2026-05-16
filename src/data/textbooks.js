@@ -2125,6 +2125,42 @@ export const textbooks = [
     ],
     pages: 832,
   },
+  {
+    id: "kleppmann-ddia",
+    rank: 57,
+    title: "Designing Data-Intensive Applications",
+    subtitle: "Güvenilir, ölçeklenebilir ve sürdürülebilir sistemler için büyük fikirler",
+    authors: [
+      "Martin Kleppmann",
+    ],
+    shortAuthors: "M. Kleppmann",
+    edition: "1. Baskı",
+    year: 2017,
+    publisher: "O'Reilly",
+    isbn: "978-1449373320",
+    category: "Dağıtık Sistemler",
+    usageCount: 2,
+    url: "https://dataintensive.net/",
+    openAccess: false,
+    description: "Veri sistemleri ve dağıtık sistemlerde modern klasik. Replikasyon, partition, transactionlar, konsensüs, fault-tolerance ve veri akış sistemlerini pratik mühendislik perspektifinden ele alır. Cambridge profesörü Kleppmann tarafından yazılan kitap, dağıtık sistemler derslerinde tavsiye edilen kaynaklar arasında öne çıkıyor.",
+    coverColor: "#744210",
+    usedAt: [
+      {
+        name: "Cambridge",
+        url: "https://www.cl.cam.ac.uk/teaching/2425/ConcDisSys/",
+      },
+      {
+        name: "Cornell",
+        url: "https://www.cs.cornell.edu/courses/cs5412/2021sp/Textbook.html",
+      },
+    ],
+    courses: [
+      "Distributed Systems",
+      "Data Systems",
+      "Database Internals",
+    ],
+    pages: 616,
+  },
 ]
 
 export const categoryColors = {
