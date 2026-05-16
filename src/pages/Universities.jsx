@@ -1,6 +1,14 @@
 import { useState, useMemo, useEffect } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import { universities } from '../data/universities'
+import { textbooks } from '../data/textbooks'
+
+// Map uni name -> number of textbooks that cite it as verified evidence.
+const CITATION_COUNT = (() => {
+  const m = {}
+  textbooks.forEach(b => (b.usedAt || []).forEach(e => { m[e.name] = (m[e.name] || 0) + 1 }))
+  return m
+})()
 
 export default function Universities() {
   const [searchParams, setSearchParams] = useSearchParams()
@@ -8,6 +16,7 @@ export default function Universities() {
   const [region, setRegion] = useState(initialRegion)
   const [search, setSearch] = useState('')
   const [country, setCountry] = useState('Tümü')
+  const [sortBy, setSortBy] = useState('citations') // 'citations' | 'rank'
 
   useEffect(() => {
     setSearchParams({ region }, { replace: true })
@@ -18,7 +27,7 @@ export default function Universities() {
   const countries = useMemo(() => ['Tümü', ...new Set(regionUnis.map(u => u.country))], [regionUnis])
 
   const filtered = useMemo(() => {
-    return regionUnis.filter(u => {
+    const matched = regionUnis.filter(u => {
       const matchSearch =
         u.name.toLowerCase().includes(search.toLowerCase()) ||
         u.fullName.toLowerCase().includes(search.toLowerCase()) ||
@@ -26,7 +35,15 @@ export default function Universities() {
       const matchCountry = country === 'Tümü' || u.country === country
       return matchSearch && matchCountry
     })
-  }, [regionUnis, search, country])
+    if (sortBy === 'citations') {
+      return [...matched].sort((a, b) => {
+        const d = (CITATION_COUNT[b.name] || 0) - (CITATION_COUNT[a.name] || 0)
+        if (d !== 0) return d
+        return (a.rank || 999) - (b.rank || 999)
+      })
+    }
+    return [...matched].sort((a, b) => (a.rank || 999) - (b.rank || 999))
+  }, [regionUnis, search, country, sortBy])
 
   return (
     <div className="page">
@@ -68,6 +85,15 @@ export default function Universities() {
           value={search}
           onChange={e => setSearch(e.target.value)}
         />
+        <select
+          className="filter-select"
+          value={sortBy}
+          onChange={e => setSortBy(e.target.value)}
+          title="Sıralama"
+        >
+          <option value="citations">📚 Kanıt sayısına göre</option>
+          <option value="rank">🏆 QS sıralamasına göre</option>
+        </select>
         {countries.length > 2 && (
           <select
             className="filter-select"
@@ -123,6 +149,13 @@ export default function Universities() {
                   </div>
                   <div className="uni-meta" style={{ marginTop: 4 }}>
                     <span className="uni-meta-item">📅 Kur. {uni.founded}</span>
+                  </div>
+                  <div className="uni-citation-badge">
+                    {CITATION_COUNT[uni.name] ? (
+                      <span className="uni-citation-count">📚 {CITATION_COUNT[uni.name]} kitap için kaynak</span>
+                    ) : (
+                      <span className="uni-citation-empty">Henüz doğrulanmış kaynak yok</span>
+                    )}
                   </div>
                   <div className="uni-course-count">
                     Detayları gör →
