@@ -66,6 +66,10 @@ button { cursor: pointer; font-family: inherit; }
 }
 .site-disclaimer-icon { flex-shrink: 0; font-size: 1rem; line-height: 1.5; }
 .site-disclaimer em { font-style: normal; color: #5c3d00; background: #fef3c7; padding: 0 4px; border-radius: 3px; }
+.site-disclaimer-mail { color: #5c3d00; font-weight: 600; text-decoration: underline; }
+.site-disclaimer-mail:hover { color: #1f2937; }
+.footer-mail { color: inherit; text-decoration: underline; font-weight: 600; }
+.footer-mail:hover { color: #fff; }
 @media (max-width: 640px) {
   .site-disclaimer-inner { padding: 8px 14px; font-size: 0.85rem; }
 }
