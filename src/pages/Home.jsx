@@ -18,12 +18,12 @@ export default function Home() {
         <div className="hero-inner">
           <div className="hero-icon">🎓</div>
           <h1 className="hero-title">
-            CS Müfredatlarını<br />Keşfedin
+            CS Ders Kitaplarını<br />Keşfedin
           </h1>
           <p className="hero-desc">
             {region === 'tr'
-              ? "Türkiye'nin önde gelen Bilgisayar Mühendisliği programlarının müfredatları, yıllara göre dersler ve kullanılan kitaplar."
-              : "Dünyanın ilk 30 bilgisayar bilimleri üniversitesinin müfredatları ve en çok okutulan ders kitapları tek platformda."}
+              ? "Türkiye'nin önde gelen Bilgisayar Mühendisliği programlarının resmi sayfalarına bağlantılar ve klasik ders kitapları."
+              : "Dünyanın ilk 30 bilgisayar bilimleri üniversitesinin resmi bölüm sayfalarına bağlantılar ve klasik ders kitapları."}
           </p>
 
           {/* Region toggle */}
@@ -65,12 +65,6 @@ export default function Home() {
             <div className="stat-label">Üniversite</div>
           </div>
           <div className="stat-item">
-            <div className="stat-number">
-              {regionUnis.reduce((s, u) => s + u.courses.length, 0)}+
-            </div>
-            <div className="stat-label">Ders</div>
-          </div>
-          <div className="stat-item">
             <div className="stat-number">{textbooks.length}</div>
             <div className="stat-label">Ders Kitabı</div>
           </div>
@@ -109,7 +103,7 @@ export default function Home() {
                   <span className="uni-meta-item">🌍 {uni.country}</span>
                 </div>
                 <div className="uni-course-count">
-                  📖 {uni.courses.length} ders
+                  Detayları gör →
                 </div>
               </div>
             </Link>
@@ -139,7 +133,7 @@ export default function Home() {
                 <div className="home-book-title">{book.title}</div>
                 <div className="home-book-author">{book.shortAuthors}</div>
                 <div className="home-book-usage">
-                  {book.usageCount}+ üniversite
+                  {book.category}
                 </div>
               </div>
             </Link>

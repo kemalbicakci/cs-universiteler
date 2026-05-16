@@ -14,7 +14,7 @@ export default function App() {
           <div className="site-disclaimer-inner">
             <span className="site-disclaimer-icon" aria-hidden="true">ℹ️</span>
             <span>
-              <strong>Bu site bağımsız bir çalışmadır.</strong> Müfredatlar ilgili bölümlerin kamuya açık program yapılarına dayalı, en iyi çabayla hazırlanmış taslaklardır ve 2025–2026 müfredatlarıyla birebir örtüşmeyebilir. Güncel ve bağlayıcı bilgi için her üniversite sayfasındaki <em>“🎓 Resmi kaynak”</em> linkini kullanın. Ders kitabı eşleşmeleri de yaklaşıktır — kaynak listesi kapsamlı değildir.
+              <strong>Bu site bağımsız bir çalışmadır.</strong> Üniversite müfredatları doğrulanamadığı için sayfada müfredat bilgisi yer almaz; her üniversite kartında resmi bölüm sayfasına bağlantı bulursunuz. Ders kitabı listesinde bir üniversite ancak ilgili kitap o bölümün açık kaynaklı bir ders programında <em>açıkça isim olarak</em> zikredilmişse görünür; aksi durumda kitap için herhangi bir kullanım sayısı veya bağlantı listelenmez.
             </span>
           </div>
         </div>

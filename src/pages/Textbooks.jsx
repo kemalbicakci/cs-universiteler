@@ -175,7 +175,8 @@ export default function Textbooks() {
 
                     </div>
 
-                    {/* Universities using this book */}
+                    {/* Universities using this book — only shown if there is verified evidence */}
+                    {book.usedAt.length > 0 && (
                     <details style={{ marginTop: 14 }}>
                       <summary style={{ fontSize: '0.8rem', color: 'var(--text-muted)', cursor: 'pointer' }}>
                         Bu kitabı kullanan üniversiteler ({book.usedAt.length})
@@ -232,6 +233,7 @@ export default function Textbooks() {
                         ))}
                       </div>
                     </details>
+                    )}
                   </div>
                 </div>
               </div>
