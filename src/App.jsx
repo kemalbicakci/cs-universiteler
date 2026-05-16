@@ -4,6 +4,7 @@ import Home from './pages/Home'
 import Universities from './pages/Universities'
 import UniversityDetail from './pages/UniversityDetail'
 import Textbooks from './pages/Textbooks'
+import About from './pages/About'
 
 export default function App() {
   return (
@@ -24,6 +25,7 @@ export default function App() {
             <Route path="/universiteler" element={<Universities />} />
             <Route path="/universiteler/:id" element={<UniversityDetail />} />
             <Route path="/kitaplar" element={<Textbooks />} />
+            <Route path="/yontem" element={<About />} />
           </Routes>
         </main>
         <footer className="footer">

@@ -29,6 +29,12 @@ export default function Navbar() {
           >
             Kitaplar
           </NavLink>
+          <NavLink
+            to="/yontem"
+            className={({ isActive }) => 'nav-link' + (isActive ? ' active' : '')}
+          >
+            Yöntem
+          </NavLink>
         </div>
       </div>
     </nav>
