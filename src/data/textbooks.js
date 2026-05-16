@@ -248,7 +248,7 @@ export const textbooks = [
     publisher: "McGraw-Hill",
     isbn: "978-1259676512",
     category: "Ayrık Matematik",
-    usageCount: 3,
+    usageCount: 2,
     url: "https://www.mheducation.com/highered/product/discrete-mathematics-its-applications-rosen/M9781259676512.html",
     openAccess: false,
     description: "600'den fazla Kuzey Amerika üniversitesinde okutulan ayrık matematik klasiği. CS müfredatlarının temel matematik kitabı.",
@@ -258,11 +258,6 @@ export const textbooks = [
         name: "UC Berkeley",
         url: "https://math.berkeley.edu/~bernd/math55old.html",
         archive: "https://web.archive.org/web/2/https://math.berkeley.edu/~bernd/math55old.html",
-      },
-      {
-        name: "CMU",
-        url: "https://www.cs.cmu.edu/afs/cs/academic/class/15251-f06/Site/Help/related-texts.html",
-        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/afs/cs/academic/class/15251-f06/Site/Help/related-texts.html",
       },
       {
         name: "Çankaya",
@@ -484,18 +479,12 @@ export const textbooks = [
     publisher: "McGraw-Hill",
     isbn: "978-0078022159",
     category: "Veritabanları",
-    usageCount: 1,
+    usageCount: 0,
     url: "https://db-book.com/",
     openAccess: false,
     description: "Veritabanı sistemleri eğitiminin standart referans kitabı. İlişkisel modellerden NoSQL'a kapsamlı kapsam sunar.",
     coverColor: "#AD1457",
-    usedAt: [
-      {
-        name: "CMU",
-        url: "https://www.cs.cmu.edu/~natassa/courses/15-721/readings.html",
-        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~natassa/courses/15-721/readings.html",
-      },
-    ],
+    usedAt: [],
     courses: [
       "Veritabanı Sistemleri",
     ],
@@ -842,7 +831,7 @@ export const textbooks = [
     publisher: "McGraw-Hill",
     isbn: "978-0072465631",
     category: "Veritabanları",
-    usageCount: 3,
+    usageCount: 2,
     url: "https://pages.cs.wisc.edu/~dbbook/",
     openAccess: false,
     description: "Kapağındaki inek görseli nedeniyle \"Cow Book\" olarak bilinen, veritabanı yönetim sistemlerini teknik derinlikte anlatan başvuru kitabı.",
@@ -852,11 +841,6 @@ export const textbooks = [
         name: "Wisconsin",
         url: "https://pages.cs.wisc.edu/~dbbook/",
         archive: "https://web.archive.org/web/2/https://pages.cs.wisc.edu/~dbbook/",
-      },
-      {
-        name: "CMU",
-        url: "https://www.cs.cmu.edu/~natassa/courses/15-721/readings.html",
-        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~natassa/courses/15-721/readings.html",
       },
       {
         name: "Boğaziçi",
@@ -1815,18 +1799,12 @@ export const textbooks = [
     publisher: "Wiley",
     isbn: "978-1119642787",
     category: "Siber Güvenlik",
-    usageCount: 1,
+    usageCount: 0,
     url: "https://www.cl.cam.ac.uk/~rja14/book.html",
     openAccess: true,
     description: "Dağıtık sistemlerde güvenlik mühendisliğinin klasik kaynağı. Bankacılık, biyometri, donanım, yan-kanal saldırıları ve güvenlik ekonomisi gibi geniş konuları gerçek vakalarla ele alır. Yazar tarafından açık erişimli olarak yayınlanmıştır.",
     coverColor: "#1a202c",
-    usedAt: [
-      {
-        name: "Cambridge",
-        url: "https://www.cl.cam.ac.uk/teaching/2021/SWSecEng/",
-        archive: "https://web.archive.org/web/2/https://www.cl.cam.ac.uk/teaching/2021/SWSecEng/",
-      },
-    ],
+    usedAt: [],
     courses: [
       "Security Engineering",
       "Applied Security",
@@ -1849,32 +1827,12 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0136681557",
     category: "Bilgisayar Ağları",
-    usageCount: 9,
+    usageCount: 5,
     url: "https://gaia.cs.umass.edu/kurose_ross/index.php",
     openAccess: false,
     description: "Bilgisayar ağlarını uygulama katmanından başlayıp aşağıya inerek anlatan modern klasik. Dünya çapında lisans seviyesinde en yaygın okutulan ağ ders kitabı; 14 dile çevrilmiş, yüzlerce üniversitede kullanılıyor. Yazarların kendi sayfasından eğitmen kaynakları (slaytlar, Wireshark laboratuvarları) ücretsiz olarak sunuluyor.",
     coverColor: "#2b6cb0",
     usedAt: [
-      {
-        name: "MIT",
-        url: "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/pages/syllabus/",
-        archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/pages/syllabus/",
-      },
-      {
-        name: "UC Berkeley",
-        url: "https://people.eecs.berkeley.edu/~sylvia/cs268-2019/syllabus.html",
-        archive: "https://web.archive.org/web/2/https://people.eecs.berkeley.edu/~sylvia/cs268-2019/syllabus.html",
-      },
-      {
-        name: "CMU",
-        url: "https://www.cs.cmu.edu/~prs/15-441-F14/syllabus.html",
-        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~prs/15-441-F14/syllabus.html",
-      },
-      {
-        name: "Princeton",
-        url: "https://www.cs.princeton.edu/courses/archive/spring18/cos463/syllabus.html",
-        archive: "https://web.archive.org/web/2/https://www.cs.princeton.edu/courses/archive/spring18/cos463/syllabus.html",
-      },
       {
         name: "Cambridge",
         url: "https://www.cl.cam.ac.uk/teaching/2425/CompNet/materials.html",
@@ -1922,23 +1880,12 @@ export const textbooks = [
     publisher: "O'Reilly",
     isbn: "978-1449373320",
     category: "Dağıtık Sistemler",
-    usageCount: 2,
+    usageCount: 0,
     url: "https://dataintensive.net/",
     openAccess: false,
     description: "Veri sistemleri ve dağıtık sistemlerde modern klasik. Replikasyon, partition, transactionlar, konsensüs, fault-tolerance ve veri akış sistemlerini pratik mühendislik perspektifinden ele alır. Cambridge profesörü Kleppmann tarafından yazılan kitap, dağıtık sistemler derslerinde tavsiye edilen kaynaklar arasında öne çıkıyor.",
     coverColor: "#744210",
-    usedAt: [
-      {
-        name: "Cambridge",
-        url: "https://www.cl.cam.ac.uk/teaching/2425/ConcDisSys/",
-        archive: "https://web.archive.org/web/2/https://www.cl.cam.ac.uk/teaching/2425/ConcDisSys/",
-      },
-      {
-        name: "Cornell",
-        url: "https://www.cs.cornell.edu/courses/cs5412/2021sp/Textbook.html",
-        archive: "https://web.archive.org/web/2/https://www.cs.cornell.edu/courses/cs5412/2021sp/Textbook.html",
-      },
-    ],
+    usedAt: [],
     courses: [
       "Distributed Systems",
       "Data Systems",
@@ -1977,7 +1924,6 @@ export const textbooks = [
     ],
     pages: 792,
   },
-
   {
     id: "abu-mostafa-learning-from-data",
     rank: 59,

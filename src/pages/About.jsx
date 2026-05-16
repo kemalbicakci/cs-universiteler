@@ -48,32 +48,41 @@ export default function About() {
         <section className="about-section">
           <h2>"Doğrulanmış kanıt" ne demek?</h2>
           <p>
-            Bir üniversitenin bir kitabı kullanması için yalnızca tek bir koşul aranır:
+            Bir üniversitenin bir kitabı "kullandığı" sayılması için yalnızca tek bir koşul vardır:
           </p>
           <blockquote>
-            O bölümün <strong>kamuya açık</strong> bir ders programı sayfasında (syllabus,
-            okuma listesi, ders ana sayfası) kitabın <strong>başlığı ya da yaygın kısa adı</strong>{' '}
-            geçmelidir.
+            O bölümün <strong>kamuya açık</strong> bir ders programında (syllabus, ders ana sayfası)
+            kitap <strong>o dersin zorunlu / birincil ders kitabı</strong> olarak ismen belirtilmiş
+            olmalıdır.
           </blockquote>
           <p>
             Aşağıdakiler kabul edilir:
           </p>
           <ul>
-            <li>"Required textbook: <em>Introduction to Algorithms</em> by Cormen et al."</li>
-            <li>"Önerilen kaynaklar arasında <em>Pattern Recognition and Machine Learning</em> (Bishop)…"</li>
-            <li>Ders sayfasında kitap kapağı / kitabın referans verildiği kaynak listesi</li>
+            <li>"Textbook: <em>Introduction to Algorithms</em> by Cormen et al."</li>
+            <li>"Required textbook: …"</li>
+            <li>"Ders kitabı: …"</li>
+            <li>"Primary textbook: …"</li>
           </ul>
           <p>
-            Aşağıdakiler <strong>kabul edilmez</strong>:
+            Aşağıdakiler <strong>kabul edilmez</strong> (bu, sitemizin önceki bir yorumundan
+            farklıdır — bir kullanıcı katkısıyla kuralı sıkılaştırdık):
           </p>
           <ul>
+            <li>"Recommended reading" / "Suggested reading" / "Optional"</li>
+            <li>"Supplementary readings" / "Reference book"</li>
+            <li>"Background reading" / "Further reading"</li>
             <li>Müfredat genel kategorisi (örn. "Algoritmalar dersi var" → CLRS kullanıldığı anlamına gelmez)</li>
-            <li>Akademisyenin kişisel CV'sinde bir referans</li>
+            <li>Akademisyenin kişisel CV'sinde geçen bir referans</li>
             <li>Üçüncü taraf sayfalar (Goodreads, Amazon, Wikipedia)</li>
             <li>Login gerektiren / kamuya kapalı LMS içerikleri</li>
           </ul>
           <p>
-            Her kanıt linki, hâlâ tespit anında ulaşılabilir olduğu doğrulandıktan sonra eklenmiştir.
+            Niyet: bir programın o kitabı <em>üstüne kurduğu</em> dersleri yakalamak; "okumak
+            isteyenler için ek kaynak" tarzı yumuşak değinmeleri değil.
+          </p>
+          <p>
+            Her kanıt linki, tespit anında ulaşılabilir olduğu doğrulandıktan sonra eklenmiştir.
             Bağlantılar zaman içinde taşınabilir veya silinebilir; bu nedenle her linkin yanında bir{' '}
             <strong>📦 Wayback Machine yedeği</strong> vardır.
           </p>
