@@ -6,7 +6,7 @@ export default function Navbar() {
       <div className="navbar-inner">
         <NavLink to="/" className="navbar-brand">
           <span>🎓</span>
-          CS Ders Kitapları
+          Bilgisayar Mühendisliği Ders Kitapları
         </NavLink>
         <div className="navbar-links">
           <NavLink

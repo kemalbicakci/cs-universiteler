@@ -374,7 +374,7 @@ export const universities = [
     color: "#FFC72A",
     founded: 1957,
     curriculumUrl: "https://cs.uwaterloo.ca/",
-    description: "Kanada'nın en güçlü CS programlarından birine sahip üniversitesi.",
+    description: "Kanada'nın en güçlü Bilgisayar Mühendisliği programlarından birine sahip üniversitesi.",
     region: "world",
   },
   {

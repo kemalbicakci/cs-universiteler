@@ -37,7 +37,7 @@ export default function Textbooks() {
       <div className="page-header">
         <h1 className="page-title">📚 Ders Kitapları</h1>
         <p className="page-subtitle">
-          İlk 30 dünya ve ilk 30 Türkiye CS programlarının açık syllabus'larında bulunan doğrulanmış kanıt sayısına göre sıralanmıştır
+          İlk 30 dünya ve ilk 30 Türkiye Bilgisayar Mühendisliği programlarının açık syllabus'larında bulunan doğrulanmış kanıt sayısına göre sıralanmıştır
         </p>
       </div>
 

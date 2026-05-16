@@ -23,7 +23,7 @@ export default function Home() {
         <div className="hero-inner">
           <div className="hero-icon">🎓</div>
           <h1 className="hero-title">
-            CS Ders Kitaplarını<br />Keşfedin
+            Bilgisayar Mühendisliği<br />Ders Kitaplarını Keşfedin
           </h1>
           <p className="hero-desc">
             {region === 'tr'
@@ -152,7 +152,7 @@ export default function Home() {
           Hangi kitabı okumalıyım?
         </h2>
         <p style={{ color: 'var(--text-light)', marginBottom: 24, maxWidth: 480, margin: '0 auto 24px' }}>
-          Dünyanın en iyi CS üniversitelerinde hangi kitapların kullanıldığını görün ve
+          Dünyanın en iyi Bilgisayar Mühendisliği üniversitelerinde hangi kitapların kullanıldığını görün ve
           kendi öğrenim yolunuzu planlayın.
         </p>
         <Link to="/kitaplar" className="btn btn-primary" style={{ display: 'inline-flex', background: 'var(--primary)', color: 'white' }}>

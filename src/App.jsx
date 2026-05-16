@@ -28,7 +28,7 @@ export default function App() {
         </main>
         <footer className="footer">
           <div className="footer-inner">
-            <p>CS Müfredatları — Dünya'nın en iyi bilgisayar bilimleri üniversitelerini keşfedin</p>
+            <p>Bilgisayar Mühendisliği Ders Kitapları — Dünya ve Türkiye'nin önde gelen üniversitelerinde okutulan klasikler</p>
             <p className="footer-sub">QS Dünya Üniversite Sıralamaları 2025 verilerine dayalı</p>
           </div>
         </footer>
