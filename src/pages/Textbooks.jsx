@@ -177,9 +177,9 @@ export default function Textbooks() {
 
                     {/* Universities using this book — only shown if there is verified evidence */}
                     {book.usedAt.length > 0 && (
-                    <details style={{ marginTop: 14 }}>
-                      <summary style={{ fontSize: '0.8rem', color: 'var(--text-muted)', cursor: 'pointer' }}>
-                        Bu kitabı kullanan üniversiteler ({book.usedAt.length})
+                    <details className="book-evidence" style={{ marginTop: 14 }}>
+                      <summary className="book-evidence-summary">
+                        ✓ {book.usedAt.length} üniversitede doğrulanmış kaynak — kanıt linkleri
                       </summary>
                       <div style={{ marginTop: 10, display: 'flex', gap: 6, flexWrap: 'wrap' }}>
                         {book.usedAt.map(u => (

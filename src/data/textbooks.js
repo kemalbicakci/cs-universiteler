@@ -16,12 +16,33 @@ export const textbooks = [
     publisher: "MIT Press",
     isbn: "978-0262046305",
     category: "Algoritmalar",
-    usageCount: 0,
+    usageCount: 5,
     url: "https://mitpress.mit.edu/9780262046305/",
     openAccess: false,
     description: "Bilgisayar biliminin temel algoritma kitabı. CLRS olarak da bilinen bu eser, dünya genelinde algoritma eğitiminin standartını belirlemektedir.",
     coverColor: "#8B0000",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "MIT",
+        url: "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/syllabus/",
+      },
+      {
+        name: "CMU",
+        url: "https://www.cs.cmu.edu/~avrim/451f13/syllabus.html",
+      },
+      {
+        name: "Stanford",
+        url: "https://web.stanford.edu/class/archive/cs/cs161/cs161.1204/resources.html",
+      },
+      {
+        name: "Bilkent",
+        url: "http://cs.bilkent.edu.tr/~ozan.karsavuran/473/",
+      },
+      {
+        name: "ODTÜ",
+        url: "https://user.ceng.metu.edu.tr/~yazici/Courses/Courses/CEng567-Course.htm",
+      },
+    ],
     courses: [
       "Algoritmalar",
       "Veri Yapıları",
@@ -45,12 +66,17 @@ export const textbooks = [
     publisher: "Wiley",
     isbn: "978-1119800361",
     category: "İşletim Sistemleri",
-    usageCount: 0,
+    usageCount: 1,
     url: "https://codex.cs.yale.edu/avi/os-book/",
     openAccess: false,
     description: "İşletim sistemleri eğitiminin standart başvuru kitabı. Kapak tasarımındaki dinozor görseli nedeniyle \"Dinozor Kitabı\" olarak bilinir.",
     coverColor: "#2E7D32",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "Bilkent",
+        url: "https://www.cs.bilkent.edu.tr/~korpe/courses/cs342spring2025/index.html",
+      },
+    ],
     courses: [
       "İşletim Sistemleri",
     ],
@@ -71,12 +97,21 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0134092669",
     category: "Bilgisayar Sistemleri",
-    usageCount: 0,
+    usageCount: 2,
     url: null,
     openAccess: false,
     description: "Programcı perspektifinden bilgisayar sistemlerini en derinlemesine ele alan eser. CMU'nun temel ders kitabı; donanım, OS, ağ ve güvenliği bir arada anlatır.",
     coverColor: "#1A237E",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "CMU",
+        url: "https://csapp.cs.cmu.edu/",
+      },
+      {
+        name: "Stanford",
+        url: "https://web.stanford.edu/class/archive/cs/cs107/cs107.1186/faq.html",
+      },
+    ],
     courses: [
       "Bilgisayar Sistemleri",
       "Bilgisayar Mimarisi",
@@ -98,12 +133,33 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0134610993",
     category: "Yapay Zeka",
-    usageCount: 0,
+    usageCount: 5,
     url: "https://aima.cs.berkeley.edu/",
     openAccess: false,
     description: "1500'den fazla üniversitede okutulan dünya standardı yapay zeka kitabı. Alan'ın en kapsamlı başvuru kaynağı.",
     coverColor: "#1565C0",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "UC Berkeley",
+        url: "https://inst.eecs.berkeley.edu/~cs188/fa24/",
+      },
+      {
+        name: "UT Austin",
+        url: "https://www.cs.utexas.edu/~mooney/cs343/",
+      },
+      {
+        name: "MIT",
+        url: "https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/pages/readings/",
+      },
+      {
+        name: "Stanford",
+        url: "https://ai.stanford.edu/~latombe/cs121/2011/schedule.htm",
+      },
+      {
+        name: "Ege",
+        url: "https://ebp.ege.edu.tr/DereceProgramlari/Ders/2/4596/208245/729209/1",
+      },
+    ],
     courses: [
       "Yapay Zeka",
       "Makine Öğrenmesi",
@@ -152,12 +208,25 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0-13-299203-4",
     category: "Bilgisayar Ağları",
-    usageCount: 0,
+    usageCount: 3,
     url: "https://www.pearson.com/en-us/subject-catalog/p/computer-networks/P200000003017",
     openAccess: false,
     description: "Bilgisayar ağları alanının klasik eğitim kitabı. Katmanlı ağ mimarisini kapsamlı biçimde ele alır.",
     coverColor: "#00695C",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "MIT",
+        url: "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/pages/related-resources/",
+      },
+      {
+        name: "CMU",
+        url: "https://www.cs.cmu.edu/~prs/15-441-F16/syllabus.html",
+      },
+      {
+        name: "ODTÜ",
+        url: "https://eonur.ceng.metu.edu.tr/wp-content/uploads/2024/10/CENG435-Syllabus-2024f.pdf",
+      },
+    ],
     courses: [
       "Bilgisayar Ağları",
     ],
@@ -177,12 +246,17 @@ export const textbooks = [
     publisher: "Wellesley-Cambridge Press",
     isbn: "978-1733146678",
     category: "Doğrusal Cebir",
-    usageCount: 0,
+    usageCount: 1,
     url: "https://math.mit.edu/~gs/linearalgebra/",
     openAccess: false,
     description: "MIT'in efsanevi doğrusal cebir hocası Strang'in kitabı. MIT OCW'daki ders videoları milyonlarca kez izlenmiş; makine öğrenmesi ve veri biliminin matematiksel altyapısı için zorunlu okuma.",
     coverColor: "#5C3317",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "MIT",
+        url: "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/",
+      },
+    ],
     courses: [
       "Doğrusal Cebir",
       "Makine Öğrenmesi",
@@ -232,12 +306,33 @@ export const textbooks = [
     publisher: "Morgan Kaufmann",
     isbn: "978-0128203316",
     category: "Bilgisayar Mimarisi",
-    usageCount: 0,
+    usageCount: 5,
     url: "https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6",
     openAccess: false,
     description: "Bilgisayar organizasyonu ve mimarisinin temel eğitim kitabı. Her yıl 40.000'den fazla öğrenci tarafından kullanılır.",
     coverColor: "#283593",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "UC Berkeley",
+        url: "https://inst.eecs.berkeley.edu/~cs61c/su21/resources/",
+      },
+      {
+        name: "CMU",
+        url: "https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture",
+      },
+      {
+        name: "MIT",
+        url: "https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/",
+      },
+      {
+        name: "Cornell",
+        url: "https://www.cs.cornell.edu/courses/cs3410/2018fa/resources/",
+      },
+      {
+        name: "Bilkent",
+        url: "http://www.cs.bilkent.edu.tr/~will/courses/CS224/",
+      },
+    ],
     courses: [
       "Bilgisayar Mimarisi",
       "Bilgisayar Organizasyonu",
@@ -285,12 +380,33 @@ export const textbooks = [
     publisher: "Cengage Learning",
     isbn: "978-1133187790",
     category: "Hesaplama Teorisi",
-    usageCount: 0,
+    usageCount: 5,
     url: "https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/",
     openAccess: false,
     description: "Formal diller, hesaplanabilirlik ve karmaşıklık teorisinin standart ders kitabı. MIT'in kendi kitabı.",
     coverColor: "#0D47A1",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "MIT",
+        url: "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/syllabus/",
+      },
+      {
+        name: "UC Berkeley",
+        url: "https://people.eecs.berkeley.edu/~sseshia/172/",
+      },
+      {
+        name: "CMU",
+        url: "https://www.cs.cmu.edu/~odonnell/15455-s17/",
+      },
+      {
+        name: "Princeton",
+        url: "https://www.cs.princeton.edu/courses/archive/fall17/cos487/",
+      },
+      {
+        name: "ODTÜ",
+        url: "https://user.ceng.metu.edu.tr/~polat/ceng565.html",
+      },
+    ],
     courses: [
       "Hesaplama Teorisi",
       "Formal Diller",
@@ -312,12 +428,25 @@ export const textbooks = [
     publisher: "Morgan Kaufmann",
     isbn: "978-0128119051",
     category: "Bilgisayar Mimarisi",
-    usageCount: 0,
+    usageCount: 3,
     url: "https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1",
     openAccess: false,
     description: "İleri düzey bilgisayar mimarisi dersleri için standart kaynak. Turing ödüllü iki yazarın başyapıtı.",
     coverColor: "#37474F",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "Stanford",
+        url: "https://web.stanford.edu/class/ee282/",
+      },
+      {
+        name: "CMU",
+        url: "https://www.cs.cmu.edu/~18742/syllabus.html",
+      },
+      {
+        name: "UC Berkeley",
+        url: "https://people.eecs.berkeley.edu/~randy/Courses/CS252.F95/CS252.Intro.html",
+      },
+    ],
     courses: [
       "Bilgisayar Mimarisi",
       "İleri Sistem Tasarımı",
@@ -340,12 +469,21 @@ export const textbooks = [
     publisher: "MIT Press",
     isbn: "978-0262510875",
     category: "Programlama Dilleri",
-    usageCount: 0,
+    usageCount: 2,
     url: "https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html",
     openAccess: true,
     description: "MIT'in efsanevi programlama kitabı. \"Büyücü Kitabı\" olarak da bilinen eser, hesaplama ve soyutlama kavramlarını Scheme diliyle anlatır. MIT Press'in izniyle ücretsiz erişilebilir.",
     coverColor: "#7B1FA2",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "MIT",
+        url: "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/",
+      },
+      {
+        name: "UC Berkeley",
+        url: "https://people.eecs.berkeley.edu/~bh/sicp.html",
+      },
+    ],
     courses: [
       "Programlama Dilleri",
       "Fonksiyonel Programlama",
@@ -369,12 +507,25 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0321486813",
     category: "Derleyiciler",
-    usageCount: 0,
+    usageCount: 3,
     url: "https://suif.stanford.edu/dragonbook/",
     openAccess: false,
     description: "Derleyici tasarımının klasik başvuru kitabı. Kapağındaki ejderha görseli nedeniyle \"Ejderha Kitabı\" olarak bilinir.",
     coverColor: "#6A1B9A",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "Stanford",
+        url: "https://suif.stanford.edu/dragonbook/",
+      },
+      {
+        name: "CMU",
+        url: "https://www.cs.cmu.edu/~trg/15-411/overview.htm",
+      },
+      {
+        name: "MIT",
+        url: "https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/pages/readings/",
+      },
+    ],
     courses: [
       "Derleyici Tasarımı",
       "Programlama Dilleri",
@@ -396,12 +547,21 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0321295354",
     category: "Algoritmalar",
-    usageCount: 0,
+    usageCount: 2,
     url: "https://www.pearson.com/en-us/subject-catalog/p/algorithm-design/P200000003209",
     openAccess: false,
     description: "Cornell'ın efsanevi algoritma hocaları tarafından yazılan, özellikle ağ akışı, NP-tamlık ve yaklaşım algoritmalarını mükemmel biçimde ele alan kitap.",
     coverColor: "#BF360C",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "Cornell",
+        url: "https://www.cs.cornell.edu/courses/cs4820/2025sp/syllabus/",
+      },
+      {
+        name: "Princeton",
+        url: "https://www.cs.princeton.edu/~wayne/kleinberg-tardos/",
+      },
+    ],
     courses: [
       "Algoritmalar",
       "Algoritma Tasarımı",
@@ -536,12 +696,29 @@ export const textbooks = [
     publisher: "MIT Press",
     isbn: "978-0262035613",
     category: "Derin Öğrenme",
-    usageCount: 0,
+    usageCount: 4,
     url: "https://www.deeplearningbook.org/",
     openAccess: true,
     description: "Derin öğrenme alanının en kapsamlı referans kitabı. MIT Press tarafından ücretsiz online olarak da sunulmaktadır.",
     coverColor: "#00838F",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "CMU",
+        url: "https://deeplearning.cs.cmu.edu/F21/index.html",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://web.cs.hacettepe.edu.tr/~erkut/cmp784.f21/index.html",
+      },
+      {
+        name: "Bilkent",
+        url: "http://www.cs.bilkent.edu.tr/~dibeklioglu/teaching/cs559/",
+      },
+      {
+        name: "ODTÜ",
+        url: "https://user.ceng.metu.edu.tr/~gcinbis/courses/Spring24/CENG796/index.html",
+      },
+    ],
     courses: [
       "Derin Öğrenme",
       "Makine Öğrenmesi",
@@ -591,12 +768,29 @@ export const textbooks = [
     publisher: "Arpaci-Dusseau Books",
     isbn: "—",
     category: "İşletim Sistemleri",
-    usageCount: 0,
+    usageCount: 4,
     url: "https://pages.cs.wisc.edu/~remzi/OSTEP/",
     openAccess: true,
     description: "Ücretsiz açık erişimli, modern ve pratik odaklı işletim sistemleri kitabı. Giderek artan popülerliğiyle klasik OS kitaplarının yerini alıyor.",
     coverColor: "#F57F17",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "Cornell",
+        url: "https://www.cs.cornell.edu/courses/cs4410/2022fa/resources/",
+      },
+      {
+        name: "Waterloo",
+        url: "https://student.cs.uwaterloo.ca/~cs350/S20/reading.shtml",
+      },
+      {
+        name: "Wisconsin",
+        url: "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+      },
+      {
+        name: "Washington",
+        url: "https://courses.cs.washington.edu/courses/cse451/22au/overview.html",
+      },
+    ],
     courses: [
       "İşletim Sistemleri",
     ],
@@ -617,12 +811,21 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0133591620",
     category: "İşletim Sistemleri",
-    usageCount: 0,
+    usageCount: 2,
     url: "https://www.pearson.com/en-us/subject-catalog/p/modern-operating-systems/P200000003229",
     openAccess: false,
     description: "İşletim sistemlerinin sistem perspektifinden ele alındığı kapsamlı kaynak. MINIX işletim sisteminin yaratıcısı tarafından yazılmış.",
     coverColor: "#1A237E",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "UT Austin",
+        url: "https://www.cs.utexas.edu/~witchel/372/syllabus.html",
+      },
+      {
+        name: "Bilkent",
+        url: "http://www.cs.bilkent.edu.tr/~korpe/courses/cs342spring2018/references.html",
+      },
+    ],
     courses: [
       "İşletim Sistemleri",
     ],
@@ -642,12 +845,29 @@ export const textbooks = [
     publisher: "Springer",
     isbn: "978-0387310732",
     category: "Makine Öğrenmesi",
-    usageCount: 0,
+    usageCount: 4,
     url: "https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
     openAccess: true,
     description: "Makine öğrenmesi ve örüntü tanımanın teorik temelleri için kapsamlı kaynak. Microsoft Research desteğiyle ücretsiz erişilebilir.",
     coverColor: "#880E4F",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "Bilkent",
+        url: "http://www.cs.bilkent.edu.tr/~saksoy/courses/cs551-Spring2019/index.html",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://web.cs.hacettepe.edu.tr/~erkut/ain311.f21/index.html",
+      },
+      {
+        name: "İTÜ",
+        url: "https://web.itu.edu.tr/~cataltepe/patrecml_ms/index.html",
+      },
+      {
+        name: "İYTE",
+        url: "https://ceng.iyte.edu.tr/courses/ceng-463/",
+      },
+    ],
     courses: [
       "Makine Öğrenmesi",
       "Örüntü Tanıma",
@@ -669,12 +889,17 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0133943030",
     category: "Yazılım Mühendisliği",
-    usageCount: 0,
+    usageCount: 1,
     url: "https://www.pearson.com/en-us/subject-catalog/p/software-engineering/P200000003036",
     openAccess: false,
     description: "Yazılım mühendisliğinin tüm boyutlarını kapsayan kapsamlı ders kitabı. Özellikle Avrupa üniversitelerinde yaygın olarak okutulmaktadır.",
     coverColor: "#006064",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "UCLA",
+        url: "http://web.cs.ucla.edu/classes/spring17/cs130/syllabus.html",
+      },
+    ],
     courses: [
       "Yazılım Mühendisliği",
       "Yazılım Geliştirme",
@@ -722,12 +947,17 @@ export const textbooks = [
     publisher: "Prentice Hall",
     isbn: "978-0131103627",
     category: "Programlama",
-    usageCount: 0,
+    usageCount: 1,
     url: null,
     openAccess: false,
     description: "C dilini icat eden kişilerin yazdığı, kısa ama derli toplu başyapıt. Programlama kitapları arasında en fazla taklit edilen yazım stiline sahip eser.",
     coverColor: "#3E2723",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "Stanford",
+        url: "https://web.stanford.edu/class/archive/cs/cs107/cs107.1174/syllabus.html",
+      },
+    ],
     courses: [
       "C Programlama",
       "Sistem Programlama",
@@ -752,12 +982,21 @@ export const textbooks = [
     publisher: "Springer",
     isbn: "978-3031387463",
     category: "Makine Öğrenmesi",
-    usageCount: 0,
+    usageCount: 2,
     url: "https://www.statlearning.com/",
     openAccess: true,
     description: "İstatistiksel öğrenmenin erişilebilir girişini sunan popüler kitap. Python versiyonu ücretsiz indirilebilir.",
     coverColor: "#006064",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "UC Berkeley",
+        url: "https://www.stat.berkeley.edu/~songmei/Teaching/STAT154_Fall2021/index.html",
+      },
+      {
+        name: "Stanford",
+        url: "https://web.stanford.edu/~lmackey/stats202/",
+      },
+    ],
     courses: [
       "Makine Öğrenmesi",
       "Veri Bilimi",
@@ -780,12 +1019,21 @@ export const textbooks = [
     publisher: "Springer",
     isbn: "978-0387848570",
     category: "İstatistik",
-    usageCount: 0,
+    usageCount: 2,
     url: "https://hastie.su.domains/ElemStatLearn/",
     openAccess: true,
     description: "İstatistiksel öğrenmenin matematiksel temellerini derinlemesine işleyen ileri düzey kaynak. Springer'ın izniyle ücretsiz PDF olarak erişilebilir.",
     coverColor: "#1B5E20",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "Stanford",
+        url: "https://web.stanford.edu/~hastie/ElemStatLearn/",
+      },
+      {
+        name: "CMU",
+        url: "http://www.cs.cmu.edu/~tom/702.html",
+      },
+    ],
     courses: [
       "İstatistiksel Öğrenme",
       "Makine Öğrenmesi",
@@ -807,12 +1055,17 @@ export const textbooks = [
     publisher: "McGraw-Hill",
     isbn: "978-0070428072",
     category: "Makine Öğrenmesi",
-    usageCount: 0,
+    usageCount: 1,
     url: "http://www.cs.cmu.edu/~tom/mlbook.html",
     openAccess: true,
     description: "Makine öğrenmesinin klasik tanımlayıcı kitabı. CMU'dan Tom Mitchell tarafından yazılmış, öğrenmenin teorik temellerini anlatır.",
     coverColor: "#B71C1C",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "CMU",
+        url: "http://www.cs.cmu.edu/~tom/10701_sp11/",
+      },
+    ],
     courses: [
       "Makine Öğrenmesi",
       "Yapay Zeka",
@@ -860,12 +1113,21 @@ export const textbooks = [
     publisher: "MIT Press",
     isbn: "978-0262039246",
     category: "Kuvvetlendirmeli Öğrenme",
-    usageCount: 0,
+    usageCount: 2,
     url: "http://incompleteideas.net/book/the-book-2nd.html",
     openAccess: true,
     description: "Kuvvetlendirmeli öğrenme alanının kurucu kitabı. MIT Press'in izniyle tamamı ücretsiz çevrimiçi erişilebilir.",
     coverColor: "#E65100",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "Stanford",
+        url: "https://web.stanford.edu/class/cs234/CS234Spr2024/index.html",
+      },
+      {
+        name: "CMU",
+        url: "https://www.cs.cmu.edu/~rsalakhu/10703/",
+      },
+    ],
     courses: [
       "Kuvvetlendirmeli Öğrenme",
       "Yapay Zeka",
@@ -886,12 +1148,21 @@ export const textbooks = [
     publisher: "MIT Press",
     isbn: "978-0262046824",
     category: "Makine Öğrenmesi",
-    usageCount: 0,
+    usageCount: 2,
     url: "https://probml.github.io/pml-book/",
     openAccess: true,
     description: "Olasılıksal makine öğrenmesinin modern ve kapsamlı sunumu. MIT Press'in izniyle ücretsiz erişilebilir.",
     coverColor: "#4527A0",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "CMU",
+        url: "https://www.cs.cmu.edu/~mgormley/courses/10601-s24/syllabus.html",
+      },
+      {
+        name: "Stanford",
+        url: "https://cs.stanford.edu/~ermon/cs228/index.html",
+      },
+    ],
     courses: [
       "Makine Öğrenmesi",
       "Olasılıksal Modeller",
@@ -913,12 +1184,17 @@ export const textbooks = [
     publisher: "Prentice Hall",
     isbn: "978-1543057385",
     category: "Dağıtık Sistemler",
-    usageCount: 0,
+    usageCount: 1,
     url: "https://www.distributed-systems.net/index.php/books/ds3/",
     openAccess: true,
     description: "Dağıtık sistemler alanının temel kaynaklarından biri. 3. baskısı yazarların kendi web sitesinde ücretsiz PDF olarak sunulmaktadır.",
     coverColor: "#2E7D32",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "MIT",
+        url: "https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/pages/syllabus/",
+      },
+    ],
     courses: [
       "Dağıtık Sistemler",
     ],
@@ -938,12 +1214,17 @@ export const textbooks = [
     publisher: "O'Reilly",
     isbn: "978-1098125974",
     category: "Makine Öğrenmesi",
-    usageCount: 0,
+    usageCount: 1,
     url: "https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/",
     openAccess: false,
     description: "Scikit-Learn, Keras ve TensorFlow kullanarak makine öğrenmesini uygulamalı öğreten en popüler pratik kitap.",
     coverColor: "#AD1457",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "Marmara",
+        url: "https://cse-eng.marmara.edu.tr/dosya/eng/cse/documents/syllabus_tr/fall/v0/CSE4288.pdf",
+      },
+    ],
     courses: [
       "Makine Öğrenmesi",
       "Derin Öğrenme",
@@ -1047,12 +1328,17 @@ export const textbooks = [
     publisher: "Wiley",
     isbn: "978-0471241959",
     category: "İstatistik",
-    usageCount: 0,
+    usageCount: 1,
     url: "https://www.wiley.com/en-us/Elements+of+Information+Theory%2C+2nd+Edition-p-9780471241959",
     openAccess: false,
     description: "Bilgi teorisinin standart ders kitabı. Entropi, karşılıklı bilgi ve kodlama teorisini kapsamlı biçimde ele alır.",
     coverColor: "#1A237E",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "Stanford",
+        url: "https://web.stanford.edu/class/ee376a/reading.html",
+      },
+    ],
     courses: [
       "Bilgi Teorisi",
       "İstatistik",
@@ -1129,12 +1415,17 @@ export const textbooks = [
     publisher: "Springer",
     isbn: "978-1441923226",
     category: "İstatistik",
-    usageCount: 0,
+    usageCount: 1,
     url: "https://www.stat.cmu.edu/~larry/all-of-statistics/",
     openAccess: true,
     description: "İstatistiği CS öğrencileri için derli toplu sunan CMU kitabı. Makine öğrenmesi ve veri biliminin istatistiksel altyapısı için mükemmel.",
     coverColor: "#4527A0",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "CMU",
+        url: "https://www.stat.cmu.edu/~larry/=stat705/",
+      },
+    ],
     courses: [
       "İstatistik",
       "Makine Öğrenmesi",
@@ -1155,12 +1446,33 @@ export const textbooks = [
     publisher: "Springer",
     isbn: "978-3030343712",
     category: "Bilgisayarlı Görü",
-    usageCount: 0,
+    usageCount: 5,
     url: "https://szeliski.org/Book/",
     openAccess: true,
     description: "Bilgisayar görüşünün kapsamlı ders kitabı. Szeliski'nin kişisel sitesinde ücretsiz PDF olarak erişilebilir.",
     coverColor: "#00838F",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "CMU",
+        url: "http://16385.courses.cs.cmu.edu/spring2024/courseinfo",
+      },
+      {
+        name: "Washington",
+        url: "https://courses.cs.washington.edu/courses/csep576/13sp/",
+      },
+      {
+        name: "Bilkent",
+        url: "https://www.cs.bilkent.edu.tr/~dibeklioglu/teaching/cs554/",
+      },
+      {
+        name: "ODTÜ",
+        url: "https://users.metu.edu.tr/alatan/Courses/rvoutline.html",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://web.cs.hacettepe.edu.tr/~nazli/courses/bbm416/bbm416.html",
+      },
+    ],
     courses: [
       "Bilgisayarlı Görü",
       "Yapay Zeka",
@@ -1181,12 +1493,17 @@ export const textbooks = [
     publisher: "MIT Press",
     isbn: "978-0262162098",
     category: "Programlama Dilleri",
-    usageCount: 0,
+    usageCount: 1,
     url: "https://www.cis.upenn.edu/~bcpierce/tapl/",
     openAccess: false,
     description: "Tür sistemleri ve programlama dillerinin teorik temellerini anlatan standart ileri düzey kaynak.",
     coverColor: "#880E4F",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "CMU",
+        url: "https://www.cs.cmu.edu/~rjsimmon/15312-s14/",
+      },
+    ],
     courses: [
       "Programlama Dilleri",
       "Tür Teorisi",
@@ -1208,12 +1525,21 @@ export const textbooks = [
     publisher: "Cambridge University Press",
     isbn: "978-0521540513",
     category: "Bilgisayarlı Görü",
-    usageCount: 0,
+    usageCount: 2,
     url: "https://www.robots.ox.ac.uk/~vgg/hzbook/",
     openAccess: false,
     description: "3D bilgisayar görüşünün temel kaynağı. Geometrik bilgisayar görüşü araştırmacılarının başucu kitabı.",
     coverColor: "#1A237E",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "CMU",
+        url: "http://16385.courses.cs.cmu.edu/spring2024/lectures",
+      },
+      {
+        name: "Oxford",
+        url: "https://www.robots.ox.ac.uk/~vgg/hzbook/",
+      },
+    ],
     courses: [
       "Bilgisayarlı Görü",
       "3D Görü",
@@ -1261,12 +1587,21 @@ export const textbooks = [
     publisher: "Cambridge University Press",
     isbn: "978-1107002173",
     category: "Kuantum Hesaplama",
-    usageCount: 0,
+    usageCount: 2,
     url: "https://www.cambridge.org/core/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE",
     openAccess: false,
     description: "Kuantum bilişimin standart referans kitabı. Hem fizikçiler hem de bilgisayar bilimcileri için kapsamlı bir kaynak.",
     coverColor: "#00695C",
-    usedAt: [],
+    usedAt: [
+      {
+        name: "Caltech",
+        url: "https://www.preskill.caltech.edu/ph229/",
+      },
+      {
+        name: "MIT",
+        url: "https://ocw.mit.edu/courses/mas-865j-quantum-information-science-spring-2006/pages/syllabus/",
+      },
+    ],
     courses: [
       "Kuantum Hesaplama",
       "Kuantum Bilgi",
