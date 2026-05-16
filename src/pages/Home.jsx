@@ -5,7 +5,12 @@ import { textbooks } from '../data/textbooks'
 
 const WORLD_UNIS = universities.filter(u => u.region === 'world')
 const TR_UNIS = universities.filter(u => u.region === 'tr')
-const PREVIEW_BOOKS = textbooks.slice(0, 4)
+const RANKED_BOOKS = [...textbooks].sort((a, b) => {
+  const d = (b.usedAt?.length || 0) - (a.usedAt?.length || 0)
+  if (d !== 0) return d
+  return a.title.localeCompare(b.title)
+}).map((b, i) => ({ ...b, rank: i + 1 }))
+const PREVIEW_BOOKS = RANKED_BOOKS.slice(0, 4)
 
 export default function Home() {
   const [region, setRegion] = useState('world')

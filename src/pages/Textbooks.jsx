@@ -10,8 +10,18 @@ export default function Textbooks() {
   const [category, setCategory] = useState('Tümü')
   const [openAccessOnly, setOpenAccessOnly] = useState(false)
 
+  // Compute a global rank from verified-citation count (desc, title asc tiebreak).
+  const ranked = useMemo(() => {
+    const sorted = [...textbooks].sort((a, b) => {
+      const d = (b.usedAt?.length || 0) - (a.usedAt?.length || 0)
+      if (d !== 0) return d
+      return a.title.localeCompare(b.title)
+    })
+    return sorted.map((b, i) => ({ ...b, rank: i + 1 }))
+  }, [])
+
   const filtered = useMemo(() => {
-    return textbooks.filter(b => {
+    return ranked.filter(b => {
       const matchSearch =
         b.title.toLowerCase().includes(search.toLowerCase()) ||
         b.shortAuthors.toLowerCase().includes(search.toLowerCase()) ||
@@ -20,14 +30,14 @@ export default function Textbooks() {
       const matchOA = !openAccessOnly || b.openAccess
       return matchSearch && matchCat && matchOA
     })
-  }, [search, category, openAccessOnly])
+  }, [ranked, search, category, openAccessOnly])
 
   return (
     <div className="page">
       <div className="page-header">
-        <h1 className="page-title">📚 En Çok Okutulan Kitaplar</h1>
+        <h1 className="page-title">📚 Ders Kitapları</h1>
         <p className="page-subtitle">
-          Dünyanın önde gelen CS üniversitelerinde kullanım sıklığına göre sıralanmış ders kitapları
+          İlk 30 dünya ve ilk 30 Türkiye CS programlarının açık syllabus'larında bulunan doğrulanmış kanıt sayısına göre sıralanmıştır
         </p>
       </div>
 
