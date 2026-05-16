@@ -2064,6 +2064,67 @@ export const textbooks = [
     ],
     pages: 446,
   },
+  {
+    id: "kurose-ross-networking",
+    rank: 56,
+    title: "Computer Networking: A Top-Down Approach",
+    subtitle: "Top-down yaklaşımla bilgisayar ağları",
+    authors: [
+      "James F. Kurose",
+      "Keith W. Ross",
+    ],
+    shortAuthors: "Kurose & Ross",
+    edition: "8. Baskı",
+    year: 2021,
+    publisher: "Pearson",
+    isbn: "978-0136681557",
+    category: "Bilgisayar Ağları",
+    usageCount: 8,
+    url: "https://gaia.cs.umass.edu/kurose_ross/index.php",
+    openAccess: false,
+    description: "Bilgisayar ağlarını uygulama katmanından başlayıp aşağıya inerek anlatan modern klasik. Dünya çapında lisans seviyesinde en yaygın okutulan ağ ders kitabı; 14 dile çevrilmiş, yüzlerce üniversitede kullanılıyor. Yazarların kendi sayfasından eğitmen kaynakları (slaytlar, Wireshark laboratuvarları) ücretsiz olarak sunuluyor.",
+    coverColor: "#2b6cb0",
+    usedAt: [
+      {
+        name: "MIT",
+        url: "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/pages/syllabus/",
+      },
+      {
+        name: "UC Berkeley",
+        url: "https://people.eecs.berkeley.edu/~sylvia/cs268-2019/syllabus.html",
+      },
+      {
+        name: "CMU",
+        url: "https://www.cs.cmu.edu/~prs/15-441-F14/syllabus.html",
+      },
+      {
+        name: "Princeton",
+        url: "https://www.cs.princeton.edu/courses/archive/spring18/cos463/syllabus.html",
+      },
+      {
+        name: "Cambridge",
+        url: "https://www.cl.cam.ac.uk/teaching/2425/CompNet/materials.html",
+      },
+      {
+        name: "Bilkent",
+        url: "http://www.cs.bilkent.edu.tr/~korpe/courses/cs421fall2011/syllabus.html",
+      },
+      {
+        name: "ODTÜ",
+        url: "https://eonur.ceng.metu.edu.tr/wp-content/uploads/2024/10/CENG435-Syllabus-2024f.pdf",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://web.cs.hacettepe.edu.tr/~abc/teaching/bbm451/slides/Chapter4_4.pdf",
+      },
+    ],
+    courses: [
+      "Computer Networks",
+      "Introduction to Networking",
+      "Internet Architecture",
+    ],
+    pages: 832,
+  },
 ]
 
 export const categoryColors = {
