@@ -102,7 +102,9 @@ button { cursor: pointer; font-family: inherit; }
   color: #fff;
 }
 
-.navbar-brand span { font-size: 1.4rem; }
+.navbar-brand > span:first-child { font-size: 1.4rem; }
+.navbar-brand-full { display: inline; }
+.navbar-brand-short { display: none; }
 
 .navbar-links {
   display: flex;
@@ -1212,7 +1214,11 @@ button { cursor: pointer; font-family: inherit; }
   .hero-desc { font-size: 1rem; }
   .stats-inner { flex-wrap: wrap; }
   .stat-item { border-right: none; border-bottom: 1px solid var(--border); }
-  .navbar-brand span { display: none; }
+  .navbar-inner { padding: 0 14px; }
+  .navbar-brand { font-size: 0.95rem; gap: 6px; }
+  .navbar-brand-full { display: none; }
+  .navbar-brand-short { display: inline; }
+  .nav-link { padding: 8px 10px; font-size: 0.85rem; }
   .book-card-inner { flex-direction: column; }
   .book-rank-col { width: 100%; height: 48px; border-right: none; border-bottom: 1px solid var(--border); }
   .book-spine { width: 100%; height: 5px; }
