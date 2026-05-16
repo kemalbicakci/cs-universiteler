@@ -30,7 +30,7 @@ export const universities = [
   {
     id: "cmu",
     rank: 3,
-    name: "Carnegie Mellon",
+    name: "CMU",
     fullName: "Carnegie Mellon University",
     country: "ABD",
     city: "Pittsburgh, PA",
@@ -86,7 +86,7 @@ export const universities = [
   {
     id: "eth",
     rank: 7,
-    name: "ETH Zurich",
+    name: "ETH Zürich",
     fullName: "ETH Zürich",
     country: "İsviçre",
     city: "Zürich",
@@ -268,7 +268,7 @@ export const universities = [
   {
     id: "michigan",
     rank: 20,
-    name: "U. Michigan",
+    name: "Michigan",
     fullName: "University of Michigan",
     country: "ABD",
     city: "Ann Arbor, MI",
@@ -310,7 +310,7 @@ export const universities = [
   {
     id: "uw-seattle",
     rank: 23,
-    name: "UW Seattle",
+    name: "Washington",
     fullName: "University of Washington",
     country: "ABD",
     city: "Seattle, WA",
