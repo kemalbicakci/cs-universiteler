@@ -157,7 +157,7 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0134610993",
     category: "Yapay Zeka",
-    usageCount: 6,
+    usageCount: 8,
     url: "https://aima.cs.berkeley.edu/",
     openAccess: false,
     description: "1500'den fazla üniversitede okutulan dünya standardı yapay zeka kitabı. Alan'ın en kapsamlı başvuru kaynağı.",
@@ -187,6 +187,14 @@ export const textbooks = [
         name: "Washington",
         url: "https://courses.cs.washington.edu/courses/cse473/22wi/",
       },
+      {
+        name: "Bilkent",
+        url: "http://www.cs.bilkent.edu.tr/~duygulu/Courses/CS461/index.html",
+      },
+      {
+        name: "ODTÜ",
+        url: "https://saksagan.ceng.metu.edu.tr/courses/secondprog/ceng561/syllabus/index.html",
+      },
     ],
     courses: [
       "Yapay Zeka",
@@ -208,7 +216,7 @@ export const textbooks = [
     publisher: "McGraw-Hill",
     isbn: "978-1259676512",
     category: "Ayrık Matematik",
-    usageCount: 2,
+    usageCount: 3,
     url: "https://www.mheducation.com/highered/product/discrete-mathematics-its-applications-rosen/M9781259676512.html",
     openAccess: false,
     description: "600'den fazla Kuzey Amerika üniversitesinde okutulan ayrık matematik klasiği. CS müfredatlarının temel matematik kitabı.",
@@ -221,6 +229,10 @@ export const textbooks = [
       {
         name: "CMU",
         url: "https://www.cs.cmu.edu/afs/cs/academic/class/15251-f06/Site/Help/related-texts.html",
+      },
+      {
+        name: "Çankaya",
+        url: "https://math123.cankaya.edu.tr/",
       },
     ],
     courses: [
@@ -245,7 +257,7 @@ export const textbooks = [
     publisher: "Pearson",
     isbn: "978-0-13-299203-4",
     category: "Bilgisayar Ağları",
-    usageCount: 5,
+    usageCount: 6,
     url: "https://www.pearson.com/en-us/subject-catalog/p/computer-networks/P200000003017",
     openAccess: false,
     description: "Bilgisayar ağları alanının klasik eğitim kitabı. Katmanlı ağ mimarisini kapsamlı biçimde ele alır.",
@@ -270,6 +282,10 @@ export const textbooks = [
       {
         name: "Princeton",
         url: "https://www.cs.princeton.edu/courses/archive/spring19/cos461/",
+      },
+      {
+        name: "İTÜ",
+        url: "https://web.itu.edu.tr/~ulugbayazit/ISE306.htm",
       },
     ],
     courses: [
@@ -1176,7 +1192,7 @@ export const textbooks = [
     publisher: "McGraw-Hill",
     isbn: "978-0070428072",
     category: "Makine Öğrenmesi",
-    usageCount: 1,
+    usageCount: 2,
     url: "http://www.cs.cmu.edu/~tom/mlbook.html",
     openAccess: true,
     description: "Makine öğrenmesinin klasik tanımlayıcı kitabı. CMU'dan Tom Mitchell tarafından yazılmış, öğrenmenin teorik temellerini anlatır.",
@@ -1185,6 +1201,10 @@ export const textbooks = [
       {
         name: "CMU",
         url: "http://www.cs.cmu.edu/~tom/10701_sp11/",
+      },
+      {
+        name: "Hacettepe",
+        url: "https://web.cs.hacettepe.edu.tr/~ilyas/Courses/CMP712/",
       },
     ],
     courses: [
@@ -1273,7 +1293,7 @@ export const textbooks = [
     publisher: "MIT Press",
     isbn: "978-0262046824",
     category: "Makine Öğrenmesi",
-    usageCount: 3,
+    usageCount: 4,
     url: "https://probml.github.io/pml-book/",
     openAccess: true,
     description: "Olasılıksal makine öğrenmesinin modern ve kapsamlı sunumu. MIT Press'in izniyle ücretsiz erişilebilir.",
@@ -1290,6 +1310,10 @@ export const textbooks = [
       {
         name: "Washington",
         url: "https://courses.cs.washington.edu/courses/cse446/24sp/textbooks/",
+      },
+      {
+        name: "Bilkent",
+        url: "http://www.cs.bilkent.edu.tr/~dibeklioglu/teaching/cs559/",
       },
     ],
     courses: [
@@ -1894,7 +1918,7 @@ export const textbooks = [
     publisher: "CRC Press",
     isbn: "978-0367505035",
     category: "Bilgisayar Grafikleri",
-    usageCount: 3,
+    usageCount: 4,
     url: "https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shirley/p/book/9780367505035",
     openAccess: false,
     description: "Bilgisayar grafiklerinin temel ders kitabı. Işın izleme, dönüşümler, gölgelendirme ve render teknikleri hem teorik hem pratik yönleriyle ele alınır.",
@@ -1911,6 +1935,10 @@ export const textbooks = [
       {
         name: "CMU",
         url: "https://15462.courses.cs.cmu.edu/fall2022/courseinfo",
+      },
+      {
+        name: "ODTÜ",
+        url: "https://saksagan.ceng.metu.edu.tr/courses/ceng477/files/477_syllabus_2022.html",
       },
     ],
     courses: [
