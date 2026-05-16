@@ -18,6 +18,18 @@ export default function About() {
 
       <div className="about-body">
         <section className="about-section">
+          <h2>Motivasyon</h2>
+          <p>
+            Yapay zeka çağında bir kitabın değeri "sadece okumak" için evet azaldı — artık her şeyi
+            zaten on saniyede özetleyen modeller var. Ama iyi bir ders kitabının kurduğu çatı, yani
+            konuyu tecrübe ışığında damıtılmış bir hiyerarşi içinde sunması, bu çağda daha da
+            kritik hale geldi. Çünkü modelden doğru cevap almak için önce doğru soruları sorabilen
+            zihinsel bir çerçeve gerekli; bu çerçeveyi de klasik bir ders kitabından daha iyi veren
+            bir araç henüz yok.
+          </p>
+        </section>
+
+        <section className="about-section">
           <h2>Site ne anlatıyor?</h2>
           <p>
             Bu site, dünyanın ve Türkiye'nin önde gelen <strong>{UNI_COUNT}</strong> Bilgisayar
