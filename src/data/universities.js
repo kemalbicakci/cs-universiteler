@@ -430,7 +430,7 @@ export const universities = [
     color: "#991B1B",
     founded: 1956,
     description: "Türkiye'nin önde gelen teknik üniversitelerinden. CEng bölümü araştırma odaklı müfredatıyla tanınır.",
-    curriculumUrl: "https://catalog.metu.edu.tr/program.php?prog=571",
+    curriculumUrl: "https://ceng.metu.edu.tr/",
     region: "tr",
   },
   {
@@ -444,7 +444,7 @@ export const universities = [
     color: "#005AAA",
     founded: 1863,
     description: "Türkiye'nin en seçici üniversitelerinden. Bilgisayar Mühendisliği araştırma ve yayın çıktısı bakımından üst sıralarda.",
-    curriculumUrl: "https://bogazici.edu.tr/",
+    curriculumUrl: "https://cmpe.bogazici.edu.tr/",
     region: "tr",
   },
   {
@@ -598,7 +598,7 @@ export const universities = [
     color: "#1F2937",
     founded: 1946,
     description: "Türkiye'nin ilk üniversitesi sayılan kurumun Mühendislik Fakültesi bünyesinde Bilgisayar Mühendisliği.",
-    curriculumUrl: "https://www.ankara.edu.tr/",
+    curriculumUrl: "https://comp.eng.ankara.edu.tr/",
     region: "tr",
   },
   {
