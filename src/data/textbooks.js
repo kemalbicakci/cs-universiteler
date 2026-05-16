@@ -25,30 +25,37 @@ export const textbooks = [
       {
         name: "MIT",
         url: "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/syllabus/",
+        archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/syllabus/",
       },
       {
         name: "CMU",
         url: "https://www.cs.cmu.edu/~avrim/451f13/syllabus.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~avrim/451f13/syllabus.html",
       },
       {
         name: "Stanford",
         url: "https://web.stanford.edu/class/archive/cs/cs161/cs161.1204/resources.html",
+        archive: "https://web.archive.org/web/2/https://web.stanford.edu/class/archive/cs/cs161/cs161.1204/resources.html",
       },
       {
         name: "Bilkent",
         url: "http://cs.bilkent.edu.tr/~ozan.karsavuran/473/",
+        archive: "https://web.archive.org/web/2/http://cs.bilkent.edu.tr/~ozan.karsavuran/473/",
       },
       {
         name: "ODTÜ",
         url: "https://user.ceng.metu.edu.tr/~yazici/Courses/Courses/CEng567-Course.htm",
+        archive: "https://web.archive.org/web/2/https://user.ceng.metu.edu.tr/~yazici/Courses/Courses/CEng567-Course.htm",
       },
       {
         name: "Cambridge",
         url: "https://www.cl.cam.ac.uk/teaching/2425/Algorithm1/",
+        archive: "https://web.archive.org/web/2/https://www.cl.cam.ac.uk/teaching/2425/Algorithm1/",
       },
       {
         name: "ETH Zürich",
         url: "https://lec.inf.ethz.ch/DA/2018/",
+        archive: "https://web.archive.org/web/2/https://lec.inf.ethz.ch/DA/2018/",
       },
     ],
     courses: [
@@ -83,18 +90,22 @@ export const textbooks = [
       {
         name: "Bilkent",
         url: "https://www.cs.bilkent.edu.tr/~korpe/courses/cs342spring2025/index.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.bilkent.edu.tr/~korpe/courses/cs342spring2025/index.html",
       },
       {
         name: "Cambridge",
         url: "https://www.cl.cam.ac.uk/teaching/2223/L41/",
+        archive: "https://web.archive.org/web/2/https://www.cl.cam.ac.uk/teaching/2223/L41/",
       },
       {
         name: "Michigan",
         url: "https://web.eecs.umich.edu/~ryanph/jhu/cs318/fall22/index.html",
+        archive: "https://web.archive.org/web/2/https://web.eecs.umich.edu/~ryanph/jhu/cs318/fall22/index.html",
       },
       {
         name: "Cornell",
         url: "https://www.cs.cornell.edu/courses/cs4410/2011su/syllabus.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.cornell.edu/courses/cs4410/2011su/syllabus.html",
       },
     ],
     courses: [
@@ -126,14 +137,17 @@ export const textbooks = [
       {
         name: "CMU",
         url: "https://csapp.cs.cmu.edu/",
+        archive: "https://web.archive.org/web/2/https://csapp.cs.cmu.edu/",
       },
       {
         name: "Stanford",
         url: "https://web.stanford.edu/class/archive/cs/cs107/cs107.1186/faq.html",
+        archive: "https://web.archive.org/web/2/https://web.stanford.edu/class/archive/cs/cs107/cs107.1186/faq.html",
       },
       {
         name: "Princeton",
         url: "https://www.cs.princeton.edu/courses/archive/spr20/cos217/",
+        archive: "https://web.archive.org/web/2/https://www.cs.princeton.edu/courses/archive/spr20/cos217/",
       },
     ],
     courses: [
@@ -166,34 +180,42 @@ export const textbooks = [
       {
         name: "UC Berkeley",
         url: "https://inst.eecs.berkeley.edu/~cs188/fa24/",
+        archive: "https://web.archive.org/web/2/https://inst.eecs.berkeley.edu/~cs188/fa24/",
       },
       {
         name: "UT Austin",
         url: "https://www.cs.utexas.edu/~mooney/cs343/",
+        archive: "https://web.archive.org/web/2/https://www.cs.utexas.edu/~mooney/cs343/",
       },
       {
         name: "MIT",
         url: "https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/pages/readings/",
+        archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/pages/readings/",
       },
       {
         name: "Stanford",
         url: "https://ai.stanford.edu/~latombe/cs121/2011/schedule.htm",
+        archive: "https://web.archive.org/web/2/https://ai.stanford.edu/~latombe/cs121/2011/schedule.htm",
       },
       {
         name: "Ege",
         url: "https://ebp.ege.edu.tr/DereceProgramlari/Ders/2/4596/208245/729209/1",
+        archive: "https://web.archive.org/web/2/https://ebp.ege.edu.tr/DereceProgramlari/Ders/2/4596/208245/729209/1",
       },
       {
         name: "Washington",
         url: "https://courses.cs.washington.edu/courses/cse473/22wi/",
+        archive: "https://web.archive.org/web/2/https://courses.cs.washington.edu/courses/cse473/22wi/",
       },
       {
         name: "Bilkent",
         url: "http://www.cs.bilkent.edu.tr/~duygulu/Courses/CS461/index.html",
+        archive: "https://web.archive.org/web/2/http://www.cs.bilkent.edu.tr/~duygulu/Courses/CS461/index.html",
       },
       {
         name: "ODTÜ",
         url: "https://saksagan.ceng.metu.edu.tr/courses/secondprog/ceng561/syllabus/index.html",
+        archive: "https://web.archive.org/web/2/https://saksagan.ceng.metu.edu.tr/courses/secondprog/ceng561/syllabus/index.html",
       },
     ],
     courses: [
@@ -225,14 +247,17 @@ export const textbooks = [
       {
         name: "UC Berkeley",
         url: "https://math.berkeley.edu/~bernd/math55old.html",
+        archive: "https://web.archive.org/web/2/https://math.berkeley.edu/~bernd/math55old.html",
       },
       {
         name: "CMU",
         url: "https://www.cs.cmu.edu/afs/cs/academic/class/15251-f06/Site/Help/related-texts.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/afs/cs/academic/class/15251-f06/Site/Help/related-texts.html",
       },
       {
         name: "Çankaya",
         url: "https://math123.cankaya.edu.tr/",
+        archive: "https://web.archive.org/web/2/https://math123.cankaya.edu.tr/",
       },
     ],
     courses: [
@@ -266,26 +291,32 @@ export const textbooks = [
       {
         name: "MIT",
         url: "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/pages/related-resources/",
+        archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/pages/related-resources/",
       },
       {
         name: "CMU",
         url: "https://www.cs.cmu.edu/~prs/15-441-F16/syllabus.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~prs/15-441-F16/syllabus.html",
       },
       {
         name: "ODTÜ",
         url: "https://eonur.ceng.metu.edu.tr/wp-content/uploads/2024/10/CENG435-Syllabus-2024f.pdf",
+        archive: "https://web.archive.org/web/2/https://eonur.ceng.metu.edu.tr/wp-content/uploads/2024/10/CENG435-Syllabus-2024f.pdf",
       },
       {
         name: "ETH Zürich",
         url: "https://netsec.ethz.ch/courses/cn-2025/",
+        archive: "https://web.archive.org/web/2/https://netsec.ethz.ch/courses/cn-2025/",
       },
       {
         name: "Princeton",
         url: "https://www.cs.princeton.edu/courses/archive/spring19/cos461/",
+        archive: "https://web.archive.org/web/2/https://www.cs.princeton.edu/courses/archive/spring19/cos461/",
       },
       {
         name: "İTÜ",
         url: "https://web.itu.edu.tr/~ulugbayazit/ISE306.htm",
+        archive: "https://web.archive.org/web/2/https://web.itu.edu.tr/~ulugbayazit/ISE306.htm",
       },
     ],
     courses: [
@@ -316,6 +347,7 @@ export const textbooks = [
       {
         name: "MIT",
         url: "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/",
+        archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/",
       },
     ],
     courses: [
@@ -349,6 +381,7 @@ export const textbooks = [
       {
         name: "Princeton",
         url: "https://algs4.cs.princeton.edu/home/",
+        archive: "https://web.archive.org/web/2/https://algs4.cs.princeton.edu/home/",
       },
     ],
     courses: [
@@ -381,30 +414,37 @@ export const textbooks = [
       {
         name: "UC Berkeley",
         url: "https://inst.eecs.berkeley.edu/~cs61c/su21/resources/",
+        archive: "https://web.archive.org/web/2/https://inst.eecs.berkeley.edu/~cs61c/su21/resources/",
       },
       {
         name: "CMU",
         url: "https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture",
+        archive: "https://web.archive.org/web/2/https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture",
       },
       {
         name: "MIT",
         url: "https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/",
+        archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/",
       },
       {
         name: "Cornell",
         url: "https://www.cs.cornell.edu/courses/cs3410/2018fa/resources/",
+        archive: "https://web.archive.org/web/2/https://www.cs.cornell.edu/courses/cs3410/2018fa/resources/",
       },
       {
         name: "Bilkent",
         url: "http://www.cs.bilkent.edu.tr/~will/courses/CS224/",
+        archive: "https://web.archive.org/web/2/http://www.cs.bilkent.edu.tr/~will/courses/CS224/",
       },
       {
         name: "Cambridge",
         url: "https://www.cl.cam.ac.uk/teaching/2425/IntComArch/materials.html",
+        archive: "https://web.archive.org/web/2/https://www.cl.cam.ac.uk/teaching/2425/IntComArch/materials.html",
       },
       {
         name: "Michigan",
         url: "https://web.eecs.umich.edu/~brehob/schedule.html",
+        archive: "https://web.archive.org/web/2/https://web.eecs.umich.edu/~brehob/schedule.html",
       },
     ],
     courses: [
@@ -438,6 +478,7 @@ export const textbooks = [
       {
         name: "CMU",
         url: "https://www.cs.cmu.edu/~natassa/courses/15-721/readings.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~natassa/courses/15-721/readings.html",
       },
     ],
     courses: [
@@ -468,26 +509,32 @@ export const textbooks = [
       {
         name: "MIT",
         url: "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/syllabus/",
+        archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/syllabus/",
       },
       {
         name: "UC Berkeley",
         url: "https://people.eecs.berkeley.edu/~sseshia/172/",
+        archive: "https://web.archive.org/web/2/https://people.eecs.berkeley.edu/~sseshia/172/",
       },
       {
         name: "CMU",
         url: "https://www.cs.cmu.edu/~odonnell/15455-s17/",
+        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~odonnell/15455-s17/",
       },
       {
         name: "Princeton",
         url: "https://www.cs.princeton.edu/courses/archive/fall17/cos487/",
+        archive: "https://web.archive.org/web/2/https://www.cs.princeton.edu/courses/archive/fall17/cos487/",
       },
       {
         name: "ODTÜ",
         url: "https://user.ceng.metu.edu.tr/~polat/ceng565.html",
+        archive: "https://web.archive.org/web/2/https://user.ceng.metu.edu.tr/~polat/ceng565.html",
       },
       {
         name: "Toronto",
         url: "https://www.cs.toronto.edu/~ashe/463.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.toronto.edu/~ashe/463.html",
       },
     ],
     courses: [
@@ -520,14 +567,17 @@ export const textbooks = [
       {
         name: "Stanford",
         url: "https://web.stanford.edu/class/ee282/",
+        archive: "https://web.archive.org/web/2/https://web.stanford.edu/class/ee282/",
       },
       {
         name: "CMU",
         url: "https://www.cs.cmu.edu/~18742/syllabus.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~18742/syllabus.html",
       },
       {
         name: "UC Berkeley",
         url: "https://people.eecs.berkeley.edu/~randy/Courses/CS252.F95/CS252.Intro.html",
+        archive: "https://web.archive.org/web/2/https://people.eecs.berkeley.edu/~randy/Courses/CS252.F95/CS252.Intro.html",
       },
     ],
     courses: [
@@ -561,14 +611,17 @@ export const textbooks = [
       {
         name: "MIT",
         url: "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/",
+        archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/",
       },
       {
         name: "UC Berkeley",
         url: "https://people.eecs.berkeley.edu/~bh/sicp.html",
+        archive: "https://web.archive.org/web/2/https://people.eecs.berkeley.edu/~bh/sicp.html",
       },
       {
         name: "Michigan",
         url: "https://web.eecs.umich.edu/~weimerw/590/",
+        archive: "https://web.archive.org/web/2/https://web.eecs.umich.edu/~weimerw/590/",
       },
     ],
     courses: [
@@ -603,14 +656,17 @@ export const textbooks = [
       {
         name: "Stanford",
         url: "https://suif.stanford.edu/dragonbook/",
+        archive: "https://web.archive.org/web/2/https://suif.stanford.edu/dragonbook/",
       },
       {
         name: "CMU",
         url: "https://www.cs.cmu.edu/~trg/15-411/overview.htm",
+        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~trg/15-411/overview.htm",
       },
       {
         name: "MIT",
         url: "https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/pages/readings/",
+        archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/pages/readings/",
       },
     ],
     courses: [
@@ -643,14 +699,17 @@ export const textbooks = [
       {
         name: "Cornell",
         url: "https://www.cs.cornell.edu/courses/cs4820/2025sp/syllabus/",
+        archive: "https://web.archive.org/web/2/https://www.cs.cornell.edu/courses/cs4820/2025sp/syllabus/",
       },
       {
         name: "Princeton",
         url: "https://www.cs.princeton.edu/~wayne/kleinberg-tardos/",
+        archive: "https://web.archive.org/web/2/https://www.cs.princeton.edu/~wayne/kleinberg-tardos/",
       },
       {
         name: "Cambridge",
         url: "https://www.cl.cam.ac.uk/teaching/2425/Algorithm2/",
+        archive: "https://web.archive.org/web/2/https://www.cl.cam.ac.uk/teaching/2425/Algorithm2/",
       },
     ],
     courses: [
@@ -768,6 +827,7 @@ export const textbooks = [
       {
         name: "UC Berkeley",
         url: "https://cs170.org/",
+        archive: "https://web.archive.org/web/2/https://cs170.org/",
       },
     ],
     courses: [
@@ -801,18 +861,22 @@ export const textbooks = [
       {
         name: "CMU",
         url: "https://deeplearning.cs.cmu.edu/F21/index.html",
+        archive: "https://web.archive.org/web/2/https://deeplearning.cs.cmu.edu/F21/index.html",
       },
       {
         name: "Hacettepe",
         url: "https://web.cs.hacettepe.edu.tr/~erkut/cmp784.f21/index.html",
+        archive: "https://web.archive.org/web/2/https://web.cs.hacettepe.edu.tr/~erkut/cmp784.f21/index.html",
       },
       {
         name: "Bilkent",
         url: "http://www.cs.bilkent.edu.tr/~dibeklioglu/teaching/cs559/",
+        archive: "https://web.archive.org/web/2/http://www.cs.bilkent.edu.tr/~dibeklioglu/teaching/cs559/",
       },
       {
         name: "ODTÜ",
         url: "https://user.ceng.metu.edu.tr/~gcinbis/courses/Spring24/CENG796/index.html",
+        archive: "https://web.archive.org/web/2/https://user.ceng.metu.edu.tr/~gcinbis/courses/Spring24/CENG796/index.html",
       },
     ],
     courses: [
@@ -846,10 +910,12 @@ export const textbooks = [
       {
         name: "Wisconsin",
         url: "https://pages.cs.wisc.edu/~dbbook/",
+        archive: "https://web.archive.org/web/2/https://pages.cs.wisc.edu/~dbbook/",
       },
       {
         name: "CMU",
         url: "https://www.cs.cmu.edu/~natassa/courses/15-721/readings.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~natassa/courses/15-721/readings.html",
       },
     ],
     courses: [
@@ -882,22 +948,27 @@ export const textbooks = [
       {
         name: "Cornell",
         url: "https://www.cs.cornell.edu/courses/cs4410/2022fa/resources/",
+        archive: "https://web.archive.org/web/2/https://www.cs.cornell.edu/courses/cs4410/2022fa/resources/",
       },
       {
         name: "Waterloo",
         url: "https://student.cs.uwaterloo.ca/~cs350/S20/reading.shtml",
+        archive: "https://web.archive.org/web/2/https://student.cs.uwaterloo.ca/~cs350/S20/reading.shtml",
       },
       {
         name: "Wisconsin",
         url: "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+        archive: "https://web.archive.org/web/2/https://pages.cs.wisc.edu/~remzi/OSTEP/",
       },
       {
         name: "Washington",
         url: "https://courses.cs.washington.edu/courses/cse451/22au/overview.html",
+        archive: "https://web.archive.org/web/2/https://courses.cs.washington.edu/courses/cse451/22au/overview.html",
       },
       {
         name: "Michigan",
         url: "https://web.eecs.umich.edu/~ryanph/eecs582/fall23/",
+        archive: "https://web.archive.org/web/2/https://web.eecs.umich.edu/~ryanph/eecs582/fall23/",
       },
     ],
     courses: [
@@ -929,14 +1000,17 @@ export const textbooks = [
       {
         name: "UT Austin",
         url: "https://www.cs.utexas.edu/~witchel/372/syllabus.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.utexas.edu/~witchel/372/syllabus.html",
       },
       {
         name: "Bilkent",
         url: "http://www.cs.bilkent.edu.tr/~korpe/courses/cs342spring2018/references.html",
+        archive: "https://web.archive.org/web/2/http://www.cs.bilkent.edu.tr/~korpe/courses/cs342spring2018/references.html",
       },
       {
         name: "Princeton",
         url: "https://www.cs.princeton.edu/courses/archive/fall18/cos318/",
+        archive: "https://web.archive.org/web/2/https://www.cs.princeton.edu/courses/archive/fall18/cos318/",
       },
     ],
     courses: [
@@ -967,22 +1041,27 @@ export const textbooks = [
       {
         name: "Bilkent",
         url: "http://www.cs.bilkent.edu.tr/~saksoy/courses/cs551-Spring2019/index.html",
+        archive: "https://web.archive.org/web/2/http://www.cs.bilkent.edu.tr/~saksoy/courses/cs551-Spring2019/index.html",
       },
       {
         name: "Hacettepe",
         url: "https://web.cs.hacettepe.edu.tr/~erkut/ain311.f21/index.html",
+        archive: "https://web.archive.org/web/2/https://web.cs.hacettepe.edu.tr/~erkut/ain311.f21/index.html",
       },
       {
         name: "İTÜ",
         url: "https://web.itu.edu.tr/~cataltepe/patrecml_ms/index.html",
+        archive: "https://web.archive.org/web/2/https://web.itu.edu.tr/~cataltepe/patrecml_ms/index.html",
       },
       {
         name: "İYTE",
         url: "https://ceng.iyte.edu.tr/courses/ceng-463/",
+        archive: "https://web.archive.org/web/2/https://ceng.iyte.edu.tr/courses/ceng-463/",
       },
       {
         name: "Cambridge",
         url: "https://www.cl.cam.ac.uk/teaching/2425/MLBayInfer/",
+        archive: "https://web.archive.org/web/2/https://www.cl.cam.ac.uk/teaching/2425/MLBayInfer/",
       },
     ],
     courses: [
@@ -1015,10 +1094,12 @@ export const textbooks = [
       {
         name: "UCLA",
         url: "http://web.cs.ucla.edu/classes/spring17/cs130/syllabus.html",
+        archive: "https://web.archive.org/web/2/http://web.cs.ucla.edu/classes/spring17/cs130/syllabus.html",
       },
       {
         name: "CMU",
         url: "https://www.cs.cmu.edu/~ckaestne/15313/2015/",
+        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~ckaestne/15313/2015/",
       },
     ],
     courses: [
@@ -1077,14 +1158,17 @@ export const textbooks = [
       {
         name: "Stanford",
         url: "https://web.stanford.edu/class/archive/cs/cs107/cs107.1174/syllabus.html",
+        archive: "https://web.archive.org/web/2/https://web.stanford.edu/class/archive/cs/cs107/cs107.1174/syllabus.html",
       },
       {
         name: "Cambridge",
         url: "https://www.cl.cam.ac.uk/teaching/2425/ProgC/",
+        archive: "https://web.archive.org/web/2/https://www.cl.cam.ac.uk/teaching/2425/ProgC/",
       },
       {
         name: "Princeton",
         url: "https://www.cs.princeton.edu/~bwk/cbook.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.princeton.edu/~bwk/cbook.html",
       },
     ],
     courses: [
@@ -1120,14 +1204,17 @@ export const textbooks = [
       {
         name: "UC Berkeley",
         url: "https://www.stat.berkeley.edu/~songmei/Teaching/STAT154_Fall2021/index.html",
+        archive: "https://web.archive.org/web/2/https://www.stat.berkeley.edu/~songmei/Teaching/STAT154_Fall2021/index.html",
       },
       {
         name: "Stanford",
         url: "https://web.stanford.edu/~lmackey/stats202/",
+        archive: "https://web.archive.org/web/2/https://web.stanford.edu/~lmackey/stats202/",
       },
       {
         name: "Toronto",
         url: "http://www.cs.toronto.edu/~guerzhoy/310f19/",
+        archive: "https://web.archive.org/web/2/http://www.cs.toronto.edu/~guerzhoy/310f19/",
       },
     ],
     courses: [
@@ -1161,14 +1248,17 @@ export const textbooks = [
       {
         name: "Stanford",
         url: "https://web.stanford.edu/~hastie/ElemStatLearn/",
+        archive: "https://web.archive.org/web/2/https://web.stanford.edu/~hastie/ElemStatLearn/",
       },
       {
         name: "CMU",
         url: "http://www.cs.cmu.edu/~tom/702.html",
+        archive: "https://web.archive.org/web/2/http://www.cs.cmu.edu/~tom/702.html",
       },
       {
         name: "Toronto",
         url: "https://www.cs.toronto.edu/~cmaddis/courses/sta314_f21/",
+        archive: "https://web.archive.org/web/2/https://www.cs.toronto.edu/~cmaddis/courses/sta314_f21/",
       },
     ],
     courses: [
@@ -1201,10 +1291,12 @@ export const textbooks = [
       {
         name: "CMU",
         url: "http://www.cs.cmu.edu/~tom/10701_sp11/",
+        archive: "https://web.archive.org/web/2/http://www.cs.cmu.edu/~tom/10701_sp11/",
       },
       {
         name: "Hacettepe",
         url: "https://web.cs.hacettepe.edu.tr/~ilyas/Courses/CMP712/",
+        archive: "https://web.archive.org/web/2/https://web.cs.hacettepe.edu.tr/~ilyas/Courses/CMP712/",
       },
     ],
     courses: [
@@ -1263,14 +1355,17 @@ export const textbooks = [
       {
         name: "Stanford",
         url: "https://web.stanford.edu/class/cs234/CS234Spr2024/index.html",
+        archive: "https://web.archive.org/web/2/https://web.stanford.edu/class/cs234/CS234Spr2024/index.html",
       },
       {
         name: "CMU",
         url: "https://www.cs.cmu.edu/~rsalakhu/10703/",
+        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~rsalakhu/10703/",
       },
       {
         name: "Toronto",
         url: "http://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/",
+        archive: "https://web.archive.org/web/2/http://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/",
       },
     ],
     courses: [
@@ -1302,18 +1397,22 @@ export const textbooks = [
       {
         name: "CMU",
         url: "https://www.cs.cmu.edu/~mgormley/courses/10601-s24/syllabus.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~mgormley/courses/10601-s24/syllabus.html",
       },
       {
         name: "Stanford",
         url: "https://cs.stanford.edu/~ermon/cs228/index.html",
+        archive: "https://web.archive.org/web/2/https://cs.stanford.edu/~ermon/cs228/index.html",
       },
       {
         name: "Washington",
         url: "https://courses.cs.washington.edu/courses/cse446/24sp/textbooks/",
+        archive: "https://web.archive.org/web/2/https://courses.cs.washington.edu/courses/cse446/24sp/textbooks/",
       },
       {
         name: "Bilkent",
         url: "http://www.cs.bilkent.edu.tr/~dibeklioglu/teaching/cs559/",
+        archive: "https://web.archive.org/web/2/http://www.cs.bilkent.edu.tr/~dibeklioglu/teaching/cs559/",
       },
     ],
     courses: [
@@ -1346,10 +1445,12 @@ export const textbooks = [
       {
         name: "MIT",
         url: "https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/pages/syllabus/",
+        archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/pages/syllabus/",
       },
       {
         name: "Princeton",
         url: "https://www.cs.princeton.edu/courses/archive/fall25/cos418/",
+        archive: "https://web.archive.org/web/2/https://www.cs.princeton.edu/courses/archive/fall25/cos418/",
       },
     ],
     courses: [
@@ -1380,6 +1481,7 @@ export const textbooks = [
       {
         name: "Marmara",
         url: "https://cse-eng.marmara.edu.tr/dosya/eng/cse/documents/syllabus_tr/fall/v0/CSE4288.pdf",
+        archive: "https://web.archive.org/web/2/https://cse-eng.marmara.edu.tr/dosya/eng/cse/documents/syllabus_tr/fall/v0/CSE4288.pdf",
       },
     ],
     courses: [
@@ -1438,6 +1540,7 @@ export const textbooks = [
       {
         name: "UIUC",
         url: "https://jeffe.cs.illinois.edu/teaching/algorithms/",
+        archive: "https://web.archive.org/web/2/https://jeffe.cs.illinois.edu/teaching/algorithms/",
       },
     ],
     courses: [
@@ -1499,10 +1602,12 @@ export const textbooks = [
       {
         name: "Stanford",
         url: "https://web.stanford.edu/class/ee376a/reading.html",
+        archive: "https://web.archive.org/web/2/https://web.stanford.edu/class/ee376a/reading.html",
       },
       {
         name: "Cambridge",
         url: "https://www.cl.cam.ac.uk/teaching/1920/InfoTheory/",
+        archive: "https://web.archive.org/web/2/https://www.cl.cam.ac.uk/teaching/1920/InfoTheory/",
       },
     ],
     courses: [
@@ -1590,6 +1695,7 @@ export const textbooks = [
       {
         name: "CMU",
         url: "https://www.stat.cmu.edu/~larry/=stat705/",
+        archive: "https://web.archive.org/web/2/https://www.stat.cmu.edu/~larry/=stat705/",
       },
     ],
     courses: [
@@ -1621,30 +1727,37 @@ export const textbooks = [
       {
         name: "CMU",
         url: "http://16385.courses.cs.cmu.edu/spring2024/courseinfo",
+        archive: "https://web.archive.org/web/2/http://16385.courses.cs.cmu.edu/spring2024/courseinfo",
       },
       {
         name: "Washington",
         url: "https://courses.cs.washington.edu/courses/csep576/13sp/",
+        archive: "https://web.archive.org/web/2/https://courses.cs.washington.edu/courses/csep576/13sp/",
       },
       {
         name: "Bilkent",
         url: "https://www.cs.bilkent.edu.tr/~dibeklioglu/teaching/cs554/",
+        archive: "https://web.archive.org/web/2/https://www.cs.bilkent.edu.tr/~dibeklioglu/teaching/cs554/",
       },
       {
         name: "ODTÜ",
         url: "https://users.metu.edu.tr/alatan/Courses/rvoutline.html",
+        archive: "https://web.archive.org/web/2/https://users.metu.edu.tr/alatan/Courses/rvoutline.html",
       },
       {
         name: "Hacettepe",
         url: "https://web.cs.hacettepe.edu.tr/~nazli/courses/bbm416/bbm416.html",
+        archive: "https://web.archive.org/web/2/https://web.cs.hacettepe.edu.tr/~nazli/courses/bbm416/bbm416.html",
       },
       {
         name: "Michigan",
         url: "https://web.eecs.umich.edu/~justincj/teaching/eecs442/schedule.html",
+        archive: "https://web.archive.org/web/2/https://web.eecs.umich.edu/~justincj/teaching/eecs442/schedule.html",
       },
       {
         name: "Toronto",
         url: "http://www.cs.toronto.edu/~kyros/courses/320/text.2018s.html",
+        archive: "https://web.archive.org/web/2/http://www.cs.toronto.edu/~kyros/courses/320/text.2018s.html",
       },
     ],
     courses: [
@@ -1676,14 +1789,17 @@ export const textbooks = [
       {
         name: "CMU",
         url: "https://www.cs.cmu.edu/~rjsimmon/15312-s14/",
+        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~rjsimmon/15312-s14/",
       },
       {
         name: "Cornell",
         url: "https://www.cs.cornell.edu/courses/cs6110/2025sp/",
+        archive: "https://web.archive.org/web/2/https://www.cs.cornell.edu/courses/cs6110/2025sp/",
       },
       {
         name: "Cambridge",
         url: "https://www.cl.cam.ac.uk/teaching/1415/L28/materials.html",
+        archive: "https://web.archive.org/web/2/https://www.cl.cam.ac.uk/teaching/1415/L28/materials.html",
       },
     ],
     courses: [
@@ -1716,22 +1832,27 @@ export const textbooks = [
       {
         name: "CMU",
         url: "http://16385.courses.cs.cmu.edu/spring2024/lectures",
+        archive: "https://web.archive.org/web/2/http://16385.courses.cs.cmu.edu/spring2024/lectures",
       },
       {
         name: "Oxford",
         url: "https://www.robots.ox.ac.uk/~vgg/hzbook/",
+        archive: "https://web.archive.org/web/2/https://www.robots.ox.ac.uk/~vgg/hzbook/",
       },
       {
         name: "ETH Zürich",
         url: "https://cvg.ethz.ch/lectures/3D-vision/assets/class04eth24.pdf",
+        archive: "https://web.archive.org/web/2/https://cvg.ethz.ch/lectures/3D-vision/assets/class04eth24.pdf",
       },
       {
         name: "Washington",
         url: "https://homes.cs.washington.edu/~seitz/course/590SS/readings.htm",
+        archive: "https://web.archive.org/web/2/https://homes.cs.washington.edu/~seitz/course/590SS/readings.htm",
       },
       {
         name: "Stanford",
         url: "https://web.stanford.edu/class/cs231a/",
+        archive: "https://web.archive.org/web/2/https://web.stanford.edu/class/cs231a/",
       },
     ],
     courses: [
@@ -1763,6 +1884,7 @@ export const textbooks = [
       {
         name: "MIT",
         url: "https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/pages/syllabus/",
+        archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/pages/syllabus/",
       },
     ],
     courses: [
@@ -1795,18 +1917,22 @@ export const textbooks = [
       {
         name: "Caltech",
         url: "https://www.preskill.caltech.edu/ph229/",
+        archive: "https://web.archive.org/web/2/https://www.preskill.caltech.edu/ph229/",
       },
       {
         name: "MIT",
         url: "https://ocw.mit.edu/courses/mas-865j-quantum-information-science-spring-2006/pages/syllabus/",
+        archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/mas-865j-quantum-information-science-spring-2006/pages/syllabus/",
       },
       {
         name: "Michigan",
         url: "http://vlsicad.eecs.umich.edu/Quantum/EECS598/",
+        archive: "https://web.archive.org/web/2/http://vlsicad.eecs.umich.edu/Quantum/EECS598/",
       },
       {
         name: "Cambridge",
         url: "https://www.cl.cam.ac.uk/teaching/2526/QuantComp/",
+        archive: "https://web.archive.org/web/2/https://www.cl.cam.ac.uk/teaching/2526/QuantComp/",
       },
     ],
     courses: [
@@ -1894,6 +2020,7 @@ export const textbooks = [
       {
         name: "Hacettepe",
         url: "https://web.cs.hacettepe.edu.tr/~maydos/Docs/crypto/ch14.pdf",
+        archive: "https://web.archive.org/web/2/https://web.cs.hacettepe.edu.tr/~maydos/Docs/crypto/ch14.pdf",
       },
     ],
     courses: [
@@ -1927,18 +2054,22 @@ export const textbooks = [
       {
         name: "MIT",
         url: "https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/pages/syllabus/",
+        archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/pages/syllabus/",
       },
       {
         name: "Cornell",
         url: "https://www.cs.cornell.edu/~srm/fcg4/",
+        archive: "https://web.archive.org/web/2/https://www.cs.cornell.edu/~srm/fcg4/",
       },
       {
         name: "CMU",
         url: "https://15462.courses.cs.cmu.edu/fall2022/courseinfo",
+        archive: "https://web.archive.org/web/2/https://15462.courses.cs.cmu.edu/fall2022/courseinfo",
       },
       {
         name: "ODTÜ",
         url: "https://saksagan.ceng.metu.edu.tr/courses/ceng477/files/477_syllabus_2022.html",
+        archive: "https://web.archive.org/web/2/https://saksagan.ceng.metu.edu.tr/courses/ceng477/files/477_syllabus_2022.html",
       },
     ],
     courses: [
@@ -1999,6 +2130,7 @@ export const textbooks = [
       {
         name: "Cambridge",
         url: "https://www.cl.cam.ac.uk/teaching/2021/SWSecEng/",
+        archive: "https://web.archive.org/web/2/https://www.cl.cam.ac.uk/teaching/2021/SWSecEng/",
       },
     ],
     courses: [
@@ -2088,34 +2220,42 @@ export const textbooks = [
       {
         name: "MIT",
         url: "https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/pages/syllabus/",
+        archive: "https://web.archive.org/web/2/https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/pages/syllabus/",
       },
       {
         name: "UC Berkeley",
         url: "https://people.eecs.berkeley.edu/~sylvia/cs268-2019/syllabus.html",
+        archive: "https://web.archive.org/web/2/https://people.eecs.berkeley.edu/~sylvia/cs268-2019/syllabus.html",
       },
       {
         name: "CMU",
         url: "https://www.cs.cmu.edu/~prs/15-441-F14/syllabus.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.cmu.edu/~prs/15-441-F14/syllabus.html",
       },
       {
         name: "Princeton",
         url: "https://www.cs.princeton.edu/courses/archive/spring18/cos463/syllabus.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.princeton.edu/courses/archive/spring18/cos463/syllabus.html",
       },
       {
         name: "Cambridge",
         url: "https://www.cl.cam.ac.uk/teaching/2425/CompNet/materials.html",
+        archive: "https://web.archive.org/web/2/https://www.cl.cam.ac.uk/teaching/2425/CompNet/materials.html",
       },
       {
         name: "Bilkent",
         url: "http://www.cs.bilkent.edu.tr/~korpe/courses/cs421fall2011/syllabus.html",
+        archive: "https://web.archive.org/web/2/http://www.cs.bilkent.edu.tr/~korpe/courses/cs421fall2011/syllabus.html",
       },
       {
         name: "ODTÜ",
         url: "https://eonur.ceng.metu.edu.tr/wp-content/uploads/2024/10/CENG435-Syllabus-2024f.pdf",
+        archive: "https://web.archive.org/web/2/https://eonur.ceng.metu.edu.tr/wp-content/uploads/2024/10/CENG435-Syllabus-2024f.pdf",
       },
       {
         name: "Hacettepe",
         url: "https://web.cs.hacettepe.edu.tr/~abc/teaching/bbm451/slides/Chapter4_4.pdf",
+        archive: "https://web.archive.org/web/2/https://web.cs.hacettepe.edu.tr/~abc/teaching/bbm451/slides/Chapter4_4.pdf",
       },
     ],
     courses: [
@@ -2148,10 +2288,12 @@ export const textbooks = [
       {
         name: "Cambridge",
         url: "https://www.cl.cam.ac.uk/teaching/2425/ConcDisSys/",
+        archive: "https://web.archive.org/web/2/https://www.cl.cam.ac.uk/teaching/2425/ConcDisSys/",
       },
       {
         name: "Cornell",
         url: "https://www.cs.cornell.edu/courses/cs5412/2021sp/Textbook.html",
+        archive: "https://web.archive.org/web/2/https://www.cs.cornell.edu/courses/cs5412/2021sp/Textbook.html",
       },
     ],
     courses: [

@@ -694,6 +694,45 @@ button { cursor: pointer; font-family: inherit; }
 .book-evidence-summary::-webkit-details-marker { display: none; }
 .book-evidence[open] .book-evidence-summary { background: #d3eddc; }
 
+.evidence-pill {
+  display: inline-flex;
+  align-items: stretch;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  overflow: hidden;
+  background: var(--bg);
+  transition: border-color 0.15s;
+}
+.evidence-pill:hover { border-color: var(--primary); }
+.evidence-pill-link {
+  font-size: 0.72rem;
+  padding: 2px 8px;
+  color: var(--primary);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  transition: background 0.15s, color 0.15s;
+}
+.evidence-pill-link:hover {
+  background: var(--primary);
+  color: #fff;
+}
+.evidence-archive-link {
+  font-size: 0.72rem;
+  padding: 2px 6px 2px 4px;
+  border-left: 1px solid var(--border);
+  color: #4a5568;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  transition: background 0.15s, opacity 0.15s;
+  opacity: 0.65;
+}
+.evidence-archive-link:hover {
+  background: #f0f4f8;
+  opacity: 1;
+}
+
 .uni-detail-source-card {
   background: white;
   border: 1px solid var(--border);

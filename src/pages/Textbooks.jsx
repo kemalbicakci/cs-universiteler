@@ -194,37 +194,27 @@ export default function Textbooks() {
                       <div style={{ marginTop: 10, display: 'flex', gap: 6, flexWrap: 'wrap' }}>
                         {book.usedAt.map(u => (
                           u.url ? (
-                            <a
-                              key={u.name}
-                              href={u.url}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{
-                                fontSize: '0.72rem',
-                                padding: '2px 8px',
-                                background: 'var(--bg)',
-                                border: '1px solid var(--border)',
-                                borderRadius: 20,
-                                color: 'var(--primary)',
-                                textDecoration: 'none',
-                                display: 'inline-flex',
-                                alignItems: 'center',
-                                gap: 3,
-                                transition: 'background 0.15s, border-color 0.15s',
-                              }}
-                              onMouseEnter={e => {
-                                e.currentTarget.style.background = 'var(--primary)'
-                                e.currentTarget.style.color = '#fff'
-                                e.currentTarget.style.borderColor = 'var(--primary)'
-                              }}
-                              onMouseLeave={e => {
-                                e.currentTarget.style.background = 'var(--bg)'
-                                e.currentTarget.style.color = 'var(--primary)'
-                                e.currentTarget.style.borderColor = 'var(--border)'
-                              }}
-                            >
-                              {u.name} ↗
-                            </a>
+                            <span key={u.name} className="evidence-pill">
+                              <a
+                                href={u.url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="evidence-pill-link"
+                              >
+                                {u.name} ↗
+                              </a>
+                              {u.archive && (
+                                <a
+                                  href={u.archive}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  className="evidence-archive-link"
+                                  title="Wayback Machine snapshot — bağlantı bozulduğunda kullanın"
+                                >
+                                  📦
+                                </a>
+                              )}
+                            </span>
                           ) : (
                             <span
                               key={u.name}
