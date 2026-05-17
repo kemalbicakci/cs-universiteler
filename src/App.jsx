@@ -38,6 +38,16 @@ export default function App() {
               </a>
               {' '}adresine yazın.
             </p>
+            <p className="footer-sub">
+              Hazırlayan:{' '}
+              <a href="https://www.kemalbicakci.com" target="_blank" rel="noopener noreferrer" className="footer-mail">
+                Kemal Bıçakçı
+              </a>
+              {' '}· Kaynak kodu:{' '}
+              <a href="https://github.com/kemalbicakci/cs-universiteler" target="_blank" rel="noopener noreferrer" className="footer-mail">
+                github.com/kemalbicakci/cs-universiteler
+              </a>
+            </p>
           </div>
         </footer>
       </div>
