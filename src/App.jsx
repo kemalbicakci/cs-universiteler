@@ -11,14 +11,6 @@ export default function App() {
     <HashRouter>
       <div className="app">
         <Navbar />
-        <div className="site-disclaimer" role="note">
-          <div className="site-disclaimer-inner">
-            <span className="site-disclaimer-icon" aria-hidden="true">ℹ️</span>
-            <span>
-              <strong>Bu site bağımsız bir çalışmadır.</strong> Her üniversite kartında resmi bölüm sayfasına bağlantı bulursunuz. Ders kitabı listesinde bir üniversite ancak ilgili kitap o bölümün açık ders programında <em>zorunlu / birincil ders kitabı olarak</em> belirtilmişse görünür — "recommended" veya "supplementary" değinmeler kabul edilmez. Her kanıt linkinin yanındaki <strong>📦</strong> ikonu, sayfa ileride taşınır veya kaldırılırsa diye Wayback Machine snapshot'ına gider. Hem ders kitapları hem üniversiteler, doğrulanmış kanıt sayısına göre sıralanır. <strong>Güncelleme / katkı / hata bildirimi için:</strong> <a href="mailto:bicakcikemal@gmail.com?subject=cs-universiteler%20katk%C4%B1" className="site-disclaimer-mail">bicakcikemal@gmail.com</a>
-            </span>
-          </div>
-        </div>
         <main className="main-content">
           <Routes>
             <Route path="/" element={<Home />} />
