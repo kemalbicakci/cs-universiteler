@@ -56,32 +56,6 @@ export default function About() {
             olmalıdır.
           </blockquote>
           <p>
-            Aşağıdakiler kabul edilir:
-          </p>
-          <ul>
-            <li>"Textbook: <em>Introduction to Algorithms</em> by Cormen et al."</li>
-            <li>"Required textbook: …"</li>
-            <li>"Ders kitabı: …"</li>
-            <li>"Primary textbook: …"</li>
-          </ul>
-          <p>
-            Aşağıdakiler <strong>kabul edilmez</strong> (bu, sitemizin önceki bir yorumundan
-            farklıdır — bir kullanıcı katkısıyla kuralı sıkılaştırdık):
-          </p>
-          <ul>
-            <li>"Recommended reading" / "Suggested reading" / "Optional"</li>
-            <li>"Supplementary readings" / "Reference book"</li>
-            <li>"Background reading" / "Further reading"</li>
-            <li>Müfredat genel kategorisi (örn. "Algoritmalar dersi var" → CLRS kullanıldığı anlamına gelmez)</li>
-            <li>Akademisyenin kişisel CV'sinde geçen bir referans</li>
-            <li>Üçüncü taraf sayfalar (Goodreads, Amazon, Wikipedia)</li>
-            <li>Login gerektiren / kamuya kapalı LMS içerikleri</li>
-          </ul>
-          <p>
-            Niyet: bir programın o kitabı <em>üstüne kurduğu</em> dersleri yakalamak; "okumak
-            isteyenler için ek kaynak" tarzı yumuşak değinmeleri değil.
-          </p>
-          <p>
             Her kanıt linki, tespit anında ulaşılabilir olduğu doğrulandıktan sonra eklenmiştir.
             Bağlantılar zaman içinde taşınabilir veya silinebilir; bu nedenle her linkin yanında bir{' '}
             <strong>📦 Wayback Machine yedeği</strong> vardır.
