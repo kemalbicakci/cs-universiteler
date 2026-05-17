@@ -33,7 +33,7 @@ export default function App() {
             <p className="footer-sub">
               Hazırlayan:{' '}
               <a href="https://www.kemalbicakci.com" target="_blank" rel="noopener noreferrer" className="footer-mail">
-                Kemal Bıçakçı
+                Kemal Bıçakcı
               </a>
               {' '}· Kaynak kodu:{' '}
               <a href="https://github.com/kemalbicakci/cs-universiteler" target="_blank" rel="noopener noreferrer" className="footer-mail">
